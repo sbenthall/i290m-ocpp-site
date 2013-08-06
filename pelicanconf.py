@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Sebastian Benthall'
 SITENAME = u'i290M Open Collaboration and Peer Production'
-SITEURL = 'courses.ischool.berkeley.edu/i290m-ocpp/site'
+SITEURL = ''
 
 #FIX
 TIMEZONE = 'America/Los_Angeles'
