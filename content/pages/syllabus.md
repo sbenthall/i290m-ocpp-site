@@ -1,15 +1,18 @@
 Title: Syllabus
 Slug: syllabus
 
-## Recommended
-Practical OSS Exploration: How to be Productively Lost, the Open Source Way http://teachingopensource.org/index.php/Practical_OSS_Exploration
 
+**8/30  No class**
 
-**1\. Collective Action, Incentives, and Performance Evaluation**
+**9/3   Course overview LAB 1**
+
+No readings.
+
+**9/6   Collective Action, Incentives, and Performance Evaluation - Thomas**
 
 Required :
 
-- Ostrom, E. Governing the Commons: The Evolution of Institutions for Collective Action (Political Economy of Institutions and Decisions) (Cambridge University Press, 1990) (specific chapters to be selected)
+- Benkler, Penguin and Leviathan
 - Gulley, N. & Lakhani, K. R. The determinants of individual performance and collective value in Private-Collective software innovation. Social Science Research Network Working Paper Series (2010). URL http://ssrn.com/abstract=1550352.
 - Pickard, G. et al. Time-Critical social mobilization. Science 334, 509-512 (2011). URL http://dx.doi.org/10.1126/science.1205869 (preprint available at http://arxiv.org/abs/1008.3172)
 
@@ -18,7 +21,9 @@ Optional :
 - Hess, C. & Ostrom, E. Ideas, Artifacts, and Facilities: Information as a Common-Pool Resource. Law and Contemporary Problems 111-146 (2003).
 - Cooper, S. et al. Predicting protein structures with a multiplayer online game. Nature 466, 756-760 (2010).
 
-**2\. Technical Infrastructure and Community Etiquette**
+**9/10 Github and Pull Requests LAB 2**
+
+**9/13 Technical Infrastructure and Community Etiquette - Seb**
 
 Required: 
 
@@ -26,9 +31,11 @@ Required:
 http://producingoss.com/en/technical-infrastructure.html
 - Raymond, E. “How to ask questions the smart way” http://www.catb.org/esr/faqs/smart-questions.html
 
+**9/17 Data exploration LAB 3**
+
 *ASSIGNMENT 1: Hand in links to opening conversations with the open project.  Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.*
 
-**3\. Social Networks, Human Timing, Triggering Dynamics, and Emotions**
+**9/20 Social Networks, Human Timing, Triggering Dynamics, and Emotions - Thomas**
 
 Required :
 
@@ -41,7 +48,9 @@ Optional :
 - Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). URL http://dx.doi.org/10.1140/epjb/e2010-00279-x. 
 - Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). 
 
-**4\. History of open collaboration and the Web**
+**9/24 IRC Field Trip - LAB 4**
+
+**9/27 History of open collaboration and the Web - Seb**
 
 Required:
 
@@ -56,8 +65,9 @@ Optional :
 - Levy, S. Hackers: Heroes of the Computer Revolution (O'Reilly, 2010), 3rd edn. (excerpts)
 - Glass, R. L. The sociology of open source: Of cults and cultures. IEEE Software 17, 104-105 (2000). URL http://dx.doi.org/10.1109/ms.2000.10027.
 
+**10/1  (Class meet in IRC channel) LAB 5**
 
-**5\. Game Theory and The Evolution of Cooperation**
+**10/4 Game Theory and The Evolution of Cooperation - Thomas**
 
 Required :
 
@@ -68,7 +78,9 @@ Optional :
 
 - Helbing, D. & Yu, W. The outbreak of cooperation among success-driven individuals under noisy conditions. Proceedings of the National Academy of Sciences 106, 3680-3685 (2009).
 
-**6\.  Project Governance**
+**10/8  (Class meet in IRC channel) LAB 6**
+
+**10/11  Project Governance - Seb**
 
 Required :
 
@@ -81,9 +93,11 @@ Optional :
 
 - Shah, S. K. Motivation, governance, and the viability of hybrid forms in open source software development. Manage. Sci. 52, 1000-1014 (2006). 
 
+**10/15  (Class meet in IRC channel) LAB 7**
+
 *ASSIGNMENT 2: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Do they generalize to your experience? Or not? How?*
 
-**7\. Social Networks, Cooperation, and Performance**
+**10/18 Social Networks, Cooperation, and Performance - Thomas**
 
 Required :
 
@@ -97,8 +111,9 @@ Optional :
 - Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005). URL http://dx.doi.org/10.1103/physreve.72.056118.
 - Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012).
 
+**10/22  (Class meets in IRC channel) LAB 8**
 
-**8\.  Business Models**
+**10/25  Business Models - Seb**
 
 Business models:
 
@@ -108,7 +123,9 @@ Business models:
 
 *ASSIGNMENT 3: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Reflect on your place in the collaborative network.  How does your participation contribute to your personal goals? Your identity? Your plans?*
 
-**9\. Designing Organizations for Productive Bursts**
+**10/29  (Class meets in IRC channel) LAB 9**
+
+**11/1 Designing Organizations for Productive Bursts - Thomas**
 
 Required :
 
@@ -121,13 +138,17 @@ Optional :
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002).
 - Maillart et al.,  Superlinear Productivity in Open Source Software
 
-**10\.   International collaboration / Practicum Updates**
+**11/5  (Class meets in IRC channel) LAB 10**
+
+**11/8   International collaboration / Practicum Updates - Seb**
 
 Readings:
 
 - Takhteyev, Y.Coding Places (excerpts)
 
-**11\. Licenses, Economics and Management of Modularity**
+**11/12  (Class meets in IRC channel) LAB 11**
+
+**11/15  Licenses, Economics and Management of Modularity - Thomas**
 
 Required :
 
@@ -140,14 +161,18 @@ Optional :
 - Maillart, T., Sornette, D., Spaeth, S. & von Krogh, G. Empirical tests of zipf's law mechanism in open source linux distribution. Physical Review Letters 101, 218701+ (2008).
 - Simon, H. The architecture of complexity. Proceeding of American Philosophy Society 106, 467-482 (1962).
 
-**12\.   Open Collaboration and Education**
+**11/19  (Class meets in IRC channel) LAB 12**
+
+**11/22   Open Collaboration and Education - Seb**
 
 Readings:
 
 - Explore POSSE 2013-06 Workshop Wiki http://www.foss2serve.org/index.php/POSSE_2013-06
 - Practical OSS Exploration. http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605#Why_Traditional_Student_Projects_Are_Ineffective
 
-**13\. Guest Lecture**
+**11/26  (Class meets in IRC channel) LAB 13**
+
+**11/29 Guest Lecture**
 
 **14\. RRR - Dead week**
 
@@ -162,4 +187,9 @@ https://wiki.mozilla.org/Badges
 http://www.mywot.com/wiki/Main_Page
 
 
+
+
+
+
+Practical OSS Exploration: How to be Productively Lost, the Open Source Way http://teachingopensource.org/index.php/Practical_OSS_Exploration
 
