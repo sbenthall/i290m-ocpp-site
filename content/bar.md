@@ -1,8 +1,0 @@
-Title: Another blog post
-Date: 2010-12-03 10:20
-Category: testg
-Slug: my-super-post
-Author: Seb
-Summary: A summary
-
-This is the content of my super PAGE.
