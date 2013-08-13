@@ -12,9 +12,9 @@ No readings.
 
 Required :
 
-- Benkler, Y. The Penguin and the Leviathan: How Cooperation Triumphs over Self-Interest (Crown Business, 2011), 1 edn. (Video : http://www.youtube.com/watch?v=dPbE3WieoUo)
-- Gulley, N. & Lakhani, K. R. The determinants of individual performance and collective value in Private-Collective software innovation. Social Science Research Network Working Paper Series (2010). URL http://ssrn.com/abstract=1550352.
-- Pickard, G. et al. Time-Critical social mobilization. Science 334, 509-512 (2011). URL http://dx.doi.org/10.1126/science.1205869 (preprint available at http://arxiv.org/abs/1008.3172)
+- Benkler, Y. The Penguin and the Leviathan: How Cooperation Triumphs over Self-Interest (Crown Business, 2011), 1 edn. [video](http://www.youtube.com/watch?v=dPbE3WieoUo)
+- Gulley, N. & Lakhani, K. R. The determinants of individual performance and collective value in Private-Collective software innovation. Social Science Research Network Working Paper Series (2010). [article](http://ssrn.com/abstract=1550352).
+- Pickard, G. et al. Time-Critical social mobilization. Science 334, 509-512 (2011). [preprint](http://arxiv.org/abs/1008.3172)
 
 Optional :
 - Hess, C. & Ostrom, E. Ideas, Artifacts, and Facilities: Information as a Common-Pool Resource. Law and Contemporary Problems 111-146 (2003).
@@ -28,8 +28,8 @@ Optional :
 Required: 
 
 - Fogel, K. “Technical Infrastructure” Producing Open Source Software
-http://producingoss.com/en/technical-infrastructure.html
-- Raymond, E. “How to ask questions the smart way” http://www.catb.org/esr/faqs/smart-questions.html
+[link](http://producingoss.com/en/technical-infrastructure.html)
+- Raymond, E. “How to ask questions the smart way” [link](http://www.catb.org/esr/faqs/smart-questions.html)
 
 **9/17 Data exploration LAB 3**
 
@@ -39,15 +39,15 @@ http://producingoss.com/en/technical-infrastructure.html
 
 Required :
 
-- Leskovec, J., Huttenlocher, D. & Kleinberg, J. Predicting positive and negative links in online social networks. In Proceedings of the 19th international conference on World wide web, WWW '10, 641-650 (ACM, New York, NY, USA, 2010). http://arxiv.org/abs/1003.2429
-- Maillart, T., Sornette, D., Frei, S., Duebendorfer, T. & Saichev, A. Quantification of deviations from rationality with heavy tails in human dynamics. Physical Review E 83, 056101+ (2011). URL http://arxiv.org/abs/1007.4104 (preprint)
-- Crane, R. & Sornette, D. Robust dynamic classes revealed by measuring the response function of a social system. Proceedings of the National Academy of Sciences 105, 15649-15653 (2008). URL http://arxiv.org/abs/0803.2189 (preprint)
+- Leskovec, J., Huttenlocher, D. & Kleinberg, J. Predicting positive and negative links in online social networks. In Proceedings of the 19th international conference on World wide web, WWW '10, 641-650 (ACM, New York, NY, USA, 2010). [article](http://arxiv.org/abs/1003.2429)
+- Maillart, T., Sornette, D., Frei, S., Duebendorfer, T. & Saichev, A. Quantification of deviations from rationality with heavy tails in human dynamics. Physical Review E 83, 056101+ (2011). [preprint](http://arxiv.org/abs/1007.4104)
+- Crane, R. & Sornette, D. Robust dynamic classes revealed by measuring the response function of a social system. Proceedings of the National Academy of Sciences 105, 15649-15653 (2008). [preprint](http://arxiv.org/abs/0803.2189)
 
 Optional :
 
-- Danescu-Niculescu-Mizil, C., Sudhof, M., Jurafsky, D., Leskovec, J. & Potts, C. A computational approach to politeness with application to social factors. In Proceedings of ACL (2013). [URL](http://www.mpi-sws.org/~cristian/Politeness.html)
-- Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). URL http://dx.doi.org/10.1140/epjb/e2010-00279-x. 
-- Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). 
+- Danescu-Niculescu-Mizil, C., Sudhof, M., Jurafsky, D., Leskovec, J. & Potts, C. A computational approach to politeness with application to social factors. In Proceedings of ACL (2013). [link](http://www.mpi-sws.org/~cristian/Politeness.html)
+- Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). [article](http://link.springer.com/article/10.1140/epjb/e2010-00279-x)
+- Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). [Article](http://sociology.stanford.edu/people/mgranovetter/.../granstrengthweakties.pdf‎)
 
 **9/24 IRC Field Trip - LAB 4**
 
@@ -55,16 +55,17 @@ Optional :
 
 Required:
 
-- GNU Philosophy; http://www.gnu.org/philosophy/
-- ESR.A Brief History of Hackerdom. http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/
-- “Brief history of open source” http://www.netc.org/openoptions/background/history.html
+- GNU Philosophy. [link](http://www.gnu.org/philosophy/)
+- ESR.A Brief History of Hackerdom. [link](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/)
+- “Brief history of open source” [link](http://www.netc.org/openoptions/background/history.html)
 - Froomkin, A. Michael. “Habermas@Discourse. Net: Toward a Critical Theory of Cyberspace.” Harvard Law Review 116, no. 3 (January 2003): 749–873. Read only pp. 782-795.
+- Belenzon, S. & Schankerman, M. A. Motivation and sorting in open source software innovation. Social Science Research Network Working Paper Series (2009). [working paper](http://ssrn.com/abstract=1401776).
 
 Optional :
 
 - Raymond, E. The cathedral and the bazaar. Knowledge, Technology & Policy 12, 23-49 (1999).
-- Levy, S. Hackers: Heroes of the Computer Revolution (O'Reilly, 2010), 3rd edn. (excerpts)
-- Glass, R. L. The sociology of open source: Of cults and cultures. IEEE Software 17, 104-105 (2000). URL http://dx.doi.org/10.1109/ms.2000.10027.
+- Levy, S. Hackers: Heroes of the Computer Revolution (O'Reilly, 2010), 3rd edn.
+- Glass, R. L. The sociology of open source: Of cults and cultures. IEEE Software 17, 104-105 (2000). [article](http://dx.doi.org/10.1109/ms.2000.10027).
 
 **10/1  (Class meet in IRC channel) LAB 5**
 
@@ -87,8 +88,8 @@ Required :
 
 - Freeman, J. The "Tyranny of Structurelessness"
 - Fogel, K. “Social and Political Infrastructure”
-http://producingoss.com/en/social-infrastructure.html
-- Wikipedia Governance - http://p2pfoundation.net/Wikipedia_-_Governance
+[link](http://producingoss.com/en/social-infrastructure.html)
+- Wikipedia Governance - [link](http://p2pfoundation.net/Wikipedia_-_Governance)
 
 Optional :
 
@@ -181,11 +182,11 @@ Readings:
 
 Examples of Open Source Projects
 
-http://publiclab.org/
-http://www.openstreetmap.org/
-http://wikipedia.org
-https://wiki.mozilla.org/Badges
-http://www.mywot.com/wiki/Main_Page
+[http://publiclab.org/](http://publiclab.org/)
+[http://www.openstreetmap.org/](http://www.openstreetmap.org/)
+[http://wikipedia.org](http://wikipedia.org)
+[https://wiki.mozilla.org/Badges](https://wiki.mozilla.org/Badges)
+[http://www.mywot.com/wiki/Main_Page](http://www.mywot.com/wiki/Main_Page)
 
 
 
