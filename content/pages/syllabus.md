@@ -12,14 +12,14 @@ No readings.
 
 Required :
 
-- Benkler, Penguin and Leviathan
+- Benkler, Y. The Penguin and the Leviathan: How Cooperation Triumphs over Self-Interest (Crown Business, 2011), 1 edn. (Video : http://www.youtube.com/watch?v=dPbE3WieoUo)
 - Gulley, N. & Lakhani, K. R. The determinants of individual performance and collective value in Private-Collective software innovation. Social Science Research Network Working Paper Series (2010). URL http://ssrn.com/abstract=1550352.
 - Pickard, G. et al. Time-Critical social mobilization. Science 334, 509-512 (2011). URL http://dx.doi.org/10.1126/science.1205869 (preprint available at http://arxiv.org/abs/1008.3172)
 
 Optional :
-
 - Hess, C. & Ostrom, E. Ideas, Artifacts, and Facilities: Information as a Common-Pool Resource. Law and Contemporary Problems 111-146 (2003).
 - Cooper, S. et al. Predicting protein structures with a multiplayer online game. Nature 466, 756-760 (2010).
+- Ostrom, E. Governing the Commons: The Evolution of Institutions for Collective Action (Political Economy of Institutions and Decisions) (Cambridge University Press, 1990)
 
 **9/10 Github and Pull Requests LAB 2**
 
@@ -35,16 +35,17 @@ http://producingoss.com/en/technical-infrastructure.html
 
 *ASSIGNMENT 1: Hand in links to opening conversations with the open project.  Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.*
 
-**9/20 Social Networks, Human Timing, Triggering Dynamics, and Emotions - Thomas**
+**9/20 Social Networks, Human Timing, Triggering Dynamics, Emotions and Politeness - Thomas**
 
 Required :
 
 - Leskovec, J., Huttenlocher, D. & Kleinberg, J. Predicting positive and negative links in online social networks. In Proceedings of the 19th international conference on World wide web, WWW '10, 641-650 (ACM, New York, NY, USA, 2010). http://arxiv.org/abs/1003.2429
-- Maillart, T., Sornette, D., Frei, S., Duebendorfer, T. & Saichev, A. Quantification of deviations from rationality with heavy tails in human dynamics. Physical Review E 83, 056101+ (2011). http://arxiv.org/abs/1007.4104
-- Crane, R. & Sornette, D. Robust dynamic classes revealed by measuring the response function of a social system. Proceedings of the National Academy of Sciences 105, 15649-15653 (2008).
+- Maillart, T., Sornette, D., Frei, S., Duebendorfer, T. & Saichev, A. Quantification of deviations from rationality with heavy tails in human dynamics. Physical Review E 83, 056101+ (2011). URL http://arxiv.org/abs/1007.4104 (preprint)
+- Crane, R. & Sornette, D. Robust dynamic classes revealed by measuring the response function of a social system. Proceedings of the National Academy of Sciences 105, 15649-15653 (2008). URL http://arxiv.org/abs/0803.2189 (preprint)
 
 Optional :
 
+- Danescu-Niculescu-Mizil, C., Sudhof, M., Jurafsky, D., Leskovec, J. & Potts, C. A computational approach to politeness with application to social factors. In Proceedings of ACL (2013). [URL](http://www.mpi-sws.org/~cristian/Politeness.html)
 - Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). URL http://dx.doi.org/10.1140/epjb/e2010-00279-x. 
 - Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). 
 
