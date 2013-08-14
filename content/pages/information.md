@@ -12,13 +12,22 @@ Sebastian Benthall, Thomas Maillart and John Chuang
 
 This course is a hands-on exploration of the theory and practice of open online collaboration. Students will engage multi-disciplinary literature about collaboration while contributing to an existing open project (such as open source software, Wikipedia, or OpenStreetMap). Readings will explore business models for open source software organizations, incentives of cooperation and organization design for open source projects.  Practical work will be organized around themes of project management infrastructure, community self-governance, and engineering education through open source participation.  The goal of the class is to engage students in an existing open source community while developing functionality and expertise that can be part of iSchool Masters projects, faculty-directed research, and beyond.
 
+
 ## Course Details
 
 The course will meet in South Hall 210 once a week, on Fridays from 11am-1pm.
 
 There is also a lab, which meets Tuesday 1-2pm.  Labs will meet in South Hall 202 until we move to [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC).
 
-This course is 3 units. It fulfills the Masters requirement for the I School MIMS program.
+This course is 3 units. It fulfills the Management requirement for the I School MIMS program.
+
+## Course Organization
+
+The general class format is the following:
+* 25 mins introduction by the instructor
+* 45 mins active discussion (so please come prepared)
+* 15 mins wrap-up and introduction of the next lecture by the instructor
+
 
 ## External Project Participation
 
@@ -29,7 +38,7 @@ A list of potential projects is **TBD**.
 ## Assignments and Group Report
 
 Students will be responsible for regular reports on their open collaboration
-with outside projects.
+with outside projects in relation with practical and theoretical topics addressed in the class.
 
 The reports will be blog entries *to this website*.
 Reports will be handed in using [Github Pull Requests](https://help.github.com/articles/using-pull-requests) to the [course website repository](https://github.com/sbenthall/i290m-ocpp-site).

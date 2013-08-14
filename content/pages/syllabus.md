@@ -174,11 +174,11 @@ Readings:
 
 **11/26  (Class meets in IRC channel) LAB 13**
 
-**11/29 Guest Lecture**
+**12/6 Guest Lecture**
 
-**14\. RRR - Dead week**
+**12/13 RRR - Dead week**
 
-**15. Project Due**
+**12/20 Project Due**
 
 Examples of Open Source Projects
 
