@@ -37,6 +37,8 @@ A list of potential projects is **TBD**.
 
 ## Assignments and Group Report
 
+See [Assignments](|filename|assignments.md) page.
+
 Students will be responsible for regular reports on their open collaboration
 with outside projects in relation with practical and theoretical topics addressed in the class.
 

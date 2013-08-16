@@ -53,3 +53,19 @@ The GNOME Accessibility Team works to ensure the GNOME Desktop and the software 
 
 Website: https://live.gnome.org/Accessibility
 
+## Public Lab
+
+[http://publiclab.org/](http://publiclab.org/)
+
+## OpenStreetMap
+
+[http://www.openstreetmap.org/](http://www.openstreetmap.org/)
+
+## Wikipedia
+
+[http://wikipedia.org](http://wikipedia.org)
+
+## Mozilla Badges
+
+[https://wiki.mozilla.org/Badges](https://wiki.mozilla.org/Badges)
+
