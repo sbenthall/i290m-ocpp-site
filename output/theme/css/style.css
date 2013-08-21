@@ -30,6 +30,7 @@ pre {
 
 #menu li {
     display : inline ;
+    padding-right: 2em ;
 }
 
 #post-list {
