@@ -180,14 +180,6 @@ Readings:
 
 **12/20 Project Due**
 
-Examples of Open Source Projects
-
-[http://publiclab.org/](http://publiclab.org/)
-[http://www.openstreetmap.org/](http://www.openstreetmap.org/)
-[http://wikipedia.org](http://wikipedia.org)
-[https://wiki.mozilla.org/Badges](https://wiki.mozilla.org/Badges)
-[http://www.mywot.com/wiki/Main_Page](http://www.mywot.com/wiki/Main_Page)
-
 
 
 
