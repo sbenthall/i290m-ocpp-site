@@ -24,9 +24,10 @@ This course is 3 units. It fulfills the Management requirement for the I School 
 ## Course Organization
 
 The general class format is the following:
-* 25 mins introduction by the instructor
-* 45 mins active discussion (so please come prepared)
-* 15 mins wrap-up and introduction of the next lecture by the instructor
+
+* 35 mins introduction by the instructor
+* 55 mins active discussion (so please come prepared)
+* 20 mins wrap-up and introduction of the next lecture by the instructor
 
 
 ## External Project Participation
