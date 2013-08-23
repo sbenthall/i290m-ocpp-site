@@ -30,6 +30,7 @@ Required:
 - Fogel, K. “Technical Infrastructure” Producing Open Source Software
 [link](http://producingoss.com/en/technical-infrastructure.html)
 - Raymond, E. “How to ask questions the smart way” [link](http://www.catb.org/esr/faqs/smart-questions.html)
+- von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). 
 
 **9/17 Data exploration LAB 3**
 
@@ -133,7 +134,6 @@ Required :
 
 - von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012).
 - Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. 
-- von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). 
 
 Optional : 
 
