@@ -34,7 +34,7 @@ The general class format is the following:
 
 Students of this course will be required to contribute to an open collaborative project of their choosing.  This is an important decision; students should come into the class with ideas about projects or fields they are interested in.
 
-A list of potential projects is **TBD**.
+List of potential projects :  [link](|filename|projects.md).
 
 ## Assignments and Group Report
 
