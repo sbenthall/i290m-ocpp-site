@@ -19,19 +19,19 @@ From the web site: " Mifos.org is a diverse community of microfinance institutio
   *  Our team and our community of users are distributed worldwide, spanning all time zones, in developing nations and developed.
   *  We are a community that actively supports each other in the development and use of the Mifos software." 
 
-Website: http://mifos.org/
+Website: [http://mifos.org/](http://mifos.org/)
 
 ## OpenMRS
 
 From the website: "Open Medical Record System (OpenMRS®) was created in 2004 as a open source medical record system platform for developing countries – a tide which rises all ships. OpenMRS is a multi-institution, non-profit collaborative led by Regenstrief Institute, a world-renowned leader in medical informatics research, and Partners In Health, a Boston-based philanthropic organization with a focus on improving the lives of underprivileged people worldwide through health care service and advocacy. These teams nurture a growing worldwide network of individuals and organizations all focused on creating medical record systems and a corresponding implementation network to allow system development self reliance within resource constrained environments."
 
-Website: http://openmrs.org/
+Website: [http://openmrs.org/](http://openmrs.org/)
 
 ## Sahana
 
 Sahana Eden is a flexible open source humanitarian platform with a rich feature set to provide effective solutions for critical humanitarian needs management, either prior to, or during, a crisis. Eden can be rapidly customized to adapt to existing processes and to integrate with existing systems. Eden is designed for most organizations and agencies engaged in humanitarian activities, including UN agencies, NGOs and government agencies, and provides solutions to challenges involved in resource management, information management, coordination, decision support and stakeholder communications. It is built with Python using the Web2Py framework. Sahana Eden currently supports a diverse set of humanitarian organizations, including the City of Los Angeles Emergency Management Department, the International Federation of the Red Cross (IFRC), the American Red Cross, the Helios Foundation, the UN World Food Programme, and several CERT chapters and VOAD organizations in the United States.
 
-Website: http://sahanafoundation.org/
+Website: [http://sahanafoundation.org/](http://sahanafoundation.org/)
 
 ##Ushahidi
 
@@ -41,7 +41,7 @@ From the website: "We are a non-profit tech company that specializes in developi
 
 Since early 2008 we have grown from an ad hoc group of volunteers to a focused organization. Our current team is comprised of individuals with a wide span of experience ranging from human rights work to software development. We have also built a strong team of volunteer developers primarily in Africa, but also Europe, South America and the U.S."
 
-Website: http://www.ushahidi.com/
+Website: [http://www.ushahidi.com/](http://www.ushahidi.com/)
 
 ## GNOME Accessibility
 
@@ -51,7 +51,7 @@ The GNOME Project was started in 1997 by two then university students, Miguel de
 
 The GNOME Accessibility Team works to ensure the GNOME Desktop and the software therein can be used by everyone, regardless of age or ability. Its efforts include the Orca screen reader, the GNOME Shell magnifier, and the Accerciser testing and debugging tool, Evolution (Contact manager, address manager and calendar), Empathy (Chat client), and Nautilus (File manager).
 
-Website: https://live.gnome.org/Accessibility
+Website: [https://live.gnome.org/Accessibility](https://live.gnome.org/Accessibility)
 
 ## Public Lab
 
