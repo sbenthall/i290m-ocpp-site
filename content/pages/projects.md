@@ -69,3 +69,8 @@ Website: [https://live.gnome.org/Accessibility](https://live.gnome.org/Accessibi
 
 [https://wiki.mozilla.org/Badges](https://wiki.mozilla.org/Badges)
 
+## PeerLibrary
+
+Project developed at UC Berkeley aiming to change how science is done. It should be a collaborative and open experience. First step is to build a collaborative discussion platform for open access scholarly literature.
+
+[PeerLibrary](https://github.com/peerlibrary/peerlibrary)
