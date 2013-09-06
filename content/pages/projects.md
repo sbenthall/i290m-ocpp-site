@@ -74,3 +74,9 @@ Website: [https://live.gnome.org/Accessibility](https://live.gnome.org/Accessibi
 Project developed at UC Berkeley aiming to change how science is done. It should be a collaborative and open experience. First step is to build a collaborative discussion platform for open access scholarly literature.
 
 [PeerLibrary](https://github.com/peerlibrary/peerlibrary)
+
+## Free Law Project / CourtListener
+
+Project begun at the I School. Providing free access to primary legal materials, developing legal research tools, and supporting academic research on legal corpora.
+
+See [Free Law Project](http://freelawproject.org) and [CourtListener](http://courtlistener.com)
