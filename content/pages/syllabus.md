@@ -16,7 +16,7 @@ Required :
 - Benkler, Y. The Penguin and the Leviathan: How Cooperation Triumphs over Self-Interest (Crown Business, 2011), 1 edn. [video](http://www.youtube.com/watch?v=dPbE3WieoUo)
 - Gulley, N. & Lakhani, K. R. The determinants of individual performance and collective value in Private-Collective software innovation. Social Science Research Network Working Paper Series (2010). [article](http://ssrn.com/abstract=1550352).
 - Pickard, G. et al. Time-Critical social mobilization. Science 334, 509-512 (2011). [preprint](http://arxiv.org/abs/1008.3172)
-
+- Dan Pink [video](http://www.youtube.com/watch?v=KgGhSOAtAyQ)
 
 Optional :
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002). [link](http://dx.doi.org/10.2307/1562247).
