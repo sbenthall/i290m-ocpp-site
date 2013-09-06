@@ -17,8 +17,9 @@ Required :
 - Gulley, N. & Lakhani, K. R. The determinants of individual performance and collective value in Private-Collective software innovation. Social Science Research Network Working Paper Series (2010). [article](http://ssrn.com/abstract=1550352).
 - Pickard, G. et al. Time-Critical social mobilization. Science 334, 509-512 (2011). [preprint](http://arxiv.org/abs/1008.3172)
 
-Optional :
 
+Optional :
+- Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002). [link](http://dx.doi.org/10.2307/1562247).
 - Hess, C. & Ostrom, E. Ideas, Artifacts, and Facilities: Information as a Common-Pool Resource. Law and Contemporary Problems 111-146 (2003).
 - Cooper, S. et al. Predicting protein structures with a multiplayer online game. Nature 466, 756-760 (2010).
 - Ostrom, E. Governing the Commons: The Evolution of Institutions for Collective Action (Political Economy of Institutions and Decisions) (Cambridge University Press, 1990)
@@ -118,9 +119,9 @@ Required :
 
 - Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007).
 - Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001).
+- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [link](http://dx.doi.org/10.1126/science.1193147).
 
 Optional :
-
 - Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012).
 - Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008). URL http://dx.doi.org/10.1103/physreve.78.026117.
 - Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005). URL http://dx.doi.org/10.1103/physreve.72.056118.
