@@ -19,6 +19,7 @@ Required :
 - Dan Pink [video](http://www.youtube.com/watch?v=KgGhSOAtAyQ)
 
 Optional :
+
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002). [link](http://dx.doi.org/10.2307/1562247).
 - Hess, C. & Ostrom, E. Ideas, Artifacts, and Facilities: Information as a Common-Pool Resource. Law and Contemporary Problems 111-146 (2003).
 - Cooper, S. et al. Predicting protein structures with a multiplayer online game. Nature 466, 756-760 (2010).
@@ -33,7 +34,7 @@ Required:
 - Fogel, K. “Technical Infrastructure” Producing Open Source Software
 [link](http://producingoss.com/en/technical-infrastructure.html)
 - Raymond, E. “How to ask questions the smart way” [link](http://www.catb.org/esr/faqs/smart-questions.html)
-- von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). 
+- von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). [link](http://flosshub.org/system/files/rp-vonkroghspaethlakhani.pdf)
 
 **9/17 Data exploration LAB 3**
 
