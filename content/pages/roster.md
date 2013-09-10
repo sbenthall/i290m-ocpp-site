@@ -19,4 +19,4 @@ A class roster, to be filled out by the students.
 * Siddharth Agrawal,  1st year Masters student, I School. I am planing to contributing to the Google Chrome project. I am interested in open collaboration and peer production to get hands-on exploration of the theory and practice of open online collaboration.
 * Seema Puthyapurayil. I'm a second year Master's student at the School of Information. I just joined the class so I don't know what project I will be contributing to, but I'm excited to be here!
 * Thomas Maillart. I am a visiting post-doctoral fellow @iSchool until 2014. I might into [PeerLibrary](http://peerlibrary.org/) at some point, although I am currently focusing on producing decent lectures for this class.
-  
+* [Mitar](http://mitar.tnode.com/), 2nd year CS PhD student. I am working on [PeerLibrary](http://peerlibrary.org/), an open source platform for collaborative science.
