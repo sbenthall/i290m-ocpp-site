@@ -12,5 +12,3 @@ The `content` directory contains all of the content for the site, in [Markdown](
 ### issue tracker
 
 Please feel free to leave requests or bug reports in this repository's issue tracker.
-
-### Adding Peter Nguyen's Pull Request
