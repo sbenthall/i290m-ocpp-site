@@ -80,3 +80,10 @@ Project developed at UC Berkeley aiming to change how science is done. It should
 Project begun at the I School. Providing free access to primary legal materials, developing legal research tools, and supporting academic research on legal corpora.
 
 See [Free Law Project](http://freelawproject.org) and [CourtListener](http://courtlistener.com)
+
+## Hypothes.is
+
+Hypothes.is brings community peer review to The Internet through a web application which enables rich annotation of web content. It is non-profit organization, funded through the generosity of the Sloan, Shuttleworth, Mellon Foundations, as well as hundreds of individuals. 
+
+[Hypothes.is](http://hypothes.is/what-is-it/)
+[GitHub Page](https://github.com/hypothesis/h)
