@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+                <title>i290M Open Collaboration and Peer Production</title>
+        <meta charset="utf-8" />
+                <link href="courses.ischool.berkeley.edu/i290m-ocpp/site/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="i290M Open Collaboration and Peer Production Full Atom Feed" />
+                                                <link href="courses.ischool.berkeley.edu/i290m-ocpp/site/feeds/lab.atom.xml" type="application/atom+xml" rel="alternate" title="i290M Open Collaboration and Peer Production Categories Atom Feed" />
+                                        <link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
+        </head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="..">i290M Open Collaboration and Peer Production <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+                                      <li><a href="../assignments.html">Assignments</a></li>
+                      <li><a href="../information.html">Course Information</a></li>
+                      <li><a href="../projects.html">Recommended Projects</a></li>
+                      <li><a href="../roster.html">Class Roster</a></li>
+                      <li><a href="../syllabus.html">Syllabus</a></li>
+                          </ul></nav><!-- /#menu -->
+        <section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="../article/lab1.html" rel="bookmark"
+         title="Permalink to Lab 1 - Github, Pull Requests, and the Course Website">Lab 1 - Github, Pull Requests, and the Course Website</a></h2>
+  
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2013-08-09T19:20:00">
+      Fri 09 August 2013
+    </abbr>
+        <address class="vcard author">
+      By <a class="url fn" href="../author/seb.html">Seb</a>
+    </address>
+      </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>Welcome to the first Lab of <strong>i290M - Open Collaboration and Peer Production</strong>.</p>
+<p>This course website is an open collaborative project.
+It is powered by a number of tools that are in wide use
+in open source development.
+In order to acquaint you with these tools, your coursework
+will be handed in using these tools.</p>
+<p>This lab is designed to introduce you to some of the basic
+logic and workflow of these tools.
+If you find that you already know this material, try finding somebody who is still learning and lend a hand.
+Or, dig deeper into the documentation of the tools than we are able to cover here and try something new.</p>
+<p>If you don't understand what's going on, ask for help and read the doucmentation provided here and linked to.
+If you don't complete the tasks of that lab, that's ok.
+One great thing about open collaboration is that often all the material you need to learn more is out there on-line.</p>
+<h2>Pelican</h2>
+<p>The first thing you should know is that our course website is powered by <a href="http://docs.getpelican.com/en/3.2/">Pelican</a>.</p>
+<p>Pelican is a <a href="http://www.mickgardner.com/2012/12/an-introduction-to-static-site.html">static-site generator</a>.
+What this means is that it is a program for generating static <a href="http://www.w3schools.com/html/">HTML</a> files from content files and formatting templates.  This makes for fast, secure, and comparatively idiot-proof websites.  It also allows us to back up the entire site easily in a <a href="http://en.wikipedia.org/wiki/Revision_control">version control system</a> like <a href="http://git-scm.com/">Git</a>.</p>
+<p>The most popular static-site generator is probably <a href="http://jekyllrb.com/">Jekyll</a>.  Jekyll is a Ruby framework.  Because the I School appears to have a preference for the Python programming language, we looked for a good Python static site generator.</p>
+<p>After looking carefully at alternatives (especially <a href="http://ringce.com/hyde">Hyde</a>), I <a href="http://digifesto.com/2013/08/05/reinventing-wheels-with-dissertron/">settled</a> on Pelican for our class.  </p>
+<p>We encourage you to look carefully at the Pelican <a href="http://docs.getpelican.com/en/3.2/">documentation</a> to understand what's going on.  </p>
+<h3>Under the hood</h3>
+<p>The most important thing to know about Pelican sites is that all content is written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>.  Markdown is a lightweight text syntax that processes directly into HTML.  It is a very popular format that is inspired by, among other things, Wikipedia syntax.</p>
+<p>Writing content in Markdown makes it easier to separate site <em>content</em> from site 'design and layout'.  You can think of this as a continuation in the trend in web site best practices that pushed design to CSS and away from HTML years ago. (Ancient history now.)  Only now, like in a modern <a href="http://en.wikipedia.org/wiki/Content_management_system">content management system</a> (CMS - like <a href="http://wordpress.org/">Wordpress</a> or <a href="https://drupal.org/">Drupal</a>) or web application framework (like <a href="https://www.djangoproject.com/">Django</a> or <a href="http://rubyonrails.org/">Ruby on Rails</a>), site <em>layout</em> is controlled by templates.  Pelican uses <a href="http://jinja.pocoo.org/">Jinja2</a>, a popular Python templating engine that is similar to what is used in Django.</p>
+<p>For turning in course materials, you are required only to create and edit files in Markdown and put them in the right place in our course site repository.  But you are welcome to do much more.  One way to do that is to contribute to <a href="https://github.com/sbenthall/dissertron-theme">Disserton</a>, a <a href="http://docs.getpelican.com/en/3.2/themes.html#templates-and-variables">Pelican theme</a> designed for open access academic publishing.</p>
+<h3>Writing content</h3>
+<p>Please see the documentation on <a href="http://docs.getpelican.com/en/3.2/getting_started.html#writing-content-using-pelican">writing content in Pelican</a>.</p>
+<p>Undertand that Pelican content can be either <em>blog posts</em> or <em>pages</em>.  This distinction should be <a href="http://en.support.wordpress.com/post-vs-page/">familiar</a> to Wordpress users.  </p>
+<p>Posts, such as this <a href="../article/welcome.html">welcome post</a>, are listed in reverse chronological order on the blog section of the site.  Pages, such as the course <a href="../information.html">Information</a> page, are presented statically and not ordered by date.</p>
+<p>We can use Github to browse the directory structure of our website's content.  Content goes in the <a href="https://github.com/sbenthall/i290m-ocpp-site/tree/master/content">content/</a> directory.  Blog posts go right there. Pages go into the <a href="https://github.com/sbenthall/i290m-ocpp-site/tree/master/content/pages">pages/</a> subdirectory.</p>
+<p><strong><em>For this lab, you need to update the <a href="../roster.html">Class Roster</a> page with some information about yourself: your name, your status as a student (program, year),  the project you are going to try to contribute to (with a link), and why you took the course.</em></strong></p>
+<h2>Git</h2>
+<p>We have the site content and history backed up by a Git repository.
+You may have heard of Git and/or Github already.
+Git is a version control system (VCS).
+We will talk about VCS in more detail in the next lecture.
+For now, it's time to get some hands on experience.</p>
+<p><strong><em>If you have not worked much with <em>Git</em> in the command line (as opposed to Github the on-line social forge, which is different), go through <a href="http://try.github.io">this web-based tutorial</a> now.</em></strong></p>
+<p>That tutorial simulates what you would do running Git on your local machine, using your <strong>command line</strong>.  (You do use your command line, don't you?)</p>
+<p>It is totally worth it to learn how to use Git locally.  Maybe you will have to for your participation in an outside project.  For our purposes, we will lean heavily on GitHub, a service that provides a lot of web-based functionality on top of hosted Git repositories.</p>
+<h2>GitHub</h2>
+<p><a href="https://github.com/">GitHub</a> provides a web application layer over hosted Git repositories.  It is largely responsible for the wide adoption of Git throughout the open source world.  There are other services like it, such as <a href="https://bitbucket.org/">BitBucket</a>, a similar service for <a href="http://mercurial.selenic.com/">Mercurial</a> repositories.</p>
+<p><strong><em>If you haven't already done so, sign up for GitHub and get a username now.</em></strong></p>
+<p>Git is a <em>distributed</em> version control system.
+This is significantly different from undistributed version control systems (like <a href="http://subversion.apache.org/">Subversion</a>) in important ways that we will discuss in the next lecture.
+One big difference is the Git, especially with the help of Github, enables friendly <a href="http://en.wikipedia.org/wiki/Fork_%28software_development%29">forking</a>.</p>
+<p><strong><em>Go through this GitHub <a href="https://help.github.com/articles/fork-a-repo">tutorial</a> about how to fork a repo now.  Then read through this <a href="https://help.github.com/articles/using-pull-requests">documentation about pull requests</a>.</em></strong></p>
+<p>Turns out, GitHub makes it very simple to edit files through their web interface, even providing syntax highlighting while editing Markdown.</p>
+<p><strong><em>Now:</em></strong></p>
+<ol>
+<li>Familiarize yourself with <a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a> syntax.</li>
+<li>Fork the course website <a href="https://github.com/sbenthall/i290M-ocpp-site">repository</a>.</li>
+<li>Modify the roster.md file in your fork on the repository through the GitHub interface.  Add yourself to a list, in alphabetical order by last name, with your name, status as a student, external project and reason for taking the course.  For example:<blockquote>
+<p>Gnaeus Pompeius, 2nd year Masters student, I School. I am contributing to the <a href="http://opencog.org/">OpenCog</a> project. I am interested in open collaboration and peer production because Caesar has illegitimately seized power and the Republic must rise again.</p>
+</blockquote>
+</li>
+<li>Make a pull request with your change.</li>
+</ol>
+<p>You're almost done with the lab!</p>
+<p>Now comes the fun part: it may be that many of you have been trying to edit the same file at the same time.
+Since commits are made as <a href="http://en.wikipedia.org/wiki/Diff">diffs</a>, sometimes somebody else's change will invalidate or <em>conflict</em> with your own.</p>
+<p><strong><em>If this happens, we won't be able to accept your pull request.
+You will need to <em>merge</em> the changes from the remote repository into your own, and make a new pull request.</em></strong></p>
+<p>Please stick around in lab until we get your pull request accepted.
+We may need to coordinate as a class to make sure we don't keep overriding each others commits.</p>
+<p>When you've completed this lab, you will officially be a <a href="https://github.com/sbenthall/i290m-ocpp-site/graphs/contributors">contributor</a> to the course project.
+GitHub provides some nice visualizations so you can see your level of participation relative to others.</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Powered by <a href="http://getpelican.com/">Pelican</a>,
+                themed as <a href="http://github.com/sbenthall/dissertron-theme">Dissertron</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>

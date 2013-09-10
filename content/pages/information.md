@@ -1,7 +1,6 @@
 Title: Course Information
 Slug: information
 Author: Seb
-Summary: Short version for index and feeds
 
 
 ##Instructors
@@ -28,6 +27,12 @@ The general class format is the following:
 * 35 mins introduction by the instructor
 * 55 mins active discussion (so please come prepared)
 * 20 mins wrap-up and introduction of the next lecture by the instructor
+
+## Course Mailing List
+
+Our course mailing list is <i290m-ocpp@ischool.berkeley.edu>.
+
+Please sign up for it [here](https://calmail.berkeley.edu/manage/list/listinfo/i290m-ocpp@ischool.berkeley.edu).
 
 
 ## External Project Participation
