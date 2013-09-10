@@ -44,10 +44,24 @@ For now, it's time to get some hands on experience.&lt;/p&gt;
 &lt;p&gt;Git is a &lt;em&gt;distributed&lt;/em&gt; version control system.
 This is significantly different from undistributed version control systems (like &lt;a href="http://subversion.apache.org/"&gt;Subversion&lt;/a&gt;) in important ways that we will discuss in the next lecture.
 One big difference is the Git, especially with the help of Github, enables friendly &lt;a href="http://en.wikipedia.org/wiki/Fork_%28software_development%29"&gt;forking&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Go through this GitHub &lt;a href="https://help.github.com/articles/fork-a-repo"&gt;tutorial&lt;/a&gt; about how to fork a repo now.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turns out, GitHub makes it very simple to edit files through their web interface, even providing syntax highlighting while editing Markdown. Now:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Go through this GitHub &lt;a href="https://help.github.com/articles/fork-a-repo"&gt;tutorial&lt;/a&gt; about how to fork a repo now.  Then read through this &lt;a href="https://help.github.com/articles/using-pull-requests"&gt;documentation about pull requests&lt;/a&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turns out, GitHub makes it very simple to edit files through their web interface, even providing syntax highlighting while editing Markdown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Now:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Familiarize yourself with &lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt; syntax.&lt;/li&gt;
-&lt;li&gt;Fork the course website &lt;a href="https://github.com/sbenthall/i290M-ocpp-site"&gt;repository&lt;/a&gt;.
-3.&lt;/li&gt;
-&lt;/ol&gt;</summary></entry></feed>
+&lt;li&gt;Fork the course website &lt;a href="https://github.com/sbenthall/i290M-ocpp-site"&gt;repository&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Modify the roster.md file in your fork on the repository through the GitHub interface.  Add yourself to a list, in alphabetical order by last name, with your name, status as a student, external project and reason for taking the course.  For example:&lt;blockquote&gt;
+&lt;p&gt;Gnaeus Pompeius, 2nd year Masters student, I School. I am contributing to the &lt;a href="http://opencog.org/"&gt;OpenCog&lt;/a&gt; project. I am interested in open collaboration and peer production because Caesar has illegitimately seized power and the Republic must rise again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a pull request with your change.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You're almost done with the lab!&lt;/p&gt;
+&lt;p&gt;Now comes the fun part: it may be that many of you have been trying to edit the same file at the same time.
+Since commits are made as &lt;a href="http://en.wikipedia.org/wiki/Diff"&gt;diffs&lt;/a&gt;, sometimes somebody else's change will invalidate or &lt;em&gt;conflict&lt;/em&gt; with your own.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;If this happens, we won't be able to accept your pull request.
+You will need to &lt;em&gt;merge&lt;/em&gt; the changes from the remote repository into your own, and make a new pull request.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please stick around in lab until we get your pull request accepted.
+We may need to coordinate as a class to make sure we don't keep overriding each others commits.&lt;/p&gt;
+&lt;p&gt;When you've completed this lab, you will officially be a &lt;a href="https://github.com/sbenthall/i290m-ocpp-site/graphs/contributors"&gt;contributor&lt;/a&gt; to the course project.
+GitHub provides some nice visualizations so you can see your level of participation relative to others.&lt;/p&gt;</summary></entry></feed>
