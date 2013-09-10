@@ -49,4 +49,60 @@ Please see the documentation on [writing content in Pelican](http://docs.getpeli
 
 Undertand that Pelican content can be either *blog posts* or *pages*.  This distinction should be [familiar](http://en.support.wordpress.com/post-vs-page/) to Wordpress users.  
 
-Posts, such as this [welcome post](|filename|first.md),  are listed in revers chronological order on the blog section of the site.  Pages, such as the course [Information](|filename|pages/information.md) page,  are presented statically and not ordered by date.  
+Posts, such as this [welcome post](|filename|first.md), are listed in reverse chronological order on the blog section of the site.  Pages, such as the course [Information](|filename|pages/information.md) page, are presented statically and not ordered by date.
+
+We can use Github to browse the directory structure of our website's content.  Content goes in the [content/](https://github.com/sbenthall/i290m-ocpp-site/tree/master/content) directory.  Blog posts go right there. Pages go into the [pages/](https://github.com/sbenthall/i290m-ocpp-site/tree/master/content/pages) subdirectory.
+
+***For this lab, you need to update the [Class Roster](|filename|pages/roster.md) page with some information about yourself: your name, your status as a student (program, year),  the project you are going to try to contribute to (with a link), and why you took the course.***
+
+
+## Git
+
+We have the site content and history backed up by a Git repository.
+You may have heard of Git and/or Github already.
+Git is a version control system (VCS).
+We will talk about VCS in more detail in the next lecture.
+For now, it's time to get some hands on experience.
+
+***If you have not worked much with *Git* in the command line (as opposed to Github the on-line social forge, which is different), go through [this web-based tutorial](http://try.github.io) now.***
+
+That tutorial simulates what you would do running Git on your local machine, using your **command line**.  (You do use your command line, don't you?)
+
+It is totally worth it to learn how to use Git locally.  Maybe you will have to for your participation in an outside project.  For our purposes, we will lean heavily on GitHub, a service that provides a lot of web-based functionality on top of hosted Git repositories.
+
+## GitHub
+
+[GitHub](https://github.com/) provides a web application layer over hosted Git repositories.  It is largely responsible for the wide adoption of Git throughout the open source world.  There are other services like it, such as [BitBucket](https://bitbucket.org/), a similar service for [Mercurial](http://mercurial.selenic.com/) repositories.
+
+***If you haven't already done so, sign up for GitHub and get a username now.***
+
+Git is a *distributed* version control system.
+This is significantly different from undistributed version control systems (like [Subversion](http://subversion.apache.org/)) in important ways that we will discuss in the next lecture.
+One big difference is the Git, especially with the help of Github, enables friendly [forking](http://en.wikipedia.org/wiki/Fork_%28software_development%29).
+
+***Go through this GitHub [tutorial](https://help.github.com/articles/fork-a-repo) about how to fork a repo now.  Then read through this [documentation about pull requests](https://help.github.com/articles/using-pull-requests).***
+
+Turns out, GitHub makes it very simple to edit files through their web interface, even providing syntax highlighting while editing Markdown.
+
+***Now:***
+
+1. Familiarize yourself with [Markdown](http://daringfireball.net/projects/markdown/syntax) syntax.
+2. Fork the course website [repository](https://github.com/sbenthall/i290M-ocpp-site).
+3. Modify the roster.md file in your fork on the repository through the GitHub interface.  Add yourself to a list, in alphabetical order by last name, with your name, status as a student, external project and reason for taking the course.  For example:
+> Gnaeus Pompeius, 2nd year Masters student, I School. I am contributing to the [OpenCog](http://opencog.org/) project. I am interested in open collaboration and peer production because Caesar has illegitimately seized power and the Republic must rise again.
+4. Make a pull request with your change.
+
+You're almost done with the lab!
+
+Now comes the fun part: it may be that many of you have been trying to edit the same file at the same time.
+Since commits are made as [diffs](http://en.wikipedia.org/wiki/Diff), sometimes somebody else's change will invalidate or *conflict* with your own.
+
+***If this happens, we won't be able to accept your pull request.
+You will need to *merge* the changes from the remote repository into your own, and make a new pull request.***
+
+Please stick around in lab until we get your pull request accepted.
+We may need to coordinate as a class to make sure we don't keep overriding each others commits.
+
+When you've completed this lab, you will officially be a [contributor](https://github.com/sbenthall/i290m-ocpp-site/graphs/contributors) to the course project.
+GitHub provides some nice visualizations so you can see your level of participation relative to others.
+    
