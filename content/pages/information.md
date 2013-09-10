@@ -1,7 +1,6 @@
 Title: Course Information
 Slug: information
 Author: Seb
-Summary: Short version for index and feeds
 
 
 ##Instructors
