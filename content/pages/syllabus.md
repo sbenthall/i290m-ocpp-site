@@ -27,6 +27,8 @@ Optional :
 
 **9/10 Github and Pull Requests LAB 2**
 
+[LAB 2](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab1.html)
+
 **9/13 Technical Infrastructure and Community Etiquette - Seb**
 
 Required: 
