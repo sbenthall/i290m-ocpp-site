@@ -87,3 +87,14 @@ Hypothes.is brings community peer review to The Internet through a web applicati
 
 [Hypothes.is](http://hypothes.is/what-is-it/)
 [GitHub Page](https://github.com/hypothesis/h)
+
+
+## KarmaNotes.org
+
+KarmaNotes is a shared collection of academic resources created by students for students. Like the give-a-penny jar, KarmaNotes aggregates digital knowledge for the common good. Best of all, our capacity for learning resources is practically limitless, and withdrawals are entirely free.
+
+KarmaNotes is a project of the FinalsClub Foundation, which continues to grow thanks to the William and Flora Hewlett Foundation and generous scholars like you.
+
+Your contributions are welcome in the form of [code](https://github.com/FinalsClub/karmaworld), [learning content](http://karmanotes.org/university-of-california-berkeley/i290m-open-collaboration-and-peer-production-233), curation, and community support.  If you'd like to get more involved, simply contact <info@karmanotes.org>.  Thanks for helping to open education, one lecture at a time.
+
+[Learn more about KarmaNotes](http://karmanotes.org/about/)
