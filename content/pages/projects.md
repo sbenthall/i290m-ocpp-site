@@ -88,6 +88,10 @@ Hypothes.is brings community peer review to The Internet through a web applicati
 [Hypothes.is](http://hypothes.is/what-is-it/)
 [GitHub Page](https://github.com/hypothesis/h)
 
+## Khan Academy 
+
+[KhanAcademy Exercises](https://github.com/Khan/khan-exercises) is KhanAcademy's repository for contribution to their math and statistics exercises. They have really great new contributor documentation, [Getting Involved Docs](https://github.com/Khan/khan-exercises/wiki/Getting-Involved), and a ton of opportunities to get involved in the project at varying technical level. The have a lot of interesting infrastructure set up to support peer production of exercises. I found their bug reporting infrastructure, where user report bugs are immediately created as Github Issues, to be particularly cool.
+
 
 ## KarmaNotes.org
 
