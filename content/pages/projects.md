@@ -98,3 +98,17 @@ KarmaNotes is a project of the FinalsClub Foundation, which continues to grow th
 Your contributions are welcome in the form of [code](https://github.com/FinalsClub/karmaworld), [learning content](http://karmanotes.org/university-of-california-berkeley/i290m-open-collaboration-and-peer-production-233), curation, and community support.  If you'd like to get more involved, simply contact <info@karmanotes.org>.  Thanks for helping to open education, one lecture at a time.
 
 [Learn more about KarmaNotes](http://karmanotes.org/about/)
+
+## OpenOakland.org
+
+A Code for America initiative through which "technologists, journalists, and city staff [are] collaborating to build a better Oakland using open civic web technologies."
+
+Take a look at [the list of current projects](http://openoakland.org/projects/) for more info.
+
+## CiviCRM.org
+
+A constituent relationship management application for civic and community organizing groups. 
+
+[Main site](http://www.civicrm.org)
+[Basic info on getting involved](http://civicrm.org/participate/community)
+[Developer info](http://civicrm.org/participate/developer)
