@@ -3,6 +3,8 @@ Slug: roster
 
 A class roster, to be filled out by the students.
 
+Jake Hartnell
+=======
 * Jake Hartnell, 2nd year masters student, I School. I am contributing to the [Hypothes.is](https://github.com/hypothesis/h) project. I am interested in annotation because I think it can be a powerful tool for assessing knowledge.
 * [Rodrigo Ochigame](http://ochigame.org/), contributing to [PeerLibrary](http://peerlibrary.org/).
 * [Matti Nelimarkka](http://me.mante.li/), Visiting Student Resercher, I School. I contibute to [React](https://github.com/facebook/react/), a Facebook originating JS library. My interest in open collaboration is to understand why (and how to motivate) people to participate and how the cultures develop in communities.
