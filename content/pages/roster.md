@@ -20,3 +20,4 @@ A class roster, to be filled out by the students.
 * Seema Puthyapurayil. I'm a second year Master's student at the School of Information. I just joined the class so I don't know what project I will be contributing to, but I'm excited to be here!
 * Thomas Maillart. I am a visiting post-doctoral fellow @iSchool until 2014. I might sneak into [PeerLibrary](http://peerlibrary.org/) at some point although I am currently focusing on producing decent lectures for this class.
 * [Mitar](http://mitar.tnode.com/), 2nd year CS PhD student. I am working on [PeerLibrary](http://peerlibrary.org/), an open source platform for collaborative science.
+* Renu Bora, 1st year MIMS, contributing to [Common Crawl] (http://commoncrawl.org)
