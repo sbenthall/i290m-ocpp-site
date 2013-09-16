@@ -23,3 +23,4 @@ A class roster, to be filled out by the students.
 * [Mitar](http://mitar.tnode.com/), 2nd year CS PhD student. I am working on [PeerLibrary](http://peerlibrary.org/), an open source platform for collaborative science.
 * Anna Swigart, 1st year Master's student, I School. I am contributing to [PeerLibrary](http://peerlibrary.org/). I'm interested in learning about the structure and culture of open source software organizations and the potential for these organizations to instigate positive change in society.
 * [Nick Doty](http://npdoty.name), 3rd year I School PhD student. I work in part for the [World Wide Web Consortium](http://w3.org), a technical standards body, and I also maintain a small open source project of tools and documentation for privacy-by-design, [PrivacyPatterns](http://privacypatterns.org).
+* Renu Bora, 1st year MIMS, contributing to [Common Crawl] (http://commoncrawl.org)
