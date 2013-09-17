@@ -2,6 +2,7 @@ Title: Starting to Contribute to IPython - Pulling the Thread and Watching to Co
 Date: 2013-09-16 18:20
 Tags: IPython
 Slug: arenold-assign1
+Category: assign1
 Author: AJ Renold
 
 ## Evaluating IPython and the Project's Communications Channels
