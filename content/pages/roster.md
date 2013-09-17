@@ -3,6 +3,8 @@ Slug: roster
 
 A class roster, to be filled out by the students.
 
+Jake Hartnell
+=======
 * Jake Hartnell, 2nd year masters student, I School. I am contributing to the [Hypothes.is](https://github.com/hypothesis/h) project. I am interested in annotation because I think it can be a powerful tool for assessing knowledge.
 * [Rodrigo Ochigame](http://ochigame.org/), contributing to [PeerLibrary](http://peerlibrary.org/).
 * [Matti Nelimarkka](http://me.mante.li/), Visiting Student Resercher, I School. I contibute to [React](https://github.com/facebook/react/), a Facebook originating JS library. My interest in open collaboration is to understand why (and how to motivate) people to participate and how the cultures develop in communities.
@@ -23,3 +25,5 @@ A class roster, to be filled out by the students.
 * [Mitar](http://mitar.tnode.com/), 2nd year CS PhD student. I am working on [PeerLibrary](http://peerlibrary.org/), an open source platform for collaborative science.
 * Anna Swigart, 1st year Master's student, I School. I am contributing to [PeerLibrary](http://peerlibrary.org/). I'm interested in learning about the structure and culture of open source software organizations and the potential for these organizations to instigate positive change in society.
 * [Nick Doty](http://npdoty.name), 3rd year I School PhD student. I work in part for the [World Wide Web Consortium](http://w3.org), a technical standards body, and I also maintain a small open source project of tools and documentation for privacy-by-design, [PrivacyPatterns](http://privacypatterns.org).
+* Lisa Jervis, second-year MIMS student. I'm taking the class because I'm jazzed about community-building, resource-sharing, and mutual aid in both my personal and professional lives. I'll be contributing to end-user documentation of [CiviCRM](http://www.civicrm.org).
+* Renu Bora, 1st year MIMS, contributing to [Common Crawl] (http://commoncrawl.org)
