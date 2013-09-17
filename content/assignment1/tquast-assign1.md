@@ -27,8 +27,12 @@ They promote a IRC channel [#hypothes.is](http://webchat.freenode.net/?channels=
 For developers they link to a [site](https://github.com/hypothesis/h/blob/develop/CONTRIBUTING.rst) where the coding style is explained together with other practicalities like licensing and how to branch correctly.
 The last thing which is worth mentioning is their [issue tracker](https://github.com/hypothesis/h/issues). They use git's standard tracker with tags for categorizing the issues.
 
-##Barriers## 
+##Barriers##
+I faced two main barriers while approaching the community.
+Firstly I wanted to contribute, but I did not know how and what. It is hard to understand where help is needed if you look at a repository of several hundred files, not counting the dependencies. Also the issue tracker didn't help much, since the reported issues were hard to understand without deeper knowledge of the hypothes.is-tool.  
+Secondly I was drowned in communication channels. There is a mailing list, an IRC chat, a wiki, github, a issue tracker, a forum and a website. It is hard to know where to find information when you are new to most of the technologies. All the informations are scattered between the tools and it's challenging to gain an overview. It is also not trivial to ask questions, since there are several possible places and you don't want to misuse one of the channels. 
 
+##Important milestones##
 
 ##Did you follow a 'script'?##
 
