@@ -8,7 +8,7 @@ Summary: Brief stories of how people got involved in PeerLibrary
 
 [PeerLibrary](http://peerlibrary.org) is a nascent project that has been through radical redesigns recently, so there isn't a established community of remote contributors yet. Since we still meet mostly in person, I'll briefly tell stories of how people got involved.
 
-The project's idea first sprung when I met Tony. We were conceiving of an open access advocacy group on campus and discussing the flaws in the current academic publishing model. Naturally, we started imagining how an ideal model would be. PeerLibrary was born and we immediately started hacking up a Node.js implementation.
+The project's idea first came up when I first met Tony. We were conceiving of an open access advocacy group on campus and discussing the flaws in the current academic publishing model. Naturally, we started imagining how an ideal model would be. PeerLibrary was born and we immediately started hacking up a Node.js implementation.
 
 In the same week, we further developed the idea at the Internet Archive in a chat with Mek, Alexis, Brewster Kahle and some friends from Noisebridge. At the time, we were focused on the publishing mechanism and alternative metrics for peer review. At the time, the codebase was mostly written by three friends (Tony, Nihil and me).
 
