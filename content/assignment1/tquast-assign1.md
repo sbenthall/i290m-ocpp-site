@@ -12,11 +12,10 @@ Summary: Details about our first assignment
 I have chosen to contribute to [Hypothes.is](http://hypothes.is/) throughout this course and hopefully beyond that. Hypothes.is is an online highlighting tool, which allows users to highlight, comment and share content on websites. The idea of being able to annotate, tag and interconnect content regardless of its type or form reminds me of Tim Berners-Lee's vision of [the semantic web](http://www.scientificamerican.com/article.cfm?id=the-semantic-web), which makes it an highly interesting project to work on. There are several highlighting tools on the internet, but none has gathered a significant number of users yet. Hypothes.is combination of open source [principles](http://hypothes.is/principles/), backup from the [community](http://www.kickstarter.com/projects/dwhly/hypothesis-taking-peer-review-to-the-internet) and its passionate [core-team](http://hypothes.is/who/), makes it stand out and worthwhile to work for.
 
 ##What can I offer##
-Before I decided to join the list of contributors I had to consider if I have something to offer for the project.
-I have have worked cast.li
+Before I decided to join the list of contributors I had to consider what I can offer to the project. After having taken a quick look at their [git-repository](https://github.com/hypothesis/h/) I can tell that their developers several years work-experience and it will be hard for me to a join this mature project, which has its own rule-sets and workarounds. On the other hand I have worked two years on [cast.li](http://cast.li) which is an highlighting tool too. I stopped development on project by the end of last year after struggling with attracting new users. Somehow is Hypothes.is the proof that the concept holds and I can contribute to it becoming a success by applying the first hand knowledge I gained through cast.li. This said, I have several years of programming experience, so with help from the hypothes.is team I should quickly get up to speed with coding.
 
 ##First contact##
-I am working on [Hypothes.is](http://hypothes.is/). 
+
 
 ##Did you follow a 'script'?##
 
