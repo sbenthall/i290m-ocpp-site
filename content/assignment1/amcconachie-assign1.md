@@ -2,10 +2,15 @@ Assignment 1
 ############
 
 :date: 2013-09-16 10:38
+
 :tags: starting, OS
+
 :category: assignments
+
 :slug: assignment1
+
 :author: Andrew McConachie
+
 :summary: An introduction to courtlistener.com and my previous experiences with OS
 
 I had a very easy time introducing myself to the community of the Free Law Project, otherwise known as courtlistener.com.  Dr. Carver directly gave me a VMWare image on a USB drive, some links to read and a video to watch[1].  He then sent a mail blast to everyone who had previously expressed an interest in the project, including myself, announcing the formation of a mailing list and writing a mini-bio of everyone.  This was the first time he had removed himself as the wheel-spoke of email communication and therefore was the first instance some of these people were communicating with each other directly.  Everyone wrote a short mail to the list introducing themselves, what their interest was in courtlistener.com, what they had or were planning to contribute and what their background was.  I followed suit stating that I was interested in courtlistener.com because of the intrinsic public good associated with lowering access barriers to the public record and that I would be contributing to courtlistener.com as part of a class I was taking on open collaboration and peer-production.  Unfortunately for everyone these mails were not archived because of some, now fixed, configuration problems with the Mailman program[2].
