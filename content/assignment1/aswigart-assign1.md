@@ -3,7 +3,7 @@ Date: 2013-09-17 15:00
 Category: assignment1
 Slug: aswigart-assign1
 Tags: i290m-ocpp, peerlibrary
-Author: Ana
+Author: Anna
 Summary: My initial experience with PeerLibrary
 
 
