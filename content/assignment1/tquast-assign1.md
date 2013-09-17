@@ -28,30 +28,16 @@ For developers they link to a [site](https://github.com/hypothesis/h/blob/develo
 The last thing which is worth mentioning is their [issue tracker](https://github.com/hypothesis/h/issues). They use git's standard tracker with tags for categorizing the issues.
 
 ##Barriers##
-I faced two main barriers while approaching the community.
-Firstly I wanted to contribute, but I did not know how and what. It is hard to understand where help is needed if you look at a repository of several hundred files, not counting the dependencies. Also the issue tracker didn't help much, since the reported issues were hard to understand without deeper knowledge of the hypothes.is-tool.  
-Secondly I was drowned in communication channels. There is a mailing list, an IRC chat, a wiki, github, a issue tracker, a forum and a website. It is hard to know where to find information when you are new to most of the technologies. All the informations are scattered between the tools and it's challenging to gain an overview. It is also not trivial to ask questions, since there are several possible places and you don't want to misuse one of the channels. 
+I faced three main barriers while approaching the community.
+Firstly, I wanted to contribute, but I did not know how to get involved. I have no experience in working with open source projects, and I didn't want to make a wrong move and interrupt the developers work on the project. I was for example wondering if it would have been a good idea to introduce myself through the mailing list, but since I don't know who's on the list and since it is no crucial information I did not send any information out. In fact I focussed on physical face to face interaction until I have a better understand of how the tools are used by Hypothes.is. 
+Secondly, it is hard to understand where help is needed. The repository itself is not much of an help consisting of several hundred files, not counting the dependencies. Also the issue tracker didn't help much, since the reported issues were hard to understand without deeper knowledge of the hypothes.is-tool.  
+Thirdly, I was drowned in communication channels. There is a mailing list, an IRC chat, a wiki, github, a issue tracker, a forum and a website. It is hard to know where to find information when you are new to most of the technologies. All the informations are scattered between the tools and it's challenging to form a consistant picture of the tool. It is also not trivial where to ask questions, since there are many possible places and I didn't want to misuse one of the channels. 
 
-##Important milestones##
+##Time table##
+09/03/2013: First contact with Jake and information about hypothes.is
+09/05/2013: After testing the tool my I commit myself to the project.
+09/12/2013: Informal meeting with Jake (Product Dev.) and Randall (Lead Dev.)
+09/16/2013: Meeting with Jake to help me set up the server locally
 
-##Did you follow a 'script'?##
-
-
-Was it a formal or informal process? 
-
-Did you face any barriers to participation? 
-There has been high entry barriers, although Hypothes.is has a website devoted to contributors.
-There were two main reasons for this:
-I: I have never worked on an open source project, and I have no experience in how to get involved. Communication is spread across IRC, Mailinglists, GITHub and the Issue tracker and it is very complicated to get a consistant picture of the situation. 
-II: I have not used their tools before. I think I can contribute with my front end-knowledge (JS, HTML, CSS), which accourding to their github repository makes up more than 4/5 of the code. The problem is though that I've not used their tools before. The dependencies to run their code are:
-Python v2.7+
-CoffeeScript v1.6+
-Sass v3.2+
-Compass v0.12+
-ElasticSearch v0.19+
-While I've heard of all of them, except elasticSearch, I have no experience in using them. The installation and configuration alone has taken several days for me (windows 8 is not the best supported OS for these tools). 
-
-
-Do you think your experience was personal or general? 
-
-Include a link to the email archives of your project (or forum, if there are no email archives).  Ideally, you should post to the message you used to introduce yourself to the group.  If that is not appropriate for some reason, please provide the next best thing.  We are looking for evidence that you have identified the technical infrastructure of the project and used it to engage the community directly.
+##Conclusion##
+I have not written a single line of code yet. But I have met several members of the hypothes.is team and have been invited to their office in San Francisco. I hope I can get the server up and running soon, so I can start to contribute. Since it has been a struggle to set the server up in Windows I have already decided what my first contribution will be. An install guide for windows. 
