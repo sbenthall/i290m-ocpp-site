@@ -4,6 +4,7 @@ Category: assignment
 Tags: peerlibrary
 Slug: rochigame-assign1
 Author: Rodrigo
+Summary: Brief stories of how people got involved in PeerLibrary
 
 [PeerLibrary](http://peerlibrary.org) is a nascent project that has been through radical redesigns recently, so there isn't a established community of remote contributors yet. Since we still meet mostly in person, I'll briefly tell stories of how people got involved.
 
