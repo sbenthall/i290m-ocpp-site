@@ -15,6 +15,19 @@ I have chosen to contribute to [Hypothes.is](http://hypothes.is/) throughout thi
 Before I decided to join the list of contributors I had to consider what I can offer to the project. After having taken a quick look at their [git-repository](https://github.com/hypothesis/h/) I can tell that their developers several years work-experience and it will be hard for me to a join this mature project, which has its own rule-sets and workarounds. On the other hand I have worked two years on [cast.li](http://cast.li) which is an highlighting tool too. I stopped development on project by the end of last year after struggling with attracting new users. Somehow is Hypothes.is the proof that the concept holds and I can contribute to it becoming a success by applying the first hand knowledge I gained through cast.li. This said, I have several years of programming experience, so with help from the hypothes.is team I should quickly get up to speed with coding.
 
 ##First contact##
+The first time I heard about Hypothes.is was when I attended the UI class at the iSchool. Jake Hartnell who happens to be Hypothes.is' product manager was taking the same class. We quickly got into a discussion about the usefulness of highlighting on the internet and I showed him cast.li. His reaction was very positive and he asked me if I wanted to help developing hypothes.is, and because of the above mentioned reasons it was not hard to convince me. Generally speaking was the first contact very informal. I ran by accident into Jake and it developed from there.
+
+##Communication channels##
+Hypothes.is uses several communication channels to stay in contact with their contributors and to keep track of the development. 
+The first source of information is their extensive [website](http://hypothes.is/). It offers many kinds of information, including a page explaining how to contribute.
+The most important source is the git-repository called [h](https://github.com/hypothesis/h/). It includes all the core files and changes made. Especially interesting for new contributors are the INSTALL files which include a step to step guide to get the server running on different operating systems.
+They also use a [mailing list](mailto:dev+subscribe@list.hypothes.is) and an [archive](http://list.hypothes.is/archive/dev/). It seems that the mailing list is not very active at the moment, but there has been some communication in the past. It has been mostly used for communication with external partners.
+There is also a [forum](https://groups.google.com/forum/#!forum/hypothesis-forum). It looks like it's new since the archive only goes back two months. Here most of the threads are started by user reporting some kind of a problem or bug.
+They promote a IRC channel [#hypothes.is](http://webchat.freenode.net/?channels=hypothes.is) on the website for people to go to when they need help. I have been there several days, and although there are about 20 people in the chat-room did no one talk. I think that people know each other in the chat and mostly use it for contacting others via PMs.
+For developers they link to a [site](https://github.com/hypothesis/h/blob/develop/CONTRIBUTING.rst) where the coding style is explained together with other practicalities like licensing and how to branch correctly.
+The last thing which is worth mentioning is their [issue tracker](https://github.com/hypothesis/h/issues). They use git's standard tracker with tags for categorizing the issues.
+
+##Barriers## 
 
 
 ##Did you follow a 'script'?##
