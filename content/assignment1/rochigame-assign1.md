@@ -4,7 +4,7 @@ Category: assignment
 Tags: peerlibrary
 Slug: rochigame-assign1
 Author: Rodrigo
-Summary: Brief stories of how people got involved in PeerLibrary
+Summary: Brief stories of how people got involved in the project
 
 [PeerLibrary](http://peerlibrary.org) is a nascent project that has been through radical redesigns recently, so there isn't a established community of remote contributors yet. Since we still meet mostly in person, I'll briefly tell stories of how people got involved.
 
@@ -12,7 +12,7 @@ The project's idea came up when I first met Tony. We were conceiving of an open 
 
 In the same week, we further developed the idea at the Internet Archive in a chat with Mek, Alexis, Brewster Kahle and some friends from Noisebridge. At the time, we were focused on the publishing mechanism and alternative metrics for peer review. At the time, the codebase was mostly written by three friends (Tony, Nihil and me).
 
-Later on, I emailed a crazy Slovenian dude called Mitar because of some unrelated research on collaborative decision making. We met in person and talked about that research for several hours (which was similar to something I was doing). However, when we mentioned our side projects, we accidentally found out that Mitar had been working precisely on the technical challenge that Tony and I were trying to solve (making annotations with Mozilla's pdf.js). Mitar immediately got involved, and is the project's most crucial contributor now.
+Later on, I emailed a crazy Slovenian dude called Mitar because of some unrelated research on collaborative decision making (it was similar to something I was doing). We met in person and talked about that research for several hours. However, when we mentioned our side projects, we accidentally found out that Mitar had been working precisely on the technical challenge that Tony and I were trying to solve (making annotations with Mozilla's pdf.js). Mitar immediately got involved, and is the project's most crucial contributor now.
 
 Some of the greatest contributions were not in pull requests, but in spoken feedback. After chatting with the PLOS folks when we met at Wikimedia, we decided to focus on the annotation feature (we concluded that we needed more data before experimenting with metrics).
 
