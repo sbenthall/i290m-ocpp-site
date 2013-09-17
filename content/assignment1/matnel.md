@@ -1,6 +1,9 @@
 Title: React
 Date: 2013-09-15 00:00
 Author: Matti
+Category: assignment1
+Slug: 
+Tags: reactjs
 
 *ASSIGNMENT 1: Report on your experience contacting and explaining your intention to contribute to the community.  Did you follow a 'script'?  Was it a formal or informal process? Did you face any barriers to participation?  Do you think your experience was personal or general?  Please include in your post links to opening conversations with the open project.  Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.*
 
