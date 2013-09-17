@@ -116,3 +116,7 @@ A constituent relationship management application for civic and community organi
 [Main site](http://www.civicrm.org)
 [Basic info on getting involved](http://civicrm.org/participate/community)
 [Developer info](http://civicrm.org/participate/developer)
+
+## LocalWiki
+
+[LocalWiki](http://localwiki.org/) are a grassroots effort to collect, share and open the world’s local knowledge. For example, see [OaklandWiki](http://oaklandwiki.org/). It is using custom software for geo-based wikis. The project is being developed with many people from Oakland, so in-person communication and involvment is possible as well.
