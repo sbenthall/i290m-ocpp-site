@@ -3,11 +3,11 @@ Assignment 1
 
 :date: 2013-09-16 10:38
 
-:tags: starting, OS
+:tags: courtlistener
 
 :category: assignments
 
-:slug: assignment1
+:slug: amcconachie-assign1
 
 :author: Andrew McConachie
 
