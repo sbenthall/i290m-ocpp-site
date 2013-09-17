@@ -87,3 +87,32 @@ Hypothes.is brings community peer review to The Internet through a web applicati
 
 [Hypothes.is](http://hypothes.is/what-is-it/)
 [GitHub Page](https://github.com/hypothesis/h)
+
+## Khan Academy 
+
+[KhanAcademy Exercises](https://github.com/Khan/khan-exercises) is KhanAcademy's repository for contribution to their math and statistics exercises. They have really great new contributor documentation, [Getting Involved Docs](https://github.com/Khan/khan-exercises/wiki/Getting-Involved), and a ton of opportunities to get involved in the project at varying technical level. The have a lot of interesting infrastructure set up to support peer production of exercises. I found their bug reporting infrastructure, where user report bugs are immediately created as Github Issues, to be particularly cool.
+
+
+## KarmaNotes.org
+
+KarmaNotes is a shared collection of academic resources created by students for students. Like the give-a-penny jar, KarmaNotes aggregates digital knowledge for the common good. Best of all, our capacity for learning resources is practically limitless, and withdrawals are entirely free.
+
+KarmaNotes is a project of the FinalsClub Foundation, which continues to grow thanks to the William and Flora Hewlett Foundation and generous scholars like you.
+
+Your contributions are welcome in the form of [code](https://github.com/FinalsClub/karmaworld), [learning content](http://karmanotes.org/university-of-california-berkeley/i290m-open-collaboration-and-peer-production-233), curation, and community support.  If you'd like to get more involved, simply contact <info@karmanotes.org>.  Thanks for helping to open education, one lecture at a time.
+
+[Learn more about KarmaNotes](http://karmanotes.org/about/)
+
+## OpenOakland.org
+
+A Code for America initiative through which "technologists, journalists, and city staff [are] collaborating to build a better Oakland using open civic web technologies."
+
+Take a look at [the list of current projects](http://openoakland.org/projects/) for more info.
+
+## CiviCRM.org
+
+A constituent relationship management application for civic and community organizing groups. 
+
+[Main site](http://www.civicrm.org)
+[Basic info on getting involved](http://civicrm.org/participate/community)
+[Developer info](http://civicrm.org/participate/developer)

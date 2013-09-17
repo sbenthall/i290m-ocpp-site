@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>i290M Open Collaboration and Peer Production</title><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/" rel="alternate"></link><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/feeds/all.atom.xml" rel="self"></link><id>courses.ischool.berkeley.edu/i290m-ocpp/site/</id><updated>2013-08-09T19:20:00-07:00</updated><entry><title>Lab 1 - Github, Pull Requests, and the Course Website</title><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab1.html" rel="alternate"></link><updated>2013-08-09T19:20:00-07:00</updated><author><name>Seb</name></author><id>tag:courses.ischool.berkeley.edu/i290m-ocpp/site,2013-08-09:article/lab1.html</id><summary type="html">&lt;p&gt;Welcome to the first Lab of &lt;strong&gt;i290M - Open Collaboration and Peer Production&lt;/strong&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>i290M Open Collaboration and Peer Production</title><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/" rel="alternate"></link><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/feeds/all.atom.xml" rel="self"></link><id>courses.ischool.berkeley.edu/i290m-ocpp/site/</id><updated>2013-09-16T19:20:00-07:00</updated><entry><title>Lab 2 - Internet Relay Chat (IRC)</title><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab2.html" rel="alternate"></link><updated>2013-09-16T19:20:00-07:00</updated><author><name>Seb</name></author><id>tag:courses.ischool.berkeley.edu/i290m-ocpp/site,2013-09-16:article/lab2.html</id><summary type="html">&lt;p&gt;In this lab, you will start using Internet Relay Chat (IRC), a chat service that has been around for a long time.&lt;/p&gt;
+&lt;p&gt;In particular, you will explore &lt;strong&gt;freenode&lt;/strong&gt;, an IRC network that provides support for &lt;em&gt;peer-directed project communities&lt;/em&gt;.&lt;/p&gt;
+&lt;h2&gt;Install and configure IRC&lt;/h2&gt;
+&lt;p&gt;Follow these &lt;a href="http://www.wikihow.com/Get-Started-with-IRC-%28Internet-Relay-Chat%29"&gt;WikiHow instructions&lt;/a&gt; for getting IRC working on your laptop.&lt;/p&gt;
+&lt;h2&gt;Get onto freenode&lt;/h2&gt;
+&lt;p&gt;Take a looke at the &lt;a href="http://freenode.net/"&gt;freenode&lt;/a&gt; website.  You might notice that their &lt;a href="http://freenode.net/philosophy.shtml"&gt;philosophy&lt;/a&gt; resonates with certain themes explored in this course.  Peruse their &lt;a href="http://www.ircbeginner.com/ircinfo/ircc-commands.html"&gt;policies&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To get onto freenode, you should configure your IRC client to access the server &lt;code&gt;chat.freenode.net&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Join the channel &lt;code&gt;#ischool&lt;/code&gt;. To do that, type the command:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;join&lt;/span&gt; &lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="n"&gt;ischool&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Take a look at this &lt;a href="http://www.ircbeginner.com/ircinfo/ircc-commands.html"&gt;list of IRC commands&lt;/a&gt;. Try all of them.&lt;/p&gt;
+&lt;h2&gt;Scavenger hunt&lt;/h2&gt;
+&lt;p&gt;Freenode is a vast world to explore.  This lab is open ended.  Try to go through the steps below.  If you find anything funny, try copying it into a pastebin and sharing it with the class.&lt;/p&gt;
+&lt;h3&gt;The #git channel&lt;/h3&gt;
+&lt;p&gt;Some of you have had trouble using git.&lt;/p&gt;
+&lt;p&gt;IRC channels are normally a great place to go if you are having trouble with a project.&lt;/p&gt;
+&lt;p&gt;I asked in the #git channel whether or not you should come to them with your Git questions.  I got some &lt;a href="https://gist.github.com/sbenthall/6590148"&gt;helpful responses&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Find the IRC channels for all the open source projects used in this course.  Add them to your automatic join list so that you are more plugged in to these communities.&lt;/p&gt;
+&lt;h3&gt;Other projects your use&lt;/h3&gt;
+&lt;p&gt;Check out this &lt;a href="http://freenode.net/primary_groups.shtml"&gt;incomplete list of projects&lt;/a&gt; supported by freenode.  Do you use any of them? Join their channel.&lt;/p&gt;
+&lt;h3&gt;Your project's channel&lt;/h3&gt;
+&lt;p&gt;Does your project (the one you are exploring for your assignments) have a channel?  Find it.  Send the name to the class so that they can check it out.&lt;/p&gt;
+&lt;p&gt;Introduce yourself.  Say you are interested in contributing.&lt;/p&gt;
+&lt;p&gt;Try to determine if the channel has an &lt;a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat_bot"&gt;IRC bot&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Find Karl Fogel and tell him you like his book&lt;/h3&gt;
+&lt;p&gt;Karl Fogel might be on-line.  See if you can find him.  Tell him you are reading his book for a class.  See if he is as nice as everyone says he is.&lt;/p&gt;
+&lt;h3&gt;Celebrity watch&lt;/h3&gt;
+&lt;p&gt;You get one (1) point for every person with a non-user Wikipedia page you can find in IRC.&lt;/p&gt;
+&lt;p&gt;Send a link to the wikipedia page and the name of the chatroom you have found them in into the #ischool channel so others can verify your find.&lt;/p&gt;
+&lt;h3&gt;Play with more commands&lt;/h3&gt;
+&lt;p&gt;There are &lt;a href="http://www.greenday.net/chat/commands.html"&gt;a lot more commands&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Send an IRC bot into our channel&lt;/h3&gt;
+&lt;p&gt;There are a lot of great IRC bots.  If you are interested in meeting facilitation, you might like &lt;a href="https://wiki.debian.org/MeetBot"&gt;MeetBot&lt;/a&gt;.  If you like nonsense, you might prefer &lt;a href="http://markovsky.sourceforge.net/"&gt;Markovsky&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you get bored of exploring IRC and there is still time in the lab, try to get an IRC bot into the #ischool channel.  &lt;/p&gt;</summary></entry><entry><title>Assignment 1 - Approaching a community</title><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/article/assign1.html" rel="alternate"></link><updated>2013-09-15T09:00:00-07:00</updated><author><name>Seb</name></author><id>tag:courses.ischool.berkeley.edu/i290m-ocpp/site,2013-09-15:article/assign1.html</id><summary type="html">&lt;p&gt;&lt;em&gt;ASSIGNMENT 1: Report on your experience contacting and explaining your intention to contribute to the community. Did you follow a 'script'? Was it a formal or informal process? Did you face any barriers to participation? Do you think your experience was personal or general? Please include in your post links to opening conversations with the open project. Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;To submit this assignment, please use a pull request.  Your assignment should be
+a file in Markdown format with the file name "first initial-last name-hyphen-'assign1.md'".  For example, John Doe should put a file named &lt;code&gt;jdoe-assign1.md&lt;/code&gt; into the &lt;code&gt;content/assignment1/&lt;/code&gt; directory.  &lt;/p&gt;
+&lt;p&gt;Note that blog posts in Pelican include metadata at the top of the file.
+See &lt;a href="http://docs.getpelican.com/en/latest/getting_started.html#file-metadata"&gt;here&lt;/a&gt; to learn more about Pelican content metadata.
+You should fill out the &lt;code&gt;Slug&lt;/code&gt; field with the same value as the filename, without the file extension.  E.g &lt;code&gt;jdoe-assign1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Please give your post an accurate Date.  Tag your post with the name of your project.  For example, you might have &lt;code&gt;Tags: peerlibrary&lt;/code&gt; in the header of your entry.&lt;/p&gt;
+&lt;p&gt;Include a link to the email archives of your project (or forum, if there are no email archives).  Ideally, you should post to the message you used to introduce yourself to the group.  If that is not appropriate for some reason, please provide the next best thing.  We are looking for evidence that you have identified the technical infrastructure of the project and used it to engage the community directly.&lt;/p&gt;</summary><category term="i290m-ocpp"></category></entry><entry><title>Lab 1 - Github, Pull Requests, and the Course Website</title><link href="courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab1.html" rel="alternate"></link><updated>2013-09-09T19:20:00-07:00</updated><author><name>Seb</name></author><id>tag:courses.ischool.berkeley.edu/i290m-ocpp/site,2013-09-09:article/lab1.html</id><summary type="html">&lt;p&gt;Welcome to the first Lab of &lt;strong&gt;i290M - Open Collaboration and Peer Production&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This course website is an open collaborative project.
 It is powered by a number of tools that are in wide use
 in open source development.
