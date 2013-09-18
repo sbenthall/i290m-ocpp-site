@@ -1,5 +1,5 @@
 Title: Elaine Assignment 1
-Date: 2013-9-17 2:00 PM
+Date: 2013-09-17 14:00
 Category: Assignments
 Tags: Assignment1
 Slug: ElaineA1
