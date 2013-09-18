@@ -1,4 +1,9 @@
-Title: Assignment 1 - Approaching CiviCRM Date: 2013-09-17 13:00 Category: assignment1 Slug: rperry-assign1 Tags: i290m-ocpp, civicrm Author: Robyn Perry Summary: How I jumped back into to working with the CiviCRM team on documentation, how I will contribute, including a summary of the CiviCRM participation structure.
+Title: Assignment 1 - Approaching CiviCRM 
+Date: 2013-09-17 13:00 Category: assignment1 
+Slug: rperry-assign1 
+Tags: i290m-ocpp, civicrm 
+Author: Robyn Perry 
+Summary: How I jumped back into to working with the CiviCRM team on documentation, how I will contribute, including a summary of the CiviCRM participation structure.
 
 I have participated in the CiviCRM community before, so my joining now is really an extension of relationship I've already built with the core development team and other members of the community. I've already "gotten in" and it's just a matter of having time and expressing willingness to jump back in. 
 
