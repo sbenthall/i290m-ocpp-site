@@ -24,20 +24,20 @@ We don't have control over how maintainers will respond when we send them patche
 
 Thankfully the upshot of feeling frustrated when maintainers don't contact you is feeling thankful when they do take the time to contact you.  So in the case of TripleA I am very thankful that the maintainers took the time to contact me and accept my patch.  They got a patch for their game that helps it work better when displayed on overhead projectors.  I got to interact with smart people and know that thousands of people all over the world are interacting with something I made and finding joy in it.  Contributing to open source is addictive, and sending that first patch into TripleA set me on a path to rediscovering the joy of hacking that I had somehow lost in the process of adapting my passion to my profession.  So while I hope the next time I contribute to open source engenders collaboration, I'm not going to stop sending patches to maintainers even if they're too busy to accept them.  I still have many itches that need scratching[9].
 
-*[1] http://people.ischool.berkeley.edu/~bcarver/juriscraper.html
+*[1] [http://people.ischool.berkeley.edu/~bcarver/juriscraper.html]
 
-*[2] Free Law Project Development Mailman archives http://lists.freelawproject.org/pipermail/dev/
+*[2] [Free Law Project Development Mailman archives](http://lists.freelawproject.org/pipermail/dev/)
 
-*[3] http://sourceforge.net/p/triplea/mailman/message/21718648/
+*[3] [http://sourceforge.net/p/triplea/mailman/message/21718648/]
 
-*[4]http://bb.secdev.org/scapy/issue/788/update-to-dhcp_request-in-dhcppy
+*[4] [http://bb.secdev.org/scapy/issue/788/update-to-dhcp_request-in-dhcppy]
 
-*[5] http://www.freebsd.org/cgi/query-pr.cgi?pr=kern/167202
+*[5] [http://www.freebsd.org/cgi/query-pr.cgi?pr=kern/167202]
 
-*[6]https://github.com/smutt/hexcap/tree/master/dpkt-read-only/dpkt
+*[6] [https://github.com/smutt/hexcap/tree/master/dpkt-read-only/dpkt]
 
-*[7]https://github.com/smutt/hexcap/
+*[7] [https://github.com/smutt/hexcap/]
 
-*[8]https://groups.google.com/forum/#!topic/dpkt/Y1ixQQdNjhY
+*[8] [https://groups.google.com/forum/#!topic/dpkt/Y1ixQQdNjhY]
 
 *[9] The Cathedral and the Bazaar, Eric S Raymond, 1999, O'Reilly
