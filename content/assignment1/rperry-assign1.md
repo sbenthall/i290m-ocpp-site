@@ -1,5 +1,6 @@
 Title: Assignment 1 - Approaching CiviCRM 
-Date: 2013-09-17 13:00 Category: assignment1 
+Date: 2013-09-17 13:00
+Category: assignment1 
 Slug: rperry-assign1 
 Tags: i290m-ocpp, civicrm 
 Author: Robyn Perry 
