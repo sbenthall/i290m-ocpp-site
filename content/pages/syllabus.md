@@ -38,7 +38,7 @@ Required:
 - Raymond, E. “How to ask questions the smart way” [link](http://www.catb.org/esr/faqs/smart-questions.html)
 - von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). [link](http://flosshub.org/system/files/rp-vonkroghspaethlakhani.pdf)
 
-**9/17 IRC Field Trip - LAB 4**
+**9/17 IRC Field Trip - LAB 3**
 
 *ASSIGNMENT 1: Report on your experience contacting and explaining your intention to contribute to the community.  Did you follow a 'script'?  Was it a formal or informal process? Did you face any barriers to participation?  Do you think your experience was personal or general?  Please include in your post links to opening conversations with the open project.  Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.*
 
@@ -56,7 +56,7 @@ Optional :
 - Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). [article](http://link.springer.com/article/10.1140/epjb/e2010-00279-x)
 - Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). [Article](http://sociology.stanford.edu/people/mgranovetter/.../granstrengthweakties.pdf‎)
 
-**9/24 Data exploration LAB 3**
+**9/24 Hunting Social Epidemics & Human Timing (Data exploration) LAB 4**
 
 **9/27 History of open collaboration and the Web - Seb**
 
