@@ -54,7 +54,7 @@ Optional :
 
 - Danescu-Niculescu-Mizil, C., Sudhof, M., Jurafsky, D., Leskovec, J. & Potts, C. A computational approach to politeness with application to social factors. In Proceedings of ACL (2013). [link](http://www.mpi-sws.org/~cristian/Politeness.html)
 - Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). [article](http://link.springer.com/article/10.1140/epjb/e2010-00279-x)
-- Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). [Article](http://sociology.stanford.edu/people/mgranovetter/.../granstrengthweakties.pdf‎)
+- Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). [Article](http://sociology.stanford.edu/people/mgranovetter/documents/granstrengthweakties.pdf)
 
 **9/24 Hunting Social Epidemics & Human Timing (Data exploration) LAB 4**
 
