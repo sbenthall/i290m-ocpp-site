@@ -58,21 +58,26 @@ Optional :
 
 **9/24 Data exploration LAB 3**
 
-**9/27 History of open collaboration and the Web - Seb**
+**9/27 Intellectual history - Seb**
 
 Required:
 
-- GNU Philosophy. [link](http://www.gnu.org/philosophy/)
-- ESR.A Brief History of Hackerdom. [link](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/)
 - “Brief history of open source” [link](http://www.netc.org/openoptions/background/history.html)
-- Froomkin, A. Michael. “Habermas@Discourse. Net: Toward a Critical Theory of Cyberspace.” Harvard Law Review 116, no. 3 (January 2003): 749–873. Read only pp. 782-795.
-- Belenzon, S. & Schankerman, M. A. Motivation and sorting in open source software innovation. Social Science Research Network Working Paper Series (2009). [working paper](http://ssrn.com/abstract=1401776).
+- Stallman, R. "Why Software Should Not Have Owners." [link](http://www.gnu.org/philosophy/why-free.html)
+- [O'Reilly, T.](http://www.ischool.berkeley.edu/newsandevents/news/20120216timoreilly) "The Architecture of Participation" [link](http://oreillynet.com/pub/wlg/3017).
+- (just the introduction) O'Reilly, T. "Government as a Platform" [link](http://chimera.labs.oreilly.com/books/1234000000774/ch01.html)
+- skim Newitz, A. "I've Seen the Worst Memes of My Generation Destroyed by Madness" [link](http://io9.com/ive-seen-the-worst-memes-of-my-generation-destroyed-by-464948581) (note comment by O'Reilly) about Morozov, E. "The Meme Hustler" [link](http://www.thebaffler.com/past/the_meme_hustler)
+- Froomkin, A. Michael. *Read only Section II, pp. 777-795.* “Habermas@Discourse. Net: Toward a Critical Theory of Cyberspace.” Harvard Law Review 116, no. 3 (January 2003): 749–873. [link](http://osaka.law.miami.edu/~froomkin/discourse/ils.pdf)
+- Chapter 3, "The Movement", and Chapter 4, "Sharing Source Code", from Kelty, C. *Two Bits* [link](http://twobits.net/pub/Kelty-TwoBits.pdf)
+- Hill, B "Mako".  "When Free Software isn't (Practically) Better." [video](http://media.libreplanet.org/u/libby/m/mako/)
 
 Optional :
 
-- Raymond, E. The cathedral and the bazaar. Knowledge, Technology & Policy 12, 23-49 (1999).
+- Raymond, E. "The cathedral and the bazaar." Knowledge, Technology & Policy 12, 23-49 (1999). [link](http://www.catb.org/esr/writings/homesteading/)
+- Raymond, E. "A Brief History of Hackerdom." [link](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/)
 - Levy, S. Hackers: Heroes of the Computer Revolution (O'Reilly, 2010), 3rd edn.
 - Glass, R. L. The sociology of open source: Of cults and cultures. IEEE Software 17, 104-105 (2000). [article](http://dx.doi.org/10.1109/ms.2000.10027).
+- Belenzon, S. & Schankerman, M. A. Motivation and sorting in open source software innovation. Social Science Research Network Working Paper Series (2009). [working paper](http://ssrn.com/abstract=1401776).
 
 **10/1  (Class meet in IRC channel) LAB 5**
 
