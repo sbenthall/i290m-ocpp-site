@@ -1,5 +1,5 @@
 Title: Lab 1 - Github, Pull Requests, and the Course Website
-Date: 2013-08-09 19:20
+Date: 2013-09-09 19:20
 Category: lab
 Slug: lab1
 Author: Seb
