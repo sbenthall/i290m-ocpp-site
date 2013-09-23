@@ -76,7 +76,9 @@ Optional :
 - Raymond, E. "The cathedral and the bazaar." Knowledge, Technology & Policy 12, 23-49 (1999). [link](http://www.catb.org/esr/writings/homesteading/)
 - Raymond, E. "A Brief History of Hackerdom." [link](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/)
 - Levy, S. Hackers: Heroes of the Computer Revolution (O'Reilly, 2010), 3rd edn.
+<!--
 - Glass, R. L. The sociology of open source: Of cults and cultures. IEEE Software 17, 104-105 (2000). [article](http://dx.doi.org/10.1109/ms.2000.10027).
+-->
 - Belenzon, S. & Schankerman, M. A. Motivation and sorting in open source software innovation. Social Science Research Network Working Paper Series (2009). [working paper](http://ssrn.com/abstract=1401776).
 
 **10/1  (Class meet in IRC channel) LAB 5**
