@@ -19,17 +19,17 @@ Think of an event which you believe has (not) triggered a social epidemic
 
 Search for it on [Google Trends](http://www.google.com/trends/)
 
-# Bare response (no triggering => peak followed by fast decay)
+### Bare response (no triggering => peak followed by fast decay)
 
 Example : [Jackie Chan](http://www.google.com/trends/explore#q=Jackie%20Chan&geo=US&date=8%2F2011%204m&cmpt=q)
 
 
-# Exogenous critical  (triggering from an initial external shock => peak followed by a slow decay)
+### Exogenous critical  (triggering from an initial external shock => peak followed by a slow decay)
 
 Example : [Harry Potter May2011-Jan2013](http://www.google.com/trends/explore?q=harry+potter#q=harry%20potter&date=5%2F2011%2021m&cmpt=q)
 
 
-# Endogenous critical (triggering by word of mouths => "tent-like" shape)
+### Endogenous critical (triggering by word of mouths => "tent-like" shape)
 
 Example : [Harry Potter Apr2007-Oct2007](http://www.google.com/trends/explore?q=harry+potter#q=harry%20potter&date=4%2F2007%207m&cmpt=q)
 
