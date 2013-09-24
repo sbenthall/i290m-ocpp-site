@@ -27,7 +27,7 @@ Optional :
 
 **9/10 Github and Pull Requests LAB 2**
 
-[LAB 2](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab1.html)
+[LAB 2](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab2.html)
 
 **9/13 Technical Infrastructure and Community Etiquette - Seb**
 
@@ -39,6 +39,8 @@ Required:
 - von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). [link](http://flosshub.org/system/files/rp-vonkroghspaethlakhani.pdf)
 
 **9/17 IRC Field Trip - LAB 3**
+
+[LAB 3](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab3.html)
 
 *ASSIGNMENT 1: Report on your experience contacting and explaining your intention to contribute to the community.  Did you follow a 'script'?  Was it a formal or informal process? Did you face any barriers to participation?  Do you think your experience was personal or general?  Please include in your post links to opening conversations with the open project.  Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.*
 
@@ -57,6 +59,8 @@ Optional :
 - Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). [Article](http://sociology.stanford.edu/people/mgranovetter/documents/granstrengthweakties.pdf)
 
 **9/24 Hunting Social Epidemics & Human Timing (Data exploration) LAB 4**
+
+[LAB 4](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab4.html)
 
 **9/27 Intellectual history - Seb**
 
