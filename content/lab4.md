@@ -1,5 +1,5 @@
 Title: Lab 3 - Hunting Social Epidemics & Human Timing (Data exploration)
-Date: 2013-09-40 19:20
+Date: 2013-09-24 19:20
 Category: lab
 Slug: lab3
 Author: Thomas
