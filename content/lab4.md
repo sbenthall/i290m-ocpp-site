@@ -5,7 +5,9 @@ Slug: lab3
 Author: Thomas
 
 
-Summary: Our third lab will let you find social epidemics on Google trends. 
+###Summary & Description
+
+Our third lab will let you find social epidemics on Google trends. 
 
 
 Social epidemics arising from cascading influence of a socially linked population are a fundamental feature of open collaboration. While epidemic cascades can be found in open collaboration platforms (e.g. github, wiki), they are much easier to search and find on Google trends. The goal is to give you an intuitive sense of what social epidemics are in reality. You will then be able to detect them heuristically.
@@ -48,9 +50,9 @@ Paste the link on the following interactive pad in the right category :
 
 Try to find and report at least two of each category
 
-### d.To go further : hunting social triggering and generations of contributors on github
+### d. To go Further
 
-One can also find and report relevant dynamics on Github with successive generations of developers :
+Hunting social triggering and generations of contributors on github. Find and report relevant dynamics on Github with successive generations of developers :
 
 Example : [libgit2](https://github.com/libgit2/libgit2/contributors)
 
