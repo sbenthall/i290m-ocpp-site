@@ -58,7 +58,7 @@ Optional :
 - Mitrović, M., Paltoglou, G. & Tadić, B. Networks and emotion-driven user communities at popular blogs. The European Physical Journal B - Condensed Matter and Complex Systems 77, 597-609 (2010). [article](http://link.springer.com/article/10.1140/epjb/e2010-00279-x)
 - Granovetter, M. S. The strength of weak ties. American Journal of Sociology 78, 1360-1380 (1973). [Article](http://sociology.stanford.edu/people/mgranovetter/documents/granstrengthweakties.pdf)
 
-**9/24 Hunting Social Epidemics & Human Timing (Data exploration) LAB 4**
+**9/24 Hunting Social Epidemics & Human Timing (Data exploration)  LAB 4**
 
 [LAB 4](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab4.html)
 
@@ -82,7 +82,7 @@ Optional :
 - Levy, S. Hackers: Heroes of the Computer Revolution (O'Reilly, 2010), 3rd edn.
 - Belenzon, S. & Schankerman, M. A. Motivation and sorting in open source software innovation. Social Science Research Network Working Paper Series (2009). [working paper](http://ssrn.com/abstract=1401776).
 
-**10/1  (Class meet in IRC channel) LAB 5**
+**10/1  Local Pelican Installation LAB 5**
 
 **10/4 Game Theory and The Evolution of Cooperation - Thomas**
 
