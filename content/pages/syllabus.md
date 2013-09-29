@@ -88,15 +88,12 @@ Optional :
 
 Required :
 
-- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. :
-+ Chapter 2 : The Success of TIT FOR TAT in Computer Tournaments [paper](http://jcr.sagepub.com/content/24/1/3.short) 
-+ Chapter 3 : The Chronology of Cooperation [paper](http://www.jstor.org/stable/1961366)
-- Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010) [paper](http://www.smi.ethz.ch/news/docs/GachtervonKroghHaefliger_ResPol2010.pdf) 
+- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. : Chapter 2 : The Success of TIT FOR TAT in Computer Tournaments [article](http://jcr.sagepub.com/content/24/1/3.short),Chapter 3 : The Chronology of Cooperation [article](http://www.jstor.org/stable/1961366)
+- Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010) [article](http://www.smi.ethz.ch/news/docs/GachtervonKroghHaefliger_ResPol2010.pdf) 
 
 
 Optional : 
-- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. (excerpts)
-+ Chapter 5 :  [paper](http://www.sciencemag.org/content/211/4489/1390.short)
+- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. (excerpts) : Chapter 5 :  [article](http://www.sciencemag.org/content/211/4489/1390.short)
 - Helbing, D. & Yu, W. The outbreak of cooperation among success-driven individuals under noisy conditions. Proceedings of the National Academy of Sciences 106, 3680-3685 (2009).
 
 **10/8  (Class meet in IRC channel) LAB 6**
@@ -131,15 +128,15 @@ Optional :
 **10/18 Social Networks, Cooperation, and Group Performance - Thomas**
 
 Required :
-- Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [paper](http://mansci.journal.informs.org/content/53/7/1036.short).
-- Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [paper](http://dx.doi.org/10.1103/physreve.78.026117).
+- Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [article](http://mansci.journal.informs.org/content/53/7/1036.short).
+- Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [article](http://dx.doi.org/10.1103/physreve.78.026117).
 
 Optional :
-- Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [paper](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
-- Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [paper](http://www.jstor.org/stable/3069458)
-- Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005) [paper](http://dx.doi.org/10.1103/physreve.72.056118).
-- Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012) [paper](http://dx.doi.org/10.1038/nature10736)
-- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [paper](http://dx.doi.org/10.1126/science.1193147).
+- Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [article](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
+- Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [article](http://www.jstor.org/stable/3069458)
+- Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005) [article](http://dx.doi.org/10.1103/physreve.72.056118).
+- Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012) [article](http://dx.doi.org/10.1038/nature10736)
+- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [article](http://dx.doi.org/10.1126/science.1193147).
 
 **10/22  (Class meets in IRC channel) LAB 8**
 
