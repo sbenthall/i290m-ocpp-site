@@ -91,7 +91,7 @@ Required :
 - Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. :
 + Chapter 2 : The Success of TIT FOR TAT in Computer Tournaments [paper](http://jcr.sagepub.com/content/24/1/3.short) 
 + Chapter 3 : The Chronology of Cooperation [paper](http://www.jstor.org/stable/1961366)
-- Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010). 
+- Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010) [paper](http://www.smi.ethz.ch/news/docs/GachtervonKroghHaefliger_ResPol2010.pdf) 
 
 
 Optional : 
