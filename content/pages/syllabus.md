@@ -88,11 +88,15 @@ Optional :
 
 Required :
 
-- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. (excerpts)
+- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. :
++ Chapter 2 : The Success of TIT FOR TAT in Computer Tournaments [paper](http://jcr.sagepub.com/content/24/1/3.short) 
++ Chapter 3 : The Chronology of Cooperation [paper](http://www.jstor.org/stable/1961366)
 - Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010). 
 
-Optional : 
 
+Optional : 
+- Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. (excerpts)
++ Chapter 5 :  [paper](http://www.sciencemag.org/content/211/4489/1390.short)
 - Helbing, D. & Yu, W. The outbreak of cooperation among success-driven individuals under noisy conditions. Proceedings of the National Academy of Sciences 106, 3680-3685 (2009).
 
 **10/8  (Class meet in IRC channel) LAB 6**
@@ -124,19 +128,18 @@ Optional :
 
 *ASSIGNMENT 3: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Do they generalize to your experience? Or not? How?*
 
-**10/18 Social Networks, Cooperation, and Performance - Thomas**
+**10/18 Social Networks, Cooperation, and Group Performance - Thomas**
 
 Required :
-
-- Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007).
-- Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001).
-- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [link](http://dx.doi.org/10.1126/science.1193147).
+- Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [paper](http://mansci.journal.informs.org/content/53/7/1036.short).
+- Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [paper](http://dx.doi.org/10.1103/physreve.78.026117).
 
 Optional :
-- Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012).
-- Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008). URL http://dx.doi.org/10.1103/physreve.78.026117.
-- Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005). URL http://dx.doi.org/10.1103/physreve.72.056118.
-- Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012).
+- Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [paper](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
+- Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [paper](http://www.jstor.org/stable/3069458)
+- Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005) [paper](http://dx.doi.org/10.1103/physreve.72.056118).
+- Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012) [paper](http://dx.doi.org/10.1038/nature10736)
+- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [paper](http://dx.doi.org/10.1126/science.1193147).
 
 **10/22  (Class meets in IRC channel) LAB 8**
 
@@ -157,14 +160,12 @@ Business models:
 **11/1 Designing Organizations for Productive Bursts - Thomas**
 
 Required :
-
-- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012).
-- Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. 
+- Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list)
+- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://aisel.aisnet.org/misq/vol36/iss2/16/)
 
 Optional : 
-
-- Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002).
-- Maillart et al.,  Superlinear Productivity in Open Source Software
+- Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎).
+- Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list)
 
 **11/5  (Class meets in IRC channel) LAB 10**
 
@@ -181,15 +182,13 @@ Readings:
 **11/15  Licenses, Economics and Management of Modularity - Thomas**
 
 Required :
-
-- Gal, M. S. Viral open source: Competition vs. synergy. Journal of Competition Law and Economics (2012).
-- Baldwin, C. Y. & Clark, K. B. The architecture of participation: Does code architecture mitigate free riding in the open source development model? Manage. Sci. 52, 1116-1127 (2006).
+- Gal, M. S. Viral open source: Competition vs. synergy. Journal of Competition Law and Economics (2012) [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1978374)
+- Baldwin, C. Y. & Clark, K. B. The architecture of participation: Does code architecture mitigate free riding in the open source development model? Manage. Sci. 52, 1116-1127 (2006) [paper](http://mansci.journal.informs.org/content/52/7/1116.abstract)
 
 Optional :
-
-- Maccormack, A. D., Rusnak, J. & Baldwin, C. Y. Exploring the duality between product and organizational architectures: A test of the mirroring hypothesis. Harvard Business School Working Papers (2008).
-- Maillart, T., Sornette, D., Spaeth, S. & von Krogh, G. Empirical tests of zipf's law mechanism in open source linux distribution. Physical Review Letters 101, 218701+ (2008).
-- Simon, H. The architecture of complexity. Proceeding of American Philosophy Society 106, 467-482 (1962).
+- MacCormack, A., Baldwin, C. & Rusnak, J. Exploring the duality between product and organizational architectures: A test of the ” mirroring” hypothesis. Research Policy 41, 1309-1324 (2012) [paper](http://dx.doi.org/10.1016/j.respol.2012.04.011).
+- Maillart, T., Sornette, D., Spaeth, S. & von Krogh, G. Empirical tests of zipf's law mechanism in open source linux distribution. Physical Review Letters 101, 218701+ (2008) [paper](http://prl.aps.org/abstract/PRL/v101/i21/e218701).
+- Simon, H. The architecture of complexity. Proceeding of American Philosophy Society 106, 467-482 (1962) [paper](http://www.jstor.org/discover/10.2307/985254).
 
 **11/19  (Class meets in IRC channel) LAB 12**
 
