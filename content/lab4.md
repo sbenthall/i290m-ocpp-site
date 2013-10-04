@@ -1,63 +1,66 @@
-Title: Lab 3 - Hunting Social Epidemics & Human Timing (Data exploration)
-Date: 2013-09-24 19:20
+Title: Lab 4 - Build Pelican site locally
+Date: 2013-09-30 21:30
 Category: lab
-Slug: lab3
-Author: Thomas
-
-
-###Summary & Description
-
-Our third lab will let you find social epidemics on Google trends. 
-
-
-Social epidemics arising from cascading influence of a socially linked population are a fundamental feature of open collaboration. While epidemic cascades can be found in open collaboration platforms (e.g. github, wiki), they are much easier to search and find on Google trends. The goal is to give you an intuitive sense of what social epidemics are in reality. You will then be able to detect them heuristically.
-
-
-### a. Think
-
-Think of an event which you believe has (not) triggered a social epidemic 
-
-### b. Search
-
-Search for it on [Google Trends](http://www.google.com/trends/)
-
-#### Bare response (no triggering => peak followed by fast decay)
-
-Example : [Jackie Chan](http://www.google.com/trends/explore#q=Jackie%20Chan&geo=US&date=8%2F2011%204m&cmpt=q)
-
-
-#### Exogenous critical  (triggering from an initial external shock => peak followed by a slow decay)
-
-Example : [Harry Potter May2011-Jan2013](http://www.google.com/trends/explore?q=harry+potter#q=harry%20potter&date=5%2F2011%2021m&cmpt=q)
-
-
-#### Endogenous critical (triggering by word of mouths => "tent-like" shape)
-
-Example : [Harry Potter Apr2007-Oct2007](http://www.google.com/trends/explore?q=harry+potter#q=harry%20potter&date=4%2F2007%207m&cmpt=q)
-
-
-If you have no idea, just browse [Google Trends TopCharts](http://www.google.com/trends/topcharts)  (Actors typically work well) 
-
-
-#### Refine the timeline in order to get an appearance like the dynamics showed during the class.
-
-
-### c. Report & Classify 
-
-
-Paste the link on the following interactive pad in the right category :
-[Public Pad](http://titanpad.com/gY8kVObyOC)
-
-Try to find and report at least two of each category
-
-### d. To go Further
-
-Hunting social triggering and generations of contributors on github. Find and report relevant dynamics on Github with successive generations of developers :
-
-Example : [libgit2](https://github.com/libgit2/libgit2/contributors)
-
-If you have no idea of a project with enough activity , just browse [Explore GitHub](https://github.com/explore)
+Slug: lab4
+Author: Seb
 
 
 
+This guide takes you through the steps you need to build and test the course website locally.  From now on, you will be expected to test your commits by publishing the site locally before submitting pull requests.
 
+Our site is made with Pelican, a Python static-site generator.
+
+If you are familiar with Python development, you are probably familiar with [virtualenv](http://www.virtualenv.org/en/latest/), a tool for creating isolated Python environments.  In this guide we will use virtualenv.  Please install it now, or proceed without it at your own risk.
+
+1. Make a directory to work in, and go into it
+
+    mkdir i290m-test
+
+    cd i290m
+
+2. Make a virtualenv there.  This will create a Python environment where you can install things without interacting with the Python packages you have installed globally on your machine
+
+    virtualenv venv
+
+3. Activate the virtualenv.  This will change the Python instance you are using, and make it so any libraries you install are installed to the local instance
+
+    source venv/bin/activate
+
+4. Clone the course site.  Use the URL of your own fork if you are intending to push changes back upstream.
+
+    git clone https://github.com/sbenthall/i290m-ocpp-site.git
+
+5. Install [Pelican](http://docs.getpelican.com/en/3.2/) and Markdown
+
+    pip install pelican
+
+    pip install Markdown
+
+6. Clone the site theme and make sure Pelican knows about it
+
+    git clone https://github.com/sbenthall/dissertron-theme.git
+    
+    pelican-themes -i dissertron-theme/
+
+7. Go into the site directory, publish the content to HTML, and serve the files locally
+
+    cd i290m-ocpp-site/
+
+    make publish
+
+    make serve
+
+8. Explore the website, which should be at [localhost:8000](http://localhost:8000/)
+
+9. You can use Ctrl-D to interrupt the server and regain control of your terminal.  Or you can open another terminal to make changes to content and run `make publish`.  You should immediately be able to see the changes by refreshing your browser.
+
+
+###Troubleshooting:
+
+You may encounter this error:
+
+    No distributions matching the version for pytz (from pelican)
+
+In that case, try using this command instead to install Pelican:
+
+    easy_install pelican

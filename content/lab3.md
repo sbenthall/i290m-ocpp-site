@@ -1,73 +1,63 @@
-Title: Lab 2 - Internet Relay Chat (IRC)
-Date: 2013-09-16 19:20
+Title: Lab 3 - Hunting Social Epidemics & Human Timing (Data exploration)
+Date: 2013-09-24 19:20
 Category: lab
-Slug: lab2
-Author: Seb
-Summary: Our second lab will introduce you to Internet Relay Chat (IRC) and the Freenode server, which hosts the virtual meeting rooms of most of the world's open projects
-
-In this lab, you will start using Internet Relay Chat (IRC), a chat service that has been around for a long time.
-
-In particular, you will explore **freenode**, an IRC network that provides support for *peer-directed project communities*.
+Slug: lab3
+Author: Thomas
 
 
-## Install and configure IRC
+###Summary & Description
 
-Follow these [WikiHow instructions](http://www.wikihow.com/Get-Started-with-IRC-%28Internet-Relay-Chat%29) for getting IRC working on your laptop.
+Our third lab will let you find social epidemics on Google trends. 
 
-## Get onto freenode
 
-Take a looke at the [freenode](http://freenode.net/) website.  You might notice that their [philosophy](http://freenode.net/philosophy.shtml) resonates with certain themes explored in this course.  Peruse their [policies](http://www.ircbeginner.com/ircinfo/ircc-commands.html).
+Social epidemics arising from cascading influence of a socially linked population are a fundamental feature of open collaboration. While epidemic cascades can be found in open collaboration platforms (e.g. github, wiki), they are much easier to search and find on Google trends. The goal is to give you an intuitive sense of what social epidemics are in reality. You will then be able to detect them heuristically.
 
-To get onto freenode, you should configure your IRC client to access the server `chat.freenode.net`
 
-Join the channel `#ischool`. To do that, type the command:
+### a. Think
 
-    /join #ischool
+Think of an event which you believe has (not) triggered a social epidemic 
 
-Take a look at this [list of IRC commands](http://www.ircbeginner.com/ircinfo/ircc-commands.html). Try all of them.
+### b. Search
 
-## Scavenger hunt
+Search for it on [Google Trends](http://www.google.com/trends/)
 
-Freenode is a vast world to explore.  This lab is open ended.  Try to go through the steps below.  If you find anything funny, try copying it into a pastebin and sharing it with the class.
+#### Bare response (no triggering => peak followed by fast decay)
 
-### The #git channel
+Example : [Jackie Chan](http://www.google.com/trends/explore#q=Jackie%20Chan&geo=US&date=8%2F2011%204m&cmpt=q)
 
-Some of you have had trouble using git.
 
-IRC channels are normally a great place to go if you are having trouble with a project.
+#### Exogenous critical  (triggering from an initial external shock => peak followed by a slow decay)
 
-I asked in the #git channel whether or not you should come to them with your Git questions.  I got some [helpful responses](https://gist.github.com/sbenthall/6590148).
+Example : [Harry Potter May2011-Jan2013](http://www.google.com/trends/explore?q=harry+potter#q=harry%20potter&date=5%2F2011%2021m&cmpt=q)
 
-Find the IRC channels for all the open source projects used in this course.  Add them to your automatic join list so that you are more plugged in to these communities.
 
-### Other projects your use
+#### Endogenous critical (triggering by word of mouths => "tent-like" shape)
 
-Check out this [incomplete list of projects](http://freenode.net/primary_groups.shtml) supported by freenode.  Do you use any of them? Join their channel.
+Example : [Harry Potter Apr2007-Oct2007](http://www.google.com/trends/explore?q=harry+potter#q=harry%20potter&date=4%2F2007%207m&cmpt=q)
 
-### Your project's channel
 
-Does your project (the one you are exploring for your assignments) have a channel?  Find it.  Send the name to the class so that they can check it out.
+If you have no idea, just browse [Google Trends TopCharts](http://www.google.com/trends/topcharts)  (Actors typically work well) 
 
-Introduce yourself.  Say you are interested in contributing.
 
-Try to determine if the channel has an [IRC bot](http://en.wikipedia.org/wiki/Internet_Relay_Chat_bot).
+#### Refine the timeline in order to get an appearance like the dynamics showed during the class.
 
-### Find Karl Fogel and tell him you like his book
 
-Karl Fogel might be on-line.  See if you can find him.  Tell him you are reading his book for a class.  See if he is as nice as everyone says he is.
+### c. Report & Classify 
 
-### Celebrity watch
 
-You get one (1) point for every person with a non-user Wikipedia page you can find in IRC.
+Paste the link on the following interactive pad in the right category :
+[Public Pad](http://titanpad.com/gY8kVObyOC)
 
-Send a link to the wikipedia page and the name of the chatroom you have found them in into the #ischool channel so others can verify your find.
+Try to find and report at least two of each category
 
-### Play with more commands
+### d. To go Further
 
-There are [a lot more commands](http://www.greenday.net/chat/commands.html).
+Hunting social triggering and generations of contributors on github. Find and report relevant dynamics on Github with successive generations of developers :
 
-### Send an IRC bot into our channel
+Example : [libgit2](https://github.com/libgit2/libgit2/contributors)
 
-There are a lot of great IRC bots.  If you are interested in meeting facilitation, you might like [MeetBot](https://wiki.debian.org/MeetBot).  If you like nonsense, you might prefer [Markovsky](http://markovsky.sourceforge.net/).
+If you have no idea of a project with enough activity , just browse [Explore GitHub](https://github.com/explore)
 
-If you get bored of exploring IRC and there is still time in the lab, try to get an IRC bot into the #ischool channel.  
+
+
+
