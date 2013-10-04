@@ -24,16 +24,17 @@ Zooniverse also actively contributes to open access journals (like arXiv’s Ast
 
 Since this is such a large project and CSA states on Zooniverse “Contact Us” that they receive many emails and may not respond to all correspondence, my intention for the first draft of Assignment 1 was to: (a) understand the organizational and technical structure of Zooniverse (CSA); (b) understand what data may be available for analysis of this community (mostly noted in footnotes); and (c) determine first steps in developing my Zooniverse project profile and contacting the organization. In my research, I discovered one of the Zooniverse Nature projects used entomology data from “CalBug” – a consortium of UC museums/libraries including the UC Berkeley Essig Museum of Entomology. I reached out to Peter Oboyski to see if I could talk about how they got involved with citizen science and Zooniverse specifically. He referred me to Joanie Ball who has been directly involved with the citizen science push from the beginning. My plan is to try and contact any local contributors or scientific contributors before reaching out to Citizen Science Alliance so I have more heft in my questions and interactions.
 
-(1) https://www.zooniverse.org/about
-(2) List of partner institutions that contribute technical support or data to CSA (http://www.citizensciencealliance.org/partners.html) which includes UC Berkeley.
-(3) http://www.citizensciencealliance.org/downloads/zooniverse_guide.pdf
-(4) https://github.com/zooniverse/ Contains metadata about who contributes (staff members) and how the Zooniverse platform is developed is available, though it does not appear that code contributions from users are accepted. Interestingly enough, the technical director (Arfon Smith) just publically announced his resignation to go and work for GitHub as their “science guy.”
-(5) Example of a research forum for a project. (http://www.galaxyzooforum.org/). This is the oldest forum, so it has a much richer history (and generally more participation) than other newer forums. Newer projects host forums through the dashboard, (Example: http://talk.notesfromnature.org/#/boards) and contain metadata about the project. (Number of posts and participants in the Discussion).
-(6) http://quench.galaxyzoo.org/ 
-(7) http://tools.zooniverse.org/#/dashboards/galaxy_zoo
-The Zootools dashboard offers a way for users to analyze group contributions and progress. This tool is in beta testing, and may be a good resource for this research project about the community. Additionally, http://live.zooniverse.org/ was launched in August 2013 and offers a real-time visualization on contributions made to the project.
+###References :
+
+(1) https://www.zooniverse.org/about  
+(2) List of partner institutions that contribute technical support or data to CSA (http://www.citizensciencealliance.org/partners.html) which includes UC Berkeley.  
+(3) http://www.citizensciencealliance.org/downloads/zooniverse_guide.pdf  
+(4) https://github.com/zooniverse/ Contains metadata about who contributes (staff members) and how the Zooniverse platform is developed is available, though it does not appear that code contributions from users are accepted. Interestingly enough, the technical director (Arfon Smith) just publically announced his resignation to go and work for GitHub as their “science guy.”  
+(5) Example of a research forum for a project. (http://www.galaxyzooforum.org/). This is the oldest forum, so it has a much richer history (and generally more participation) than other newer forums. Newer projects host forums through the dashboard, (Example: http://talk.notesfromnature.org/#/boards) and contain metadata about the project. (Number of posts and participants in the Discussion).  
+(6) http://quench.galaxyzoo.org/   
+(7) http://tools.zooniverse.org/#/dashboards/galaxy_zoo, The Zootools dashboard offers a way for users to analyze group contributions and progress. This tool is in beta testing, and may be a good resource for this research project about the community. Additionally, http://live.zooniverse.org/ was launched in August 2013 and offers a real-time visualization on contributions made to the project.  
 (8) http://blog.zooniverse.org/  
-(9) https://twitter.com/the_zooniverse; https://www.facebook.com/therealzooniverse 
+(9) https://twitter.com/the_zooniverse; https://www.facebook.com/therealzooniverse  
 
 
 Attachment 1: Email correspondence with UC Berkeley Essig Museum of Entomology.
