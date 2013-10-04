@@ -62,7 +62,7 @@ Optional :
 
 [LAB 3](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/lab3.html)
 
-**9/27 Intellectual history - Seb**
+**9/27 Intellectual and Institutional History - Seb**
 
 Required:
 
@@ -145,7 +145,7 @@ Optional :
 
 *ASSIGNMENT 4: How does your community make tough decisions?  What is it's governmance model--for example, is it a benevolent dictatorship, or consensus driven? How did it get to be that way? Do you think this governance model is conducive to cooperation on your project?  Are there hidden power dynamics in your project that influence decision-making but are not explicitly part of the governance model?  Think critically about the social organization of your project: could you improve on it? Where possible, link to your community's policy documents and examples of community behavior.*
 
-**10/25  Business Models - Seb**
+**10/25  Money - Seb**
 
 Business models:
 
