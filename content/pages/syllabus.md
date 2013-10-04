@@ -119,9 +119,15 @@ Required :
 - Freeman, J. The "Tyranny of Structurelessness" [link](http://www.jofreeman.com/joreen/tyranny.htm)
 - Shah, S. K. Motivation, governance, and the viability of hybrid forms in open source software development. Manage. Sci. 52, 1000-1014 (2006). [link](http://faculty.washington.edu/skshah/Shah%20-%20Motivation,%20Governance,%20Hybrid%20Forms.pdf)
 
+Optional :
+
+- "Arrows Impossibility Theorem" [link](http://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
+
 Example bylaws documents:
+
 - Apache Pig Bylaws [link](http://www.apache.org/foundation/voting.html)
 - GeoServer Community Process [link](http://docs.geoserver.org/stable/en/developer/policies/community-process.html)
+- Linux Bylaws [link](http://www.linuxfoundation.org/about/bylaws)
 - Wikipedia Governance - [link](http://p2pfoundation.net/Wikipedia_-_Governance)
 
 **10/15  (Class meet in IRC channel) LAB 6**
