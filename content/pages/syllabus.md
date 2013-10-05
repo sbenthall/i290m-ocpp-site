@@ -137,10 +137,12 @@ Example bylaws documents:
 **10/18 Social Networks, Cooperation, and Group Performance - Thomas**
 
 Required :
+
 - Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [article](http://mansci.journal.informs.org/content/53/7/1036.short).
 - Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [article](http://dx.doi.org/10.1103/physreve.78.026117).
 
 Optional :
+
 - Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [article](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
 - Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [article](http://www.jstor.org/stable/3069458)
 - Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005) [article](http://dx.doi.org/10.1103/physreve.72.056118).
@@ -166,10 +168,12 @@ Business models:
 **11/1 Designing Organizations for Productive Bursts - Thomas**
 
 Required :
+
 - Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list)
 - von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://aisel.aisnet.org/misq/vol36/iss2/16/)
 
 Optional : 
+
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎).
 - Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list)
 
@@ -188,10 +192,12 @@ Readings:
 **11/15  Licenses, Economics and Management of Modularity - Thomas**
 
 Required :
+
 - Gal, M. S. Viral open source: Competition vs. synergy. Journal of Competition Law and Economics (2012) [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1978374)
 - Baldwin, C. Y. & Clark, K. B. The architecture of participation: Does code architecture mitigate free riding in the open source development model? Manage. Sci. 52, 1116-1127 (2006) [paper](http://mansci.journal.informs.org/content/52/7/1116.abstract)
 
 Optional :
+
 - MacCormack, A., Baldwin, C. & Rusnak, J. Exploring the duality between product and organizational architectures: A test of the ” mirroring” hypothesis. Research Policy 41, 1309-1324 (2012) [paper](http://dx.doi.org/10.1016/j.respol.2012.04.011).
 - Maillart, T., Sornette, D., Spaeth, S. & von Krogh, G. Empirical tests of zipf's law mechanism in open source linux distribution. Physical Review Letters 101, 218701+ (2008) [paper](http://prl.aps.org/abstract/PRL/v101/i21/e218701).
 - Simon, H. The architecture of complexity. Proceeding of American Philosophy Society 106, 467-482 (1962) [paper](http://www.jstor.org/discover/10.2307/985254).
