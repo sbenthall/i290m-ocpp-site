@@ -4,7 +4,7 @@ Category: assignment2
 Slug: tquast-assign2
 Tags: i290m-ocpp, hypothes.is, assign1, tquast
 Author: tomnar
-Summary: Details about our first assignment
+Summary: Hypothes.is has developed an active community around its project, although the tool is still in closed beta. In this text I will look into the different elements of the community and try to describe them as I experienced it when I joined as one of Hypothes.is' collaborators. I will conclude by stating why I think that openness has helped Hypothes.is to get this community.
 
 #ASSIGNMENT 2 - the history, infrastructure, and demographics of Hypothes.is#
 
