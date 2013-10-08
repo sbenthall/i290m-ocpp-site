@@ -1,5 +1,5 @@
 Title: React community
-Date: 2013-10-04 2:37
+Date: 2013-10-08 11:30
 Category: assignment2
 Slug: matnel-assign2
 Tags: i290m-ocpp
@@ -28,7 +28,7 @@ The reasons are clearly driven by practical functions, however there are certain
 
 Measuring size of the community is a non-trivial task. In GitHub there are 2205 stargazers, 172 watchers and 245 forks. This indicates a general interest towards the React platform, and a large number of people have done their own copies of the code (forked). GitHub lists 36 contributors to the code total (differnet number than their manual contributors lists). As we can from figure see, majority of the contributions are small (note: lograthimic scale). Put differently, over 99 % of the code changes originate from top 10 programmers, and of these 9 are originating from Facebook.
 
-![](./content/assignment2/react-contributors-log.png "")
+![](/images/matnel-a2-contributors.png "")
 
 Recarding other kinds of community metrics, the IRC channel has around 40 persons on it.
 
