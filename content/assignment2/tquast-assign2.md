@@ -27,13 +27,18 @@ The openness of the project is a great tool for all of the three mentioned point
 The community is very big for a project that is not in public beta yet. There are several groups in the community which I will present in condensed form.
 
 * directors
-    + test
+    + The overall role of the three directors is to lead the project on a bigger scale.
 * core-team
+    + The core-team is involved with the project on a daily basis. It has currently seven members of which most are developers.
 * advisers
+    + Around the core team are 35 advisers. They come from various fields and the degree of involvement varies. There are some quite interesting people involved as seen [here](http://hypothes.is/who/).
 * collaborators
+    + On top of these people are the collaborators who have contributed to the project through discussions on the mailing list, pointing out errors or improvements through the issue tracker or submitted pull requests to the github repository. I count myself to this group of people.
 * users
+    + Although Hypothes.is is not in open beta yet, it is possible to reserve a nickname. I couldn't find a number of registered names, but I expect there to be quite a few, since the project has been mentioned on all the big technology websites.
 
 ##What kind of product is it and how is it licensed?##
+
 
 ##What sort of infrastructure does it use?##
 
