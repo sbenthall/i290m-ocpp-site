@@ -24,7 +24,7 @@ Another aspect is mentioned in the [FAQ](http://hypothes.is/faq/), where hypothe
 The openness of the project is a great tool for all of the three mentioned points. It can create a [noticeable footprint](http://opensource.com/business/13/2/self-promoting-open-source-projects) in the digital community even before the release and this can be used to attract more collaborators. Generally speaking is [Metcalfe's law](http://en.wikipedia.org/wiki/Metcalfe's_law) still true, more users attract more users.
 
 ##How big is the community?##
-The community is very big for a project that is not in public beta yet. There are several groups in the community which I will present in condensed form.
+There is a full fleshed out community around the project although it is not in public beta yet. There are several groups in the community which I will present in condensed form.
 
 * directors
     + The overall role of the three directors is to lead the project on a bigger scale.
@@ -36,9 +36,11 @@ The community is very big for a project that is not in public beta yet. There ar
     + On top of these people are the collaborators who have contributed to the project through discussions on the mailing list, pointing out errors or improvements through the issue tracker or submitted pull requests to the github repository. I count myself to this group of people.
 * users
     + Although Hypothes.is is not in open beta yet, it is possible to reserve a nickname. I couldn't find a number of registered names, but I expect there to be quite a few, since the project has been mentioned on all the big technology websites.
+	
+Right now the community is mainly based around the core-team since the project tool is not released yet. The community will change dramatically when all the preregistered users get access to the tool. Then the main group will be normal users of the tool.
 
 ##What kind of product is it and how is it licensed?##
-
+Hypothes.is is licensed under a 2-Clause [BSD License](https://en.wikipedia.org/wiki/BSD_licenses), sometimes referred to as the “Simplified BSD License” or the “FreeBSD License”.
 
 ##What sort of infrastructure does it use?##
 
