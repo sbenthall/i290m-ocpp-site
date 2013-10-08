@@ -30,7 +30,7 @@ Measuring size of the community is a non-trivial task. In GitHub there are 2205 
 
 ![](/images/matnel-a2-contributors.png "")
 
-Recarding other kinds of community metrics, the IRC channel has around 40 persons on it.
+Recarding other kinds of community metrics, the IRC channel has around 40 persons on it. There is also an [ecosystem growing](http://facebook.github.io/react/docs/tooling-integration.html) with integrations to the core React.js system. Surpsisingly, out of the 5 current tools project, most are developed by non-Facebook open source community, even while some of them have commits from Facebook employees. I hypothetise that this is thanks to the core being open source, therefore inviting other users to contribute tools they've found useful and prefer to share with the community. Also, this way changes important can be made without approval nor significant contributions from the Facebook-lead contribution community.
 
 ## Contribution!
 
