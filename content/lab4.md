@@ -64,3 +64,5 @@ You may encounter this error:
 In that case, try using this command instead to install Pelican:
 
     easy_install pelican
+
+**On some operating systems, `make` does not work.** If you have trouble with the `make` command, try using Fabric, a more portable Python build tool.  Instructions for using Fabric with Pelican are [here](http://docs.getpelican.com/en/3.3.0/getting_started.html#fabric).
