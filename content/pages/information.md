@@ -79,5 +79,5 @@ Grading will be based on:
 
 ## Office hours
 - Sebastian Benthall (Wednesdays 2-3pm in South Hall 202 or Alcove)
-- Thomas Maillart (Fridays  1:30-2:30pm in the Alcove)
+- Thomas Maillart (by appointment Fridays  1:30-2:30pm in the Alcove) 
 - John Chuang (Wednesdays 2-3pm in SH 303A)

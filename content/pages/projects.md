@@ -116,3 +116,19 @@ A constituent relationship management application for civic and community organi
 [Main site](http://www.civicrm.org)
 [Basic info on getting involved](http://civicrm.org/participate/community)
 [Developer info](http://civicrm.org/participate/developer)
+
+## LocalWiki
+
+[LocalWiki](http://localwiki.org/) are a grassroots effort to collect, share and open the world’s local knowledge. For example, see [OaklandWiki](http://oaklandwiki.org/). It is using custom software for geo-based wikis. The project is being developed with many people from Oakland, so in-person communication and involvment is possible as well.
+
+## Blogacry
+
+Blogracy is a simple and secure peer-to-peer social networking system, built on top of Bittorrent.
+[code](https://github.com/rik0/blogracy)
+
+References :
+* Distributed Social Platforms for Confidentiality and Resilience [link](http://www.researchgate.net/publication/234833336_Distributed_Social_Platforms_for_Confidentiality_and_Resilience/file/72e7e515d5e45b3333.pdf)
+
+* Franchi, Enrico, Agostino Poggi and Michele Tomaiuolo. "Open Social Networking for Online Collaboration." IJEC 9.3 (2013): 50-68. Web. 19 Sep. 2013. 
+[link](http://www.igi-global.com/article/open-social-networking-for-online-collaboration/82068)
+
