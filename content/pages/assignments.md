@@ -21,7 +21,7 @@ if we agree on it as a class, submitted for publication.
 *[ASSIGNMENT 1](|filename|../assignment1/assign1.md): Report on your experience contacting and explaining your intention to contribute to the community.  Did you follow a 'script'?  Was it a formal or informal process? Did you face any barriers to participation?  Do you think your experience was personal or general?  Please include in your post links to opening conversations with the open project.  Include any relevant mailing list posts, wiki edits, and forum/issue tracker contributions.*
 
 
-*ASSIGNMENT 2: Report on the history, infrastructure, and demographics of the project.*
+*[ASSIGNMENT 2](|filename|../assignment2/assign2.md): Report on the history, infrastructure, and demographics of the project.*
 
  - *Why is the project open? Is it for ideological reasons, or practical reasons, or both?*
  - *How big is the community? Where are its members located? How did you find out?*
