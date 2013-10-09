@@ -28,7 +28,7 @@ Please try to connect your answers to the literature that we've been reading in 
 To submit this assignment, please use a pull request.
 
 Your assignment should be a file in Markdown format with the with the file name 
-"first initial-last name-hyphen-'assign1.md'".  For example, John Doe should put a file named `jdoe-assign2.md` into the `content/assignment2/` directory.  
+"first initial-last name-hyphen-'assign2.md'".  For example, John Doe should put a file named `jdoe-assign2.md` into the `content/assignment2/` directory.  
 
 Note that blog posts in Pelican include metadata at the top of the file.
 See [here](http://docs.getpelican.com/en/latest/getting_started.html#file-metadata) to learn more about Pelican content metadata.
