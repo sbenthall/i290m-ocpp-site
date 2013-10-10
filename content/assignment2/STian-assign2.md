@@ -2,7 +2,7 @@ Title: Entering MIFOS 2
 Date: 2013-10-07 
 Category: i290m-ocpp
 Tags: assignment2, mifos, opensource
-slug: A1-StefanTian
+slug: stian-assign2.md
 Author: Stefan
 Summary: Second Assignment
 

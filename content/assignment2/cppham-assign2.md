@@ -1,7 +1,7 @@
 Title: Assignment 2 - Approaching a community
 Date: 2013-10-08 3:54
 Category: assignment2
-Slug: assign2
+Slug: cppham-assign2
 Tags: i290m-ocpp, cppham, hypothesis
 Author: Christina
 Summary: Details about the second assignment, including history, infrastructure, and demographics of the project.
