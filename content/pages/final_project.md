@@ -17,6 +17,7 @@
 #### Bibliography 
 - Zotero 
 - Citeulike.org ( possibility to have a group for the class) 
+- Mendeley
 
 ### Project(s) Governance
 
