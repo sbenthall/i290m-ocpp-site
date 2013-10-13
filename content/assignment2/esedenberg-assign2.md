@@ -1,6 +1,6 @@
 Title: Zooniverse History, Infrastructure, and Demographics
 Date: 2013-10-08 1:31
-Category: Assignment 2
+Category: assignment2
 Tags: Zooniverse
 Slug: esedenberg-assign2
 Author: Elaine Sedenberg

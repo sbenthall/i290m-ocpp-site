@@ -1,6 +1,6 @@
 Title: The ideology of PeerLibrary
 Date: 2013-10-08 13:37
-Category: assignment
+Category: assignment2
 Tags: peerlibrary
 Slug: rochigame-assign2
 Author: Rodrigo
