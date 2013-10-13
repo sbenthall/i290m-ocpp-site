@@ -1,0 +1,47 @@
+Title: Assignment 2 - Background Information on PDF.js
+Date: 2013-10-08 7:00
+Category: assignment
+Slug: fchasen-assign2
+Author: Fred Chasen
+Summary: The history, dependencies, license, demographics and infrastructure of PDF.js.
+
+### History and Dependencies
+
+PDF.js is a project of Mozilla Labs, started by employees of Mozilla as a web platform experiment and for use in Firefox, their open-source web browser. With this pedigree, the project was destined to be developed through community driven code and released with a permissive license. However, PDF.js builds upon many layers of open software and standards. Looking back, the path that made it possible for the project to exist is far from straight.
+
+The Mozilla browser’s rise from Netscape failure to a free software success made it a model for the open source movement. Along with a browser, the Mozilla Foundation created a [manifesto](http://www.mozilla.org/en-US/about/manifesto/) with their goals and principles for open source software and the open web. It has elements of Richard Stallman’s GNU Manifesto along with open Internet specific principles. The [6th Principal](http://www.mozilla.org/en-US/about/manifesto/#principles) of the manifesto perfectly sums up why Mozilla would choose to create and support a collaborative project to render PDFs on the web.
+
+> “The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide” ([Mozilla Manifesto](http://www.mozilla.org/en-US/about/manifesto/))
+
+John Warnock, one of Adobes founders, started the PDF (Portable Document Format) project with the goal of creating rich graphical documents that “could be viewed on any machine and any selected document could be printed locally.” ([prepressure.com](http://www.prepressure.com/pdf/basics/history)) While interoperability (or at least compatibility) was always a goal of the PDF, it remained a proprietary format until 2008 when it was released as ISO 32000-1:2008. Adobe also gave a “Public Patent License” which made the patents to create, view and distribute PDF’s royalty free.
+
+Adobe’s reasons for relinquishing controls over PDFs future appear to be purely practical. In a press release to announce the new standard, Adobe’s CTO wrote: 
+
+> “As governments and organizations increasingly request open formats, maintenance of the PDF specification by an external and participatory organization will help continue to drive innovation and expand the rich PDF ecosystem that has evolved over the past 15 years.” ([ISO.org](http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1141))
+
+Tim O’Reilly wrote in his [email with Adam Turoff](http://oreillynet.com/pub/wlg/3017) “if you have a large enough group of internal developers, open-source-like dynamics can occur within a proprietary software company.” By 2008 PDF was widely used by many different large organizations. For instance, all US tax forms are made available as PDF. Because there were many groups contributing requirements, PDF already had the dynamics of an open standard. Adobe gave up control it barely had, and relieved itself of handling complex governance internally when it made PDF officially a open standard in 2008.
+
+After all, Adobe’s goal was to have people to use the format. They make money selling advanced tools for creating and editing PDFs, which are not open source. It was in their best interest to make the format open, encouraging large organizations to use it and expanding PDF to new platforms. A renderer written for in browsers is an impressive testament to the success of that choice. 
+
+### Goals and Contributor Demographics
+
+The initial goal of Chris Jones, Andreas Gal and a few others at Mozilla was to see how far they could push web platform features to do something that was normally done via plugins. Javascript, SVG and the Canvas API were only just becoming fast and robust enough for the task in 2011, but the hope when it was [announced](http://andreasgal.com/2011/06/15/pdf-js/) was that if the experiment was successful it could eventually replace those plugins. As of February 2013, the team accomplished its goal and PDF.js became the built in PDF viewer for Firefox. ([release notes](https://www.mozilla.org/en-US/firefox/19.0/releasenotes/))
+
+### Contributor Demographics
+
+Mozilla has four employees working on the project currently, 3 developers and a project manager. People from outside of Mozilla have contributed large amounts of code, but over shorter periods of time. Employees keep the project running and hitting deadlines with daily commits. According to Github there are 118 contributes to PDF.js in total, but a [quick look](https://github.com/mozilla/pdf.js/graphs/contributors) at the commits reveal only 20 contributors with over 10 commits. The majority of contributors have only 1 or 2 commits. 
+
+### License
+
+The software generated by these contributions was original licensed “under a very liberal 3-clause BSD” in the [pdf-js announcement](http://andreasgal.com/2011/06/15/pdf-js/), but was changed to the Apache license in 2012. Brendan Dahl, one of the lead developers, announced the change to the mailing list saying that the Mozilla legal team recommended the switch. He argued it would help with patent protection for developers and user, which “is becoming increasingly important as the software world gets more litigious.“ ([Posting](https://groups.google.com/forum/#!searchin/mozilla.dev.pdf-js/apache/mozilla.dev.pdf-js/ceEZgt9n3VM/elq3UFp_JBwJ)) There was a request for comments, but none were made on the mailing list.
+
+### Infrastructure
+
+The communication and organizational infrastructure for PDF.js consists of a Mozilla mailing list with a mirrored Google group, IRC chatroom, Etherpad and a public conference call system. The code infrastructure of PDF.js uses Github, where it has been developed since the [first commit](https://github.com/mozilla/pdf.js/commit/6dc1770bba7a417ce5664c0305469e5bb7ea76bd) 2 years ago. They use the Github wiki for examples, guides and some documentation. 
+
+Contributions are submitted as pull requests, and they have developed a testing tool called [bot.io](https://github.com/arturadib/botio) which is integrated into the PR comments. Authors make comments with commands in them, such as “/botio test” and the bot replies with a comment containing the results of the test and links to view the output.
+
+One of the things that drew me to the project was how well they manage their [issues on Github](https://github.com/mozilla/pdf.js/issues?direction=desc&labels=&page=1&sort=created&state=open). Currently there are around 400 open bugs, and 3,300 closed ones. The bugs are meticulously tagged with what part of the software they affect, what category they fall under, their status and if they are a good beginner bug. They are also organized into milestones. For example a bug from their “Printing support” [milestone](https://github.com/mozilla/pdf.js/issues?milestone=7&state=closed) is tagged with “1-viewer 2-feature 4-printing.” As PDF.js is now the default PDF viewer in Firefox bugs also come in through the [Mozilla Bugzilla tracker](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=pdfjs).
+
+The beginner’s bugs list was a great place for me to start interacting with the community and the documentation has made the jump into development fairly painless. I haven’t been able to get my changes ready to submit as a pull request yet, but I look forward to reporting on how that process goes. 
+
