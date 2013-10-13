@@ -1,3 +1,6 @@
+Title: Final Projects
+Slug: final-project
+
 ## Final Project(s)
 
 ### Objectives 
