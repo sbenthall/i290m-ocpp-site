@@ -1,0 +1,7 @@
+Title: YOUR TITLE HERE
+Date: 2013-10-04 2:37
+Category: assignment3
+Slug: SLUG HERE
+Tags: PROJECT NAME HERE
+Author: YOUR NAME HERE
+Summary: SUMMARY
