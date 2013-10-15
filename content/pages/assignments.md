@@ -31,7 +31,7 @@ if we agree on it as a class, submitted for publication.
 
 *Feel free to ask the community directly about these questions.  There may be historical archived records of conversations about these decisions.  Please provide links to any evidence you use in this report.*
 
-*ASSIGNMENT 3: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Do they generalize to your experience? Or not? How?*
+*[ASSIGNMENT 3](|filename|../assignment3/assign3.md): Blog post about community participation.  Incorporate links to your project participation and engage the readings. Do they generalize to your experience? Or not? How?*
 
 
 *ASSIGNMENT 4: How does your community make tough decisions?  What is it's governmance model--for example, is it a benevolent dictatorship, or consensus driven? How did it get to be that way? Do you think this governance model is conducive to cooperation on your project?  Are there hidden power dynamics in your project that influence decision-making but are not explicitly part of the governance model?  Think critically about the social organization of your project: could you improve on it? Where possible, link to your community's policy documents and examples of community behavior.*

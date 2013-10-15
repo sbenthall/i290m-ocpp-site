@@ -78,6 +78,6 @@ Grading will be based on:
 - Students will come to the first lecture with an idea of the open project they want to contribute to, and which problem they want to address. If possible, a first contact with the community active in the project should already be established.
 
 ## Office hours
-- Sebastian Benthall (Wednesdays 2-3pm in South Hall 202 or Alcove)
+- Sebastian Benthall (Tuesdays 2-3pm in South Hall 202 or Alcove)
 - Thomas Maillart (by appointment Fridays  1:30-2:30pm in the Alcove) 
 - John Chuang (Wednesdays 2-3pm in SH 303A)
