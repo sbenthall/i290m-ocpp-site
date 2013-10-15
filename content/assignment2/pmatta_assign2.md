@@ -1,9 +1,9 @@
 Title: Assignment2: History, infrastructure, and demographics of the GeoNode project
-Date: 2013-09-17
+Date: 2013-09-17 13:30
 Category: assignment2
 Slug: pmatta-assign2
 Author: Prabha
-Tags: GeoNode, open source, peer collaboration
+Tags: GeoNode, open source, peer collaboration, Assignment2
 Summary: History, infrastructure, and demographics of the GeoNode project.
 
 # Why is the project open? Is it for ideological reasons, or practical reasons, or both?
