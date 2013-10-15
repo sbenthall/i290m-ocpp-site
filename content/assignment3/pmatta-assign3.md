@@ -7,7 +7,7 @@ Tags: assignment3, GeoNode, open source, peer collaboration
 Summary:  My experiences during participation at GeoNode open source project, the problems I faced and how I go about to solve them. Further, I also included my experiences in GeoNode related to our readings/regular class -  Résolution solving in GeoNode, Decision making process and Governance structure in Geonode community
 
 
-#My experience of engagement in the community
+#My experiences of engagement in the GeoNode community
 
 GeoNode is currently under a feature freeze and testing phase. As a result, there is lot of work to be done- testing, bug fixing and timely relase of GeoNode 2.0. There are about 200+ open issues/bugs and still huge amount of testing to be done to ensure quality of the code. In order to do development on GeoNode itself, one should be familiar with basic web development concepts as well as with general GIS concepts. To understand this GeoNode development environment, I went through the following documentation:
 
