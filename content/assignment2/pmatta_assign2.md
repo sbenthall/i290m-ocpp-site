@@ -1,6 +1,6 @@
 Title: Assignment 2: How I started with GeoNode Open source project
 Date: 2013-09-17
-Category: Assignment
+Category: assignment2
 Slug: pmatta-assign2
 Author: Prabha
 Tags: GeoNode, open source, peer collaboration
