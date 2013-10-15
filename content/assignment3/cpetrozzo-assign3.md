@@ -1,5 +1,5 @@
 Title: Oakland Wiki: Participation, Activity & Social Infrastructure
-Date: 2013-10-014 15:13
+Date: 2013-10-14 15:13
 Tags: Oakland Wiki
 Slug: cpetrozzo-assign3
 Category: assign3
