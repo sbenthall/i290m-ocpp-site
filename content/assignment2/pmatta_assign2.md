@@ -1,4 +1,4 @@
-Title: Assignment 2: How I started with GeoNode Open source project
+Title: Assignment2: History, infrastructure, and demographics of the GeoNode project
 Date: 2013-09-17
 Category: assignment2
 Slug: pmatta-assign2
