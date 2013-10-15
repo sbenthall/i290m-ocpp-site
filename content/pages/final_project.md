@@ -39,8 +39,8 @@ Slug: final-project
 - Draft 
 
 #### Bibliography 
-- Zotero 
-- Citeulike.org ( possibility to have a group for the class) 
+- Zotero Groups [link](https://www.zotero.org/groups/)
+- Citeulike.org Groups [link](http://wiki.citeulike.org/index.php/Groups)
 - Mendeley
 
 ### Project(s) Governance
