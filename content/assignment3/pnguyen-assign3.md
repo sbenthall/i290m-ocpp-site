@@ -16,6 +16,6 @@ I also have to ask myself-- what's in it for me? Do I really want to change the 
 At the end of the day, I am staying up until 2AM so that I can improve Court Listener and be acknowledged for it. I don't think anyone is 100% altruistic or self-absorbed. They all need to worry about their education and careers. It would be unfair to ask for someone to do pro-bono work if they weren't in a position to do it. The exchange must be reciprocal to make any economic sense. I've felt the pressure of looming deadlines from Michael and Brian, and I have 17 other units to worry about too. I am happy that Michael and Brian understand that we are students with busy schedules. Despite this, I still don't want to let them down.
 
 Links
-* [Court Listener Home Page Mockup](http://notskool.me/courtlistener/filter_demo.html)
+* [Court Listener Home Page / Search Engine Mockups](http://notskool.me/Court%20Listener/)
 * [My Contributions in Development Archive](http://lists.freelawproject.org/pipermail/dev/2013-September/subject.html)
 * [Free Law Project Bitbucket](https://bitbucket.org/mlissner/search-and-awareness-platform-courtlistener/)
