@@ -1,7 +1,7 @@
 Title: Assignemnt3
 Date: 2013-10-04 2:37
 Category: assignment3
-Slug: SLUG HERE
+Slug: morris-zhang-a3
 Tags: Mifos
 Author: MZhang
 Summary: SUMMARY
