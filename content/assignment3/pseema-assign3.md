@@ -1,6 +1,6 @@
 Title: Peerlibrary - My contribution
 Date: 2013-10-18
-Category: Assignment
+Category: assignment3
 Slug: p-seema-assign3
 Author: Seema Puthyapurayil
 
