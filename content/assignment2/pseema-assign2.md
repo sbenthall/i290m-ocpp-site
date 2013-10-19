@@ -1,6 +1,6 @@
 Title: Assignment 2
 Date: 2013-10-08
-Category: Assignment
+Category: assignment2
 Slug: p-seema-assign2
 Author: Seema Puthyapurayil
 Summary: Peerlibrary : Openness, community and infrastructure.
