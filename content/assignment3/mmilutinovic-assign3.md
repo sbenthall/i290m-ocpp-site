@@ -1,6 +1,6 @@
 Title: PeerLibrary project update
 Date: 2013-10-18 06:06
-Category: assignment
+Category: assignment3
 Tags: peerlibrary
 Slug: mmilutinovic-assign3
 Author: Mitar

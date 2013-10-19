@@ -1,6 +1,6 @@
 Title: PeerLibrary community properties
 Date: 2013-10-08 06:06
-Category: assignment
+Category: assignment2
 Tags: peerlibrary
 Slug: mmilutinovic-assign2
 Author: Mitar
