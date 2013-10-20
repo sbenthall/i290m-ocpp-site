@@ -149,7 +149,7 @@ Optional :
 - Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012) [article](http://dx.doi.org/10.1038/nature10736)
 - Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [article](http://dx.doi.org/10.1126/science.1193147).
 
-**10/22  (Class meets in IRC channel) LAB 7**
+**10/22  LAB 7 - Meet in South Hall 202.  We will work on the class survey.**
 
 *ASSIGNMENT 4: How does your community make tough decisions?  What is it's governmance model--for example, is it a benevolent dictatorship, or consensus driven? How did it get to be that way? Do you think this governance model is conducive to cooperation on your project?  Are there hidden power dynamics in your project that influence decision-making but are not explicitly part of the governance model?  Think critically about the social organization of your project: could you improve on it? Where possible, link to your community's policy documents and examples of community behavior.*
 
@@ -163,7 +163,7 @@ Business models:
 
 *ASSIGNMENT 5: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Reflect on your place in the collaborative network.  How does your participation contribute to your personal goals? Your identity? Your plans?*
 
-**10/29  (Class meets in IRC channel) LAB 8**
+**10/29  LAB 8**
 
 **11/1 Designing Organizations for Productive Bursts - Thomas**
 
@@ -177,7 +177,7 @@ Optional :
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎).
 - Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list)
 
-**11/5  (Class meets in IRC channel) LAB 9**
+**11/5  LAB 9**
 
 *ASSIGNMENT 6: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate?  How does this affect the community's cooperative dynamics?  Are there competing projects?  How would you describe your project's role in the greater technical ecosystem?*
 
@@ -187,7 +187,7 @@ Readings:
 
 - Takhteyev, Y.Coding Places (excerpts)
 
-**11/12  (Class meets in IRC channel) LAB 10**
+**11/12  LAB 10**
 
 **11/15  Licenses, Economics and Management of Modularity - Thomas**
 
@@ -202,7 +202,7 @@ Optional :
 - Maillart, T., Sornette, D., Spaeth, S. & von Krogh, G. Empirical tests of zipf's law mechanism in open source linux distribution. Physical Review Letters 101, 218701+ (2008) [paper](http://prl.aps.org/abstract/PRL/v101/i21/e218701).
 - Simon, H. The architecture of complexity. Proceeding of American Philosophy Society 106, 467-482 (1962) [paper](http://www.jstor.org/discover/10.2307/985254).
 
-**11/19  (Class meets in IRC channel) LAB 11**
+**11/19  LAB 11**
 
 *ASSIGNMENT 7: Does your project's community mirror the technical modularity of the project?  How does it structure its collaboration--synchronously? Asyncronously? How does it get work done?*
 
@@ -213,7 +213,7 @@ Readings:
 - Explore POSSE 2013-06 Workshop Wiki http://www.foss2serve.org/index.php/POSSE_2013-06
 - Practical OSS Exploration. http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605#Why_Traditional_Student_Projects_Are_Ineffective
 
-**11/26  (Class meets in IRC channel) LAB 12**
+**11/26  LAB 12**
 
 **12/6 Guest Lecture**
 
