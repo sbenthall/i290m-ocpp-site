@@ -1,0 +1,11 @@
+Title: Assignemnt3
+Date: 2013-10-04 2:37
+Category: assignment3
+Slug: morris-zhang-a3
+Tags: Mifos
+Author: MZhang
+Summary: SUMMARY
+
+
+With my experience with MIFOS, I see that MIFOs is split up into certain groups responsible for certain responsibilitie. I see benefits in this model with respects to primary, efficiency. Participants who need help or feedback on their projects gain quick and responsive feedback. However, there is a "leader" of the group simply becuase it allows this "social structure" to operate efficiently. However, it's not necessarily a leadership role, but rather a managerial figurehead role in my eyes becuase it provides a structure for participants to receive responses quickly and efficiently when they need it. It keeps the community involved and engaged on the project at hand. Personally, while I do acknowledge it fits the mold of a Benevolent Dictator Model as referenced by Fogel, it's more of a upkeep role than anything strictly leadership related role. It keeps teams, and communities engaged and participating, as an advisor of sorts while simultaneously being active as a participant. 
+As an observer, I find the structure to be, personally, difficult especially in the sense that roles are assigned and requires you to try to actively contribute to a project that has not yet been attempted and/or completed. Thus, it's not entirely a "cooperative" sense in the respect that in order to gain more recognition and participate in more advanced projects, you must help complete basic tasks (initially) and lacks an reciprocation model. Because I lack a technical and programming background, it's difficult for me to contribute any more than documentation of simple projects and/or efforts taken. I do believe in its mission statement, and I think that it helps those all around the world. I think there are a ton of motives for being involved in this type of projects, but it's difficult to determine the inherent aggregate nature of the motives behind supporting this type of project. I see similar references to structures discussed in the readings, but ultimately, I feel that every community operates differently and cannot be structurely defined into one or the other clearly defined groups amongst readings. 
