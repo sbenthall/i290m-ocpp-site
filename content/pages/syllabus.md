@@ -155,15 +155,29 @@ Optional :
 
 **10/25  Money - Seb**
 
-Business models:
+Read:
 
-- Pentaho's Beekeeper: http://wiki.pentaho.com/display/BEEKEEPER/The+Beekeeper
-- Asay, M. http://news.cnet.com/8301-13505_3-10244853-16.html
-- Fogel, K. “Money” http://producingoss.com/en/money.html
+- Asay, M. "Fitting the optimal level of openness to your business strategy" [link](http://news.cnet.com/8301-13505_3-10244853-16.html)
+- Fogel, K. “Money” [link](http://producingoss.com/en/money.html)
+- Kelty, C. "Conceiving Open Systems", only the sections *Hopelessly Plural*, *Open Systems One: Operating Systems*, *Figuring Out Goes Haywire*, *Denuemont*. [link](http://www.jus.uio.no/sisu/two_bits.christopher_kelty/5.html)
+- Pentaho. "The Beekeeper" [link](http://wiki.pentaho.com/display/BEEKEEPER/The+Beekeeper)
+- Polrid, "How Does Mozilla Make Money and Stay Afloat?" [link](http://www.technobuffalo.com/2010/01/01/how-does-the-mozilla-foundation-make-money/)
+- Preston-Werner, T. "Open Source (Almost) Everything" [link](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)
+- Worstall, T. "So Why Is Google Funding Its Own Competition In The Firefox OS?" [link](http://www.forbes.com/sites/timworstall/2013/01/22/so-why-is-google-funding-its-own-competition-in-the-firefox-os/)
+- And don't forget Wordpress...[link1](http://thenextweb.com/insider/2013/03/05/automattic-introduces-wordpress-com-business-a-new-pricing-tier-with-unlimited-themes-storage-and-customer-support/) [link2](http://allthingsd.com/20120425/automattic-grows-up-the-company-behind-wordpress-com-shares-revenue-numbers-and-hires-execs/)
+
+Explore:
+
+- [BountySource](https://www.bountysource.com/)
+- [Gittip](https://www.gittip.com/)
+- [Kickstarter](http://www.kickstarter.com/)
+- [Snowdrift.coop](https://snowdrift.coop/)
+
+
+**10/29  LAB 8**
 
 *ASSIGNMENT 5: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Reflect on your place in the collaborative network.  How does your participation contribute to your personal goals? Your identity? Your plans?*
 
-**10/29  LAB 8**
 
 **11/1 Designing Organizations for Productive Bursts - Thomas**
 
