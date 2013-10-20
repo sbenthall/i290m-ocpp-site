@@ -1,7 +1,7 @@
 i290m-ocpp-site
 ===============
 
-i290M Open Collaboration and Peer Production web site.
+i290M Open Collaboration and Peer Production [web site](http://courses.ischool.berkeley.edu/i290m-ocpp/site/).
 
 This is the repository to which all students should submit their assignments and coursework.
 
