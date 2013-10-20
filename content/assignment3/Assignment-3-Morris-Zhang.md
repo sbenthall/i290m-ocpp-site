@@ -1,10 +1,10 @@
-Title: Assignemnt3
+Title: Assignment3
 Date: 2013-10-04 2:37
 Category: assignment3
-Slug: morris-zhang-a3
+Slug: 52d3051
 Tags: Mifos
 Author: MZhang
-Summary: SUMMARY
+Summary: Summary
 
 
 With my experience with MIFOS, I see that MIFOs is split up into certain groups responsible for certain responsibilitie. I see benefits in this model with respects to primary, efficiency. Participants who need help or feedback on their projects gain quick and responsive feedback. However, there is a "leader" of the group simply becuase it allows this "social structure" to operate efficiently. However, it's not necessarily a leadership role, but rather a managerial figurehead role in my eyes becuase it provides a structure for participants to receive responses quickly and efficiently when they need it. It keeps the community involved and engaged on the project at hand. Personally, while I do acknowledge it fits the mold of a Benevolent Dictator Model as referenced by Fogel, it's more of a upkeep role than anything strictly leadership related role. It keeps teams, and communities engaged and participating, as an advisor of sorts while simultaneously being active as a participant. 
