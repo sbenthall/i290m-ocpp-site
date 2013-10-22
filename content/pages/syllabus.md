@@ -173,11 +173,9 @@ Explore:
 - [Kickstarter](http://www.kickstarter.com/)
 - [Snowdrift.coop](https://snowdrift.coop/)
 
+*ASSIGNMENT 5: With your classmates, finalize the survey that you will be using for the class report.*
 
-**10/29  LAB 8**
-
-*ASSIGNMENT 5: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Reflect on your place in the collaborative network.  How does your participation contribute to your personal goals? Your identity? Your plans?*
-
+**10/29  LAB 8 -- Meet in SH 202 to complete survey and draft outline of the paper.**
 
 **11/1 Designing Organizations for Productive Bursts - Thomas**
 

@@ -37,8 +37,7 @@ if we agree on it as a class, submitted for publication.
 *ASSIGNMENT 4: How does your community make tough decisions?  What is it's governmance model--for example, is it a benevolent dictatorship, or consensus driven? How did it get to be that way? Do you think this governance model is conducive to cooperation on your project?  Are there hidden power dynamics in your project that influence decision-making but are not explicitly part of the governance model?  Think critically about the social organization of your project: could you improve on it? Where possible, link to your community's policy documents and examples of community behavior.*
 
 
-*ASSIGNMENT 5: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Reflect on your place in the collaborative network.  How does your participation contribute to your personal goals? Your identity? Your plans?*
-
+*[ASSIGNMENT 5](|filename|../assignment5/assign5.md) With your classmates, finalize the survey that you will be using for the class report.*
 
 *ASSIGNMENT 6: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate?  How does this affect the community's cooperative dynamics?  Are there competing projects?  How would you describe your project's role in the greater technical ecosystem?*
 
