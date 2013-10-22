@@ -4,7 +4,7 @@ Category: assignment3
 Slug: pmatta-assign3
 Author: Prabha
 Tags: assignment3, GeoNode, open source, peer collaboration
-Summary:  My experiences during participation at GeoNode open source project, the problems I faced and how I go about to solve them. Further, I also included my experiences in GeoNode related to our readings/regular class -  Résolution solving in GeoNode, Decision making process and Governance structure in Geonode community
+Summary:  My experiences during participation at GeoNode open source project, the problems I faced and how I go about to solve them. 
 
 
 #My experiences of engagement in the GeoNode community
@@ -45,18 +45,4 @@ I followed the procedure given in the reply, however, I faced another problem in
 [geonode.org website open issues](https://github.com/GeoNode/geonode/issues?labels=website&page=1&state=open). I started looking into various issues, specifically at a relatively small but critical website bug: ["Issue 1225: No links to developers or users mailing lists in website"](https://github.com/GeoNode/geonode/issues/1225). 
 
 Initially, I looked into the geonode github checked out code to find the relevant html and css files. But, after a thorough search, I realised there might be another github repository which is related to geonode.org. I found out that [this separate repo](https://github.com/GeoNode/geonode.github.com) handles geonode.org website code, which I am currently looking into, to solve the bug.
-
-
-
-
-##My experience in GeoNode related to our readings/regular class:
-#1. Résolution solving in GeoNode - 
-very amicable - anyone can open an issue. Others can do 3 things 1) solve the issue/bug 2) write more comments as to how to replicate the issue 3) if there is an idea to solve it, that idea can be discussed in the form of comments in github. For eg: When I raised the issue of about problems faced while load the geo-spacial data into the server, others give immediate responses/options as to how I can go about solve this issue.
-
- 
-#2. Transparent decision making process at GeoNode with respect to feature implementation - 
-Currently no new features are implemented in GeoNode. When ever any critical/mandatory requirement needs a major change in the code, the developer raises an issue in Github. Others will comment and discuss the possible solutions for that issue on the github itself. This ensures to keep a track of list of new features and the decision making process very transparent.
-
-#3. Governance structure in Geonode - 
-There exists a semi-formal governance structure in GeoNode i.e., there are few core developers who have been in the project for quite long time who get to raise important issues related to feature implementation. However, all developers can comment or fix any code. I observe that there is no fixed hierarchy, atleast while raising issues/bugs, assigning to developers and fixing those bugs in Github. Therefore, I can say the governance structure is somewhat of Benevelent Autocratic stucture at GeoNode
 
