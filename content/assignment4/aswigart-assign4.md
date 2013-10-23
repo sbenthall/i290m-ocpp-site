@@ -1,7 +1,7 @@
 Title: PeerLibrary's governance and policies
 Date: 2013-10-22 21:00
 Category: assignment4
-Slug: aswigart-assign3
+Slug: aswigart-assign4
 Tags: i290m-ocpp, peerlibrary
 Author: Anna
 Summary: PeerLibrary's Governance
