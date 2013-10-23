@@ -1,6 +1,6 @@
 Title: CiviCRM decision-making
 Date: 2013-10-21 19:30
-Category: assignment
+Category: assignment4
 Slug: ljervis-assign4
 Author: Lisa
 Summary: On what I know about CiviCRM decision-making processes, which is not a lot.
