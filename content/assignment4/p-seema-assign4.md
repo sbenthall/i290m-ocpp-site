@@ -1,6 +1,5 @@
 Title: Peerlibrary - Governance Model
 Date: 2013-10-22
-Category: Assignment
 Slug: p-seema-assign4
 Author: Seema Puthyapurayil
 
