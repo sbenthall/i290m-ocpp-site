@@ -1,4 +1,4 @@
-Title: PeerLibrary's governance and policies
+Title: Governance and React
 Date: 2013-10-26 13:05
 Category: assignment4
 Slug: matnel-assign4
