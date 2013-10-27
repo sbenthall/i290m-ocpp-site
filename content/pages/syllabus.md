@@ -134,20 +134,15 @@ Example bylaws documents:
 
 *ASSIGNMENT 3: Blog post about community participation.  Incorporate links to your project participation and engage the readings. Do they generalize to your experience? Or not? How?*
 
-**10/18 Social Networks, Cooperation, and Group Performance - Thomas**
+**10/18 Community Joining and Governance (in relation with the Class Collective Project)**
 
 Required :
+- von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). [link](http://flosshub.org/system/files/rp-vonkroghspaethlakhani.pdf)
 
-- Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [article](http://mansci.journal.informs.org/content/53/7/1036.short).
-- Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [article](http://dx.doi.org/10.1103/physreve.78.026117).
+- Tomlinson, B. et al. Massively distributed authorship of academic papers. In CHI '12 Extended Abstracts on Human Factors in Computing Systems, CHI EA '12, 11-20 (ACM, New York, NY, USA, 2012). [link](http://dx.doi.org/10.1145/2212776.2212779)
 
-Optional :
+- O'Mahony, S. & Ferraro, F. The emergence of governance in an open source community. Academy of Management Journal 50, 1079-1106 (2007). [link](http://dx.doi.org/10.5465/amj.2007.27169153) [alternative link](http://www.jstor.org/stable/20159914)
 
-- Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [article](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
-- Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [article](http://www.jstor.org/stable/3069458)
-- Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005) [article](http://dx.doi.org/10.1103/physreve.72.056118).
-- Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012) [article](http://dx.doi.org/10.1038/nature10736)
-- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [article](http://dx.doi.org/10.1126/science.1193147).
 
 **10/22  LAB 7 - Meet in South Hall 202.  We will work on the class survey.**
 
@@ -177,17 +172,29 @@ Explore:
 
 **10/29  LAB 8 -- Meet in SH 202 to complete survey and draft outline of the paper.**
 
-**11/1 Designing Organizations for Productive Bursts - Thomas**
 
-Required :
+**11/1 (11am - 12pm) Social Networks, Cooperation, and Group Performance - Thomas**
 
-- Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list)
-- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://aisel.aisnet.org/misq/vol36/iss2/16/)
+Required : 
+- Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [article](http://mansci.journal.informs.org/content/53/7/1036.short).
 
 Optional : 
+- Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [article](http://dx.doi.org/10.1103/physreve.78.026117).
+- Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [article](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
+- Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [article](http://www.jstor.org/stable/3069458)
+- Zimmermann, M. G. & Egu'iluz, V. M. Cooperation, social networks, and the emergence of leadership in a prisoner's dilemma with adaptive local interactions. Physical Review E 72, 056118+ (2005) [article](http://dx.doi.org/10.1103/physreve.72.056118).
+- Apicella, C. L., Marlowe, F. W., Fowler, J. H. & Christakis, N. A. Social networks and cooperation in hunter-gatherers. Nature 481, 497-501 (2012) [article](http://dx.doi.org/10.1038/nature10736)
+- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N. & Malone, T. W. Evidence for a collective intelligence factor in the performance of human groups. Science 330, 686-688 (2010). [article](http://dx.doi.org/10.1126/science.1193147).
 
-- Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎).
-- Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list)
+
+**11/1 (12pm - 1am ) Designing Organizations for Productive Bursts - Thomas**
+Required : 
+- Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list) 
+
+Optional : 
+- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://aisel.aisnet.org/misq/vol36/iss2/16/)
+- Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎). 
+- Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list) 
 
 **11/5  LAB 9**
 
@@ -201,11 +208,9 @@ Readings:
 
 **11/12  LAB 10**
 
-**11/15  Licenses, Economics and Management of Modularity - Thomas**
+**11/15 (11am - 12pm) Economics and Management of Modularity - Thomas**
 
-Required :
-
-- Gal, M. S. Viral open source: Competition vs. synergy. Journal of Competition Law and Economics (2012) [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1978374)
+Required : 
 - Baldwin, C. Y. & Clark, K. B. The architecture of participation: Does code architecture mitigate free riding in the open source development model? Manage. Sci. 52, 1116-1127 (2006) [paper](http://mansci.journal.informs.org/content/52/7/1116.abstract)
 
 Optional :
@@ -213,21 +218,37 @@ Optional :
 - MacCormack, A., Baldwin, C. & Rusnak, J. Exploring the duality between product and organizational architectures: A test of the ” mirroring” hypothesis. Research Policy 41, 1309-1324 (2012) [paper](http://dx.doi.org/10.1016/j.respol.2012.04.011).
 - Maillart, T., Sornette, D., Spaeth, S. & von Krogh, G. Empirical tests of zipf's law mechanism in open source linux distribution. Physical Review Letters 101, 218701+ (2008) [paper](http://prl.aps.org/abstract/PRL/v101/i21/e218701).
 - Simon, H. The architecture of complexity. Proceeding of American Philosophy Society 106, 467-482 (1962) [paper](http://www.jstor.org/discover/10.2307/985254).
+- Gal, M. S. Viral open source: Competition vs. synergy. Journal of Competition Law and Economics (2012) [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1978374)
+
+**11/15 (12pm - 1pm) Guest Lecture - Civic Hacking [Sophia Parafina]**
+
+
 
 **11/19  LAB 11**
 
 *ASSIGNMENT 7: Does your project's community mirror the technical modularity of the project?  How does it structure its collaboration--synchronously? Asyncronously? How does it get work done?*
 
-**11/22   Open Collaboration and Education - Seb**
+**11/22 (11am - 12pm) Human Timing and Economics of Attention - Thomas
+
+Required : 
+- Maillart, T., Sornette, D., Frei, S., Duebendorfer, T. & Saichev, A. Quantification of deviations from rationality with heavy tails in human dynamics. Physical Review E 83, 056101+ (2011). [preprint](http://arxiv.org/abs/1007.4104)
+
+Optional : 
+- Barabási, A.-L. The origin of bursts and heavy tails in human dynamics. Nature 435, 207-211 (2005). URL http://dx.doi.org/10.1038/nature03459.
+
+**11/22 (12pm - 1pm) Guest Lecture - Project Teams in Community and Commercial Open Source Software Projects - [Tony Wasserman](http://about.me/tony.wasserman/bio) [Carnegie Mellon Silicon Valley] **
+
+This talk describes the recent evolution of business strategies used by companies offering products and services based on free and open source software (FOSS). The talk compares their practices with traditional proprietary software companies and with community-based open source projects, and identifies growing overlaps between the different kinds of software companies. We focus on the similarities and differences among development teams on various open source projects, describing the variations in project governance and the nature of communities in both commercial and community open source projects, including the issues that lead to success or failure of such projects.
+
+
+**11/26  LAB 12**
+
+**12/6  Open Collaboration and Education - Seb and Thomas **
 
 Readings:
 
 - Explore POSSE 2013-06 Workshop Wiki http://www.foss2serve.org/index.php/POSSE_2013-06
 - Practical OSS Exploration. http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605#Why_Traditional_Student_Projects_Are_Ineffective
-
-**11/26  LAB 12**
-
-**12/6 Guest Lecture**
 
 **12/13 RRR - Dead week**
 
