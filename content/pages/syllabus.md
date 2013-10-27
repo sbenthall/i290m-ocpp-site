@@ -192,7 +192,7 @@ Required :
 - Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list) 
 
 Optional : 
-- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://aisel.aisnet.org/misq/vol36/iss2/16/)
+- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=74756698&site=ehost-live)
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎). 
 - Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list) 
 
