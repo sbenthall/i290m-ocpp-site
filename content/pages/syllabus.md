@@ -137,10 +137,9 @@ Example bylaws documents:
 **10/18 Community Joining and Governance (in relation with the Class Collective Project)**
 
 Required :
+
 - von Krogh, G., Spaeth, S. & Lakhani, K. R. Community, joining, and specialization in open source software innovation: a case study. Research Policy 32, 1217-1241 (2003). [link](http://flosshub.org/system/files/rp-vonkroghspaethlakhani.pdf)
-
 - Tomlinson, B. et al. Massively distributed authorship of academic papers. In CHI '12 Extended Abstracts on Human Factors in Computing Systems, CHI EA '12, 11-20 (ACM, New York, NY, USA, 2012). [link](http://dx.doi.org/10.1145/2212776.2212779)
-
 - O'Mahony, S. & Ferraro, F. The emergence of governance in an open source community. Academy of Management Journal 50, 1079-1106 (2007). [link](http://dx.doi.org/10.5465/amj.2007.27169153) [alternative link](http://www.jstor.org/stable/20159914)
 
 
@@ -176,9 +175,11 @@ Explore:
 **11/1 (11am - 12pm) Social Networks, Cooperation, and Group Performance - Thomas**
 
 Required : 
+
 - Hanaki, N., Peterhansl, A., Dodds, P. S. & Watts, D. J. Cooperation in evolving social networks. Management Science 53, 1036-1050 (2007) [article](http://mansci.journal.informs.org/content/53/7/1036.short).
 
-Optional : 
+Optional :
+
 - Fu, F., Hauert, C., Nowak, M. A. & Wang, L. Reputation-based partner choice promotes cooperation in social networks. Physical Review E 78, 026117+ (2008) [article](http://dx.doi.org/10.1103/physreve.78.026117).
 - Blundell, C., Heller, K. & Beck, J. Modelling reciprocating relationships with hawkes processes. In Advances in Neural Information Processing Systems 25, 2609-2617 (2012) [article](www.gatsby.ucl.ac.uk/~ucgtcbl/papers/BluHelBec2012.pdf‎)
 - Sparrowe, R. T., Liden, R. C., Wayne, S. J. & Kraimer, M. L. Social networks and the performance of individuals and groups. Academy of Management Journal 44, 316-325 (2001) [article](http://www.jstor.org/stable/3069458)
@@ -189,9 +190,11 @@ Optional :
 
 **11/1 (12pm - 1am ) Designing Organizations for Productive Bursts - Thomas**
 Required : 
+
 - Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list) 
 
 Optional : 
+
 - von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=74756698&site=ehost-live)
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎). 
 - Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list) 
@@ -211,6 +214,7 @@ Readings:
 **11/15 (11am - 12pm) Economics and Management of Modularity - Thomas**
 
 Required : 
+
 - Baldwin, C. Y. & Clark, K. B. The architecture of participation: Does code architecture mitigate free riding in the open source development model? Manage. Sci. 52, 1116-1127 (2006) [paper](http://mansci.journal.informs.org/content/52/7/1116.abstract)
 
 Optional :
@@ -231,9 +235,11 @@ Optional :
 **11/22 (11am - 12pm) Human Timing and Economics of Attention - Thomas
 
 Required : 
+
 - Maillart, T., Sornette, D., Frei, S., Duebendorfer, T. & Saichev, A. Quantification of deviations from rationality with heavy tails in human dynamics. Physical Review E 83, 056101+ (2011). [preprint](http://arxiv.org/abs/1007.4104)
 
 Optional : 
+
 - Barabási, A.-L. The origin of bursts and heavy tails in human dynamics. Nature 435, 207-211 (2005). URL http://dx.doi.org/10.1038/nature03459.
 
 **11/22 (12pm - 1pm) Guest Lecture - Project Teams in Community and Commercial Open Source Software Projects - [Tony Wasserman](http://about.me/tony.wasserman/bio) [Carnegie Mellon Silicon Valley] **
