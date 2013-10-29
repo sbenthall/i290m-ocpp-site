@@ -1,4 +1,4 @@
-Title: Oakland Wiki: This Messy Thing Called Governance 
+Title: Oakland Wiki: An Introduction 
 Date: 2013-09-17 15:41
 Tags: Oakland Wiki
 Slug: cpetrozzo-assign1
