@@ -1,5 +1,5 @@
 Title: Governance
-Date: 2013-10- 13:00 
+Date: 2013-10-21 13:00 
 Category: assignment4
 Slug: rperry-assign4 
 Tags: i290m-ocpp, civicrm 
