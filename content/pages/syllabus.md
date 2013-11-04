@@ -207,7 +207,9 @@ Optional :
 
 Readings:
 
-- Takhteyev, Y.Coding Places (excerpts)
+- Dravis, P. "Open Source Software: Perspectives for Development" [link](http://www.infodev.org/infodev-files/resource/InfodevDocuments_21.pdf) Parts I and II.
+- Takhteyev, Y. and Hilts, A. "Investigating the Geography of Open Source Software through Github" [link](http://www.takhteyev.org/papers/Takhteyev-Hilts-2010.pdf)
+- Takhteyev, Y. pp. 94-147 (105-158 in the linkedPDF) "1.2 The Global Tongue" in **Coding Places: Uneven Globalization of Software Work in Rio de Janeiro, Brazil** [link](http://codingplaces.net/static/takhteyev_2009_dissertation.pdf)
 
 **11/12  LAB 10**
 
