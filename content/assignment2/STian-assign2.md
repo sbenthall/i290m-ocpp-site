@@ -14,3 +14,6 @@ The User community involves around 50 different Microfinance Institutions situat
 The MIFOS product is essentially a platform for micro-finance transactions to be completed through. Its key features  is that its low cost, user friendly, and works on low connectivity with global support. The platform can be downloaded independently off of the MIFOS website or any institution can contact a specialist through the website to help guide them through the process. 
 
 As I have stated before, my technical background in coding is not incredibly strong, and the interactions that I’ve had with the MIFOS platform have been limited. My contributions so far have only included documentation and working on transitioning from the old MIFOS program to the very newly executed MIFOS X. 
+
+
+added Comments Thomas 11/6/2013 (see commit description)
