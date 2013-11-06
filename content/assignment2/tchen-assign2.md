@@ -13,3 +13,6 @@ The infrastructure of the project was built on top of open source web technologi
 The project was initially created under the [BSD 2-clause license](http://directory.fsf.org/wiki?title=License:FreeBSD), a permissive free software license. We didn't spend that much time deliberating on what software licenses  we were going to use so this decision was just made under ideological assumptions that PeerLibrary will be free and opensource forever. Knowing the scope of this project, I still feel that it does not matter who implements this concept - it just needs to be out there. (So fork PeerLibrary and do what you may with it :-))
 
 In the recent summer, Mitar prudently suggested the potential misuse of PeerLibrary as open source software - that subscription based journals could potentially integrate PeerLibrary's features behind a paywall. This was another avenue for ideological debate. Do we want to use a license that would aid in the advancement of PeerLibrary's technical features without corporate competition? or do we want to commit to open access? The answer was obvious. As a result, we switched to a copyleft license: [GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html)
+
+
+added Comments Thomas 11/6/2013 (see commit description)
