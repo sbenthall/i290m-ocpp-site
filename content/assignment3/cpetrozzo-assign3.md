@@ -74,3 +74,7 @@ there was no direction, and seemed structureless similar to the concept talked a
 Right now, I am definitely feeling on the out, and I am confused about what the rules are and what they aren't. I guess with time, 
 I will be initiated into the group and gain the tacit knowledge needed to make these calls. It seems like the weekly meetings might be 
 a good event to partake in to obtain this information.
+
+
+
+added Comments Thomas 11/6/2013 (see commit description)
