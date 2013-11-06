@@ -24,5 +24,6 @@ Links
 * [Court Listener Navigation Bar Mockup](http://notskool.me/courtlistener/header-chooser.htm)
 * [My Contributions in Development Archive](http://lists.freelawproject.org/pipermail/dev/2013-September/subject.html)
 * [Free Law Project Bitbucket](https://bitbucket.org/mlissner/search-and-awareness-platform-courtlistener/)
-* 
+
+
 added Comments Thomas 11/6/2013 (see commit description)
