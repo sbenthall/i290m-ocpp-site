@@ -11,3 +11,7 @@ Ideological reasons not only influenced the "openness" of PeerLibrary, but creat
 Another space for ideological discussion was the choice of license for the codebase. There has always been consensus that PeerLibrary should be free and open source software. Early versions were released under the [BSD 2-clause license](http://directory.fsf.org/wiki?title=License:FreeBSD), a permissive free software license. Tony and I chose that license because we were against any kind of artifical scarcity.
 
 At some point, Mitar brought the concern that a subscription-based journal or database could integrate PeerLibrary behind a paywall, reducing the incentive to make publications available. We discussed whether we cared more about advancing the project's technological features (e.g. collaborative annotation) or open access. We unanimously chose the latter and switched to the [GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html), a copyleft license.
+
+
+added Comments Thomas 11/6/2013 (see commit description)
+
