@@ -6,7 +6,7 @@ Author: Prabha
 Tags: assignment4, GeoNode, open source, peer collaboration
 
 # Governance structure in Geonode - 
-There exists a semi-formal governance structure in GeoNode i.e., there are few core developers who have been in the project for quite long time who get to raise important issues related to feature implementation. However, all developers can comment or fix any code. I observe that there is no fixed hierarchy, atleast while raising issues/bugs, assigning to developers and fixing those bugs in Github. From my observation, I can say the governance structure is somewhat of Benevelent Autocratic stucture at GeoNode.
+There exists a semi-formal governance structure in GeoNode i.e., there are few core developers who have been in the project for quite long time who get to raise important issues related to feature implementation. However, all developers can comment or fix any code. I observe that there is no fixed hierarchy, at least while raising issues/bugs, assigning to developers and fixing those bugs in Github. From my observation, I can say the governance structure is somewhat of Benevelent Autocratic stucture at GeoNode.
 
 
 # Decision making process at GeoNode with respect to feature implementation - 
@@ -20,3 +20,6 @@ The atmosphere seems to be very amicable - anyone can open an issue. Others can 
 
 1. [GeoNode Patch Review Process]( https://github.com/GeoNode/geonode/wiki/Patch-Review-Process)
 2. [GeoNode Community Byelaws](https://github.com/GeoNode/geonode/wiki/Community-Bylaws)
+
+added Comments Thomas 11/6/2013 (see commit description) 
+
