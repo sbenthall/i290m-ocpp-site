@@ -36,3 +36,6 @@ Links
 * [Juriscraper Bitbucket](https://bitbucket.org/mlissner/juriscraper)
 * [Press Release](http://www.dailycal.org/2013/09/29/free-law-project-provides-access-to-legal-materials-and-research-for-public/)
 * [Apache Usage Statistics](http://w3techs.com/technologies/details/ws-apache/all/all)
+
+
+added Comments Thomas 11/6/2013 (see commit description)
