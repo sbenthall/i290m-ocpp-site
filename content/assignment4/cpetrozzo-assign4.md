@@ -34,3 +34,6 @@ Right now, it seems a little out of sorts. And I substantiate this observation w
 on the site! I think I could propose writing up a page on how governance works within the organization, otherwise, again the 
 volunteers have to continually ask questions on the Google group or be present at a physical meeting.  
 
+
+added Comments Thomas 11/6/2013 (see commit description)
+
