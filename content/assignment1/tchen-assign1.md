@@ -53,3 +53,6 @@ After a month hiatus, I met with Mitar at a hackathon at the Meteor headquarters
 Present (September 2013)
 ------------------------
 Currently PeerLibrary is active and growing. At the time of writing, it is being presented at the [Open Knowledge Conference](http://okcon.org/2013/09/12/okcon-2013-guest-post-peerlibrary-open-scientific-knowledge/) held in Geneva. 
+
+
+added Comments Thomas 11/6/2013 (see commit description)
