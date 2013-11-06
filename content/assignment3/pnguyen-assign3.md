@@ -19,3 +19,5 @@ Links
 * [Court Listener Home Page / Search Engine Mockups](http://notskool.me/Court%20Listener/)
 * [My Contributions in Development Archive](http://lists.freelawproject.org/pipermail/dev/2013-September/subject.html)
 * [Free Law Project Bitbucket](https://bitbucket.org/mlissner/search-and-awareness-platform-courtlistener/)
+
+added Comments Thomas 11/6/2013 (see commit description)
