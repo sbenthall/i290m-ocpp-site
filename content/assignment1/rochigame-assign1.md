@@ -17,3 +17,6 @@ Later on, I emailed a crazy Slovenian dude called Mitar because of some unrelate
 Some of the greatest contributions were not in pull requests, but in spoken feedback. After chatting with the PLOS folks when we met at Wikimedia, we decided to focus on the annotation feature (we concluded that we needed more data before experimenting with metrics).
 
 Recently, the codebase has started to take a relatively stable shape, so we're making it easier for new contributors to join. We set up a [development mailing list](http://lists.peerlibrary.org/lists/info/dev) and an IRC room at [Freenode](http://freenode.net/). Finally, we're improving our [documentation](https://github.com/peerlibrary/peerlibrary/blob/master/README.md) so that people can get started on the repo more quickly (Anna's doing some awesome work on that).
+
+
+added Comments Thomas 11/6/2013 (see commit description)
