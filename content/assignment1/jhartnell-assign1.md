@@ -17,7 +17,4 @@ I was working on a project and looking for open source annotation to use with it
 
 In summary, it was a chance encounter with a project very much in its infancy. There were so many things that needed to be done, I just jumped in and started doing them. This is a very different perspective from trying to contribute to something that's already established, but just as interesting. More to come in future posts!
 
-[Comment by Thomas,2013-10-01] : Since you joined q while ago, you might want to discuss how you have progressively joined the community and what barriers (e.g. social,communication and logistics,skills) you have encountered. 
-
-
 
