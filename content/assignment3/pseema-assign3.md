@@ -22,3 +22,6 @@ Most of the design changes I made were tried out in the live editor available on
 In the future, I would like to contribute more to the core source code of the project, but it seems difficult, because I am not familiar with Meteor. I dived into it a little bit, but haven't fully familiarized myself with it. I hope to finish an online tutorial and get some reading done from the Meteor book this weekend and then take up one of the issues in the issue tracker. 
 
 Tying it to the readings, I think my motivation to contribute to Peerlibrary started out as "Need drives code creation" (these issues need to be fixed and I should help), and I can help but then quickly turned into contributing for "Fun" as I took up a part of the work that I was familiar with (HTML and CSS) and enjoy doing (Design! Yaay!). 
+
+
+added Comments Thomas 11/6/2013 (see commit description)
