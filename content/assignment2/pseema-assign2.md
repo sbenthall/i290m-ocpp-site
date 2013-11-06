@@ -17,3 +17,6 @@ Peerlibrary is licensed under the AGPLv3 copyleft license.
 ### Reflections
 
 I think I joined this community because I felt really strongly about the cause that it supports. I don't really know what I would have done differently if I knew the things that I know now. My experience has been very pleasant and I'm learning something new everyday. The biggest hindrance for me has been learning something completely new like  [Meteor](http://www.meteor.com/) and even learning the intricacies of the collaborative development process at Peerlibrary (e.g: the use of branching, pull requests, issue tracker etc.). 
+
+
+added Comments Thomas 11/6/2013 (see commit description)
