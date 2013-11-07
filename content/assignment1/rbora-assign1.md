@@ -54,3 +54,6 @@ MORE SOON: Ways that I might contribute (will update based on my solicitation em
 [support site]:https://commoncrawl.atlassian.net/wiki/display/CRWL/Quick+Start+-+Build+from+Github 
 [discussion forum]:https://groups.google.com/forum/?fromgroups#!forum/common-crawl
 [Common Crawl]: http://commoncrawl.org
+
+
+read by Thomas 11/6/2013
