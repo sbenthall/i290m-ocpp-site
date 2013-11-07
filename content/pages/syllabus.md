@@ -199,9 +199,7 @@ Optional :
 - Benkler, Y. Coase's penguin, or, linux and "the nature of the firm". The Yale Law Journal 112, 369+ (2002) [paper](www.yale.edu/yalelj/112/BenklerWEB.pdf‎). 
 - Maillart et al.,  Superlinear Productivity in Open Source Software (manuscript will be sent on the mailing list) 
 
-**11/5  LAB 9**
-
-*ASSIGNMENT 6: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate?  How does this affect the community's cooperative dynamics?  Are there competing projects?  How would you describe your project's role in the greater technical ecosystem?*
+**11/5  LAB 9 ( Survey Validation and Launch )**
 
 **11/8   International collaboration / Practicum Updates - Seb**
 
@@ -211,7 +209,7 @@ Readings:
 - Takhteyev, Y. and Hilts, A. "Investigating the Geography of Open Source Software through Github" [link](http://www.takhteyev.org/papers/Takhteyev-Hilts-2010.pdf)
 - Takhteyev, Y. pp. 94-147 (105-158 in the linkedPDF) "1.2 The Global Tongue" in **Coding Places: Uneven Globalization of Software Work in Rio de Janeiro, Brazil** [link](http://codingplaces.net/static/takhteyev_2009_dissertation.pdf)
 
-**11/12  LAB 10**
+**11/12  LAB 10 ( Survey Analysis )**
 
 **11/15 (11am - 12pm) Economics and Management of Modularity - Thomas**
 
@@ -230,11 +228,10 @@ Optional :
 
 
 
-**11/19  LAB 11**
+**11/19  LAB 11 ( Collective Report Writing )**
 
-*ASSIGNMENT 7: Does your project's community mirror the technical modularity of the project?  How does it structure its collaboration--synchronously? Asyncronously? How does it get work done?*
 
-**11/22 (11am - 12pm) Human Timing and Economics of Attention - Thomas
+**11/22 (11am - 12pm) Human Timing and Economics of Attention - Thomas**
 
 Required : 
 
@@ -244,21 +241,39 @@ Optional :
 
 - Barabási, A.-L. The origin of bursts and heavy tails in human dynamics. Nature 435, 207-211 (2005). URL http://dx.doi.org/10.1038/nature03459.
 
-**11/22 (12pm - 1pm) Guest Lecture - Project Teams in Community and Commercial Open Source Software Projects - [Tony Wasserman](http://about.me/tony.wasserman/bio) [Carnegie Mellon Silicon Valley] **
+**11/22 (12pm - 1pm) Guest Lecture - Project Teams in Community and Commercial Open Source Software Projects - [Tony Wasserman](http://about.me/tony.wasserman/bio) [Carnegie Mellon Silicon Valley]**
 
 This talk describes the recent evolution of business strategies used by companies offering products and services based on free and open source software (FOSS). The talk compares their practices with traditional proprietary software companies and with community-based open source projects, and identifies growing overlaps between the different kinds of software companies. We focus on the similarities and differences among development teams on various open source projects, describing the variations in project governance and the nature of communities in both commercial and community open source projects, including the issues that lead to success or failure of such projects.
 
 
-**11/26  LAB 12**
+**11/26  LAB 12 ( Collective Report, First Complete Draft )**
 
-**12/6  Open Collaboration and Education - Seb and Thomas **
+
+
+**12/03 LAB 12 (collective report writing , if needed)**
+
+*ASSIGNMENT 7: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate?  How does this affect the community's cooperative dynamics?  Are there competing projects?  How would you describe your project's role in the greater technical ecosystem?*
+
+
+
+**12/6  Open Collaboration and Education - Seb and Thomas**
 
 Readings:
 
 - Explore POSSE 2013-06 Workshop Wiki http://www.foss2serve.org/index.php/POSSE_2013-06
 - Practical OSS Exploration. http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605#Why_Traditional_Student_Projects_Are_Ineffective
 
-**12/13 RRR - Dead week**
 
-**12/20 Project Due**
+**12/10 LAB 13 (collective report writing, if needed)**
+
+*ASSIGNMENT 8: Does your project's community mirror the technical modularity of the project?  How does it structure its collaboration--synchronously? Asyncronously? How does it get work done?*
+
+
+**12/13 RRR - Dead week (no class)**
+
+
+**12/17 LAB 14 (collective report writing, if needed)**
+
+
+**12/20 Collective Report due, if not finished earlier (no class)**
 
