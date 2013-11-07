@@ -35,3 +35,6 @@ This is a point at which I begin to navigate the delicate aspects of participati
 The project is related to their communication and bug-tracking infrastructure, if not to improve it, to at least shed some light on how it works for people who are new to the community. It's not immediately obvious how one might participate, get questions answered, or find the latest, most authoritative update to a decision or conversation that's happening in the community. 
 
 To address this problem during my earlier participation, I wrote a blog post that was made into a [guide] (http://civicrm.org/bugreporting) available on the [CiviCRM forum] (http://forum.civicrm.org/). I would like to update this and make improvements to it towards the goal of providing a how-to for any novice website visitor to the CiviCRM project. At the moment, the blog post is only accessible via the forum, which means to read it, one has to know the forum exists. What's really needed is a map of the five or six sites, including the forum, the wiki, the issue tracker, the official online documentation, and the blog, where one can go to get questions answered. Even making decisions about where to get information is overwhelming and confusing for the newbie. 
+
+
+added Comments Thomas 11/6/2013 (see commit description)
