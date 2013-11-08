@@ -34,3 +34,9 @@ tangentially related.
 
 I added a question to that thread, and sent an individual email to one of my contacts. If
 and when I get a response I'll post an update.
+
+UPDATE:
+Here's what I got from [Dave Greenberg](https://civicrm.org/blogs/dave-greenberg), one member of the core team: 
+
+"In general, decision making is by consensus within the core team with lots of consultation with other active contributors. 
+We rarely have a problem reaching consensus—-but on the rare occasion [Lobo](http://forum.civicrm.org/index.php?action=profile;u=12) acts as the benevolent dictator."
