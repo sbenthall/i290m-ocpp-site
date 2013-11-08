@@ -19,6 +19,7 @@ The incentive for these two to participate (who are pretty representative of oth
 
 Because I'm not a developer nor am I working with clients anymore, the story is a bit different for me. Dave and Michael, the two who keep tabs on documentation work and community engagement, have been extremely responsive to my communications and suggestions. However, I've noticed a shift in my own participation in the community, which is worth some reflection. 
 
+
 Previously, I participated as a staff person at an organization that was deeply invested in adapting the software to a particular niche of the nonprofit sphere that did community organizing work. My participation was sporadic, but occasionally quite deep, as I got spend days at a time on documentation work when I participated in sprints. Sprints are gatherings lasting a few days to over a week in which self-selected or core team-selected developers, administrators, and users come together to code and write documentation for new code in a burst of activity. This was my deepest engagement with the community. 
 
 Participating in this way, as well as providing tech support on the software and constantly coming into contact with bugs, suggested improvements for workflows, and feature requests, kept me in the know about the state of CiviCRM. The community of users is now so big that it's nearly impossible to wrap one's mind around the entire project, or understand the entire tool at once. 
@@ -36,4 +37,4 @@ I've also reached out to another newbie to the community who identified a simila
 In discussions with Dave and Michael, we also decided that a FAQ might be useful for the website, so I'm [drafting answers](https://docs.google.com/spreadsheet/ccc?key=0AjpFNt0c8qlVdG95dUdicXkyOUp5M0pLMXVXR1pGN1E&usp=sharing) to frequently asked questions that Dave suggested. I'm finding it quite challenging, because there are double-digit numbers of sites related to managing Civi work and staying in tune with the community. I am still pulling together all of the possible areas where the Civi community lives, and drafting an explanation of when to use them and in what order. I have some hope this work will spur consolidation of some of the many sites, but for now, to just make it all more transparent is my goal.
 
 
-
+added Comments Thomas 11/6/2013 (see commit description)

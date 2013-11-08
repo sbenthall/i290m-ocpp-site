@@ -10,3 +10,6 @@ Author: Mitar
 As a consequence we now have a [development mailing list](http://lists.peerlibrary.org/lists/info/dev) and improved [README](https://github.com/peerlibrary/peerlibrary), better explaining how to setup a development instance of PeerLibrary and possible ways to start contributing and even just contacting others involved in the project.
 
 Because even new contributors are local, we meet few times in person, to easier discuss basics and ideas, but at the same time we started encouraging online presence. For example, posting to the mailing list and using pull requests so that others can follow the development. This is especially important because we do already have some waiting and quiet members of the mailing list and we hope to engage them in this way as well.
+
+added Comments Thomas 11/6/2013 (see commit description)
+

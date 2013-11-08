@@ -26,3 +26,6 @@ It must be built on top of a content management system, but users can choose bet
 The documentation itself has a more [comprehensive history](http://booki.flossmanuals.net/civicrm/_draft/_v/2.0/history-of-this-book/) than the project, or at least one that's easier to find. It is built using Floss Manuals, which is an open source tool for documenting open source projects. The commitment to open source tools is pervasive in the CiviCRM community, so in spite of a lack of public explanations about why CiviCRM was designed to be open source, the philosophical bent of the project is largely open. 
 
 Other tools used by the project are a combination of proprietary and open. The JIRA issue tracker is proprietary, for example. Drupal, Joomla, and  Wordpress are all open source tools. 
+
+
+added Comments Thomas 11/6/2013 (see commit description)
