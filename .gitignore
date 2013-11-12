@@ -37,3 +37,8 @@ nosetests.xml
 ## temp files
 .DS_Store
 *.*~
+
+## LaTeX
+*.aux
+*.log
+report/collective_report.pdf
