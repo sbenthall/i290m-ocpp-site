@@ -11,3 +11,6 @@ Based on my interest in web development in general, and development environment 
   [Joel Weinberger]: http://www.joelweinberger.us/
   [discussion groups]: http://www.chromium.org/developers/discussion-groups
   [Sublime Text]: http://www.chromium.org/developers/sublime-text 
+
+
+added Comments Thomas 11/6/2013 (see commit description)

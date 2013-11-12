@@ -10,3 +10,6 @@ I decided to contribute to the PeerLibrary open source project. I have been invo
 The barriers I faced was that the wiki for the project on github was not very descriptive about the setup and the steps for installation were in the wrong order. Anna Swigart and I were working together and she decided to contribute by editing the Wiki and putting the steps in the right order. I also found that during the setup, we were not able to successfully cache all the papers that existed in the library so I logged an issue in the issue tracker on [Github](https://github.com/peerlibrary/peerlibrary/issues/93).  I’m currently familiarizing myself with the system using the wiki and trying to understand the process of contribution from the guidelines provided on the [email list archive](http://lists.peerlibrary.org/lists/arc/dev/2013-09/msg00002.html). 
 
 I think my experience of joining the community was very formal but my experience of familiarizing myself with the system and contributing is very formal. 
+
+
+added Comments Thomas 11/6/2013 (see commit description)

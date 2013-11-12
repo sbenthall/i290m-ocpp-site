@@ -20,6 +20,10 @@ The first time I heard about Hypothes.is was when I attended the UI class at the
 ##Communication channels##
 Hypothes.is uses several communication channels to stay in contact with their contributors and to keep track of the development. 
 The first source of information is their extensive [website](http://hypothes.is/). It offers many kinds of information, including a page explaining how to contribute.
+
+added Comments Thomas 11/6/2013 (see commit description)
+
+
 The most important source is the git-repository called [h](https://github.com/hypothesis/h/). It includes all the core files and changes made. Especially interesting for new contributors are the INSTALL files which include a step to step guide to get the server running on different operating systems.
 They also use a [mailing list](mailto:dev+subscribe@list.hypothes.is) and an [archive](http://list.hypothes.is/archive/dev/). It seems that the mailing list is not very active at the moment, but there has been some communication in the past. It has been mostly used for communication with external partners.
 There is also a [forum](https://groups.google.com/forum/#!forum/hypothesis-forum). It looks like it's new since the archive only goes back two months. Here most of the threads are started by user reporting some kind of a problem or bug.

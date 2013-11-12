@@ -1,0 +1,132 @@
+
+%%%%%%%%%%%%%%%%%%%%%%% file typeinst.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is the LaTeX source for the instructions to authors using
+% the LaTeX document class 'llncs.cls' for contributions to
+% the Lecture Notes in Computer Sciences series.
+% http://www.springer.com/lncs       Springer Heidelberg 2006/05/04
+%
+% It may be used as a template for your own input - copy it
+% to a new file with a new name and use it as the basis
+% for your article.
+%
+% NB: the document class 'llncs' has its own and detailed documentation, see
+% ftp://ftp.springer.de/data/pubftp/pub/tex/latex/llncs/latex2e/llncsdoc.pdf
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[runningheads,a4paper]{llncs}
+
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+
+\usepackage{url}
+%\urldef{\mailsa}\path|{alfred.hofmann, ursula.barth, ingrid.haas, frank.holzwarth,|
+%\urldef{\mailsb}\path|anna.kramer, leonie.kunz, christine.reiss, nicole.sator,|
+%\urldef{\mailsc}\path|erika.siebert-cole, peter.strasser, lncs}@springer.com|    
+\newcommand{\keywords}[1]{\par\addvspace\baselineskip
+\noindent\keywordname\enspace\ignorespaces#1}
+
+\begin{document}
+
+\mainmatter  % start of an individual contribution
+
+% first the title is needed
+\title{Open Source Community \\ Joining \& Management}
+
+% a short form should be given in case it is too long for the running head
+\titlerunning{Open Collaboration and Peer-Production}
+%\thanks{Please note that the LNCS Editorial assumes that all authors have used
+%the western naming convention, with given names preceding surnames. This determines
+%the structure of the names in the running heads and the author index.}
+
+
+% the name(s) of the author(s) follow(s) next
+%
+% NB: Chinese authors should write their first names(s) in front of
+% their surnames. This ensures that the names appear correctly in
+% the running heads and the author index.
+%
+\author{i290m Open Collaboration and Peer-Production Class \inst{1}}
+%\and Spencer Wheatley \inst{2} \and Didier Sornette \inst{2}}
+%
+%%
+%%\authorrunning{Maillart et al.}
+%% (feature abused for this document to repeat the title also on left hand pages)
+%
+%% the affiliations are given next; don't give your e-mail address
+%% unless you accept that it will be published
+\institute{School of Information,\\
+UC Berkeley,\\ Berkeley, United States}
+%%\mailsa\\
+%%\mailsb\\
+%%\mailsc\\
+%%\url{http://www.springer.com/lncs}
+%\and Chair of Entrepreneurial Risks,\\ ETH Zurich, Switzerland}
+%
+%%
+% NB: a more complex sample for affiliations and the mapping to the
+% corresponding authors can be found in the file "llncs.dem"
+% (search for the string "\mainmatter" where a contribution starts).
+% "llncs.dem" accompanies the document class "llncs.cls".
+%
+
+%\toctitle{Lecture Notes in Computer Science}
+\tocauthor{Authors' Instructions}
+\maketitle
+
+
+\input{chapters/000_abstract.tex}
+\input{chapters/010_intro.tex}
+\input{chapters/020_context.tex}
+\input{chapters/030_background.tex}
+\input{chapters/040_methods.tex}
+\input{chapters/041_qualitative.tex}
+\input{chapters/042_survey.tex}
+\input{chapters/050_results.tex}
+\input{chapters/060_discussion.tex}
+\input{chapters/070_conclusion.tex}
+
+%\input{intro}
+
+
+
+\bibliographystyle{abbrv}
+\bibliography{references.bib}
+
+
+
+
+
+
+
+
+%\section*{Appendix: Springer-Author Discount}
+%
+%LNCS authors are entitled to a 33.3\% discount off all Springer
+%publications. Before placing an order, the author should send an email, 
+%giving full details of his or her Springer publication,
+%to \url{orders-HD-individuals@springer.com} to obtain a so-called token. This token is a
+%number, which must be entered when placing an order via the Internet, in
+%order to obtain the discount.
+%
+%\section{Checklist of Items to be Sent to Volume Editors}
+%Here is a checklist of everything the volume editor requires from you:
+%
+%
+%\begin{itemize}
+%\settowidth{\leftmargin}{{\Large$\square$}}\advance\leftmargin\labelsep
+%\itemsep8pt\relax
+%\renewcommand\labelitemi{{\lower1.5pt\hbox{\Large$\square$}}}
+%
+%\item The final \LaTeX{} source files
+%\item A final PDF file
+%\item A copyright form, signed by one author on behalf of all of the
+%authors of the paper.
+%\item A readme giving the name and email address of the
+%corresponding author.
+%\end{itemize}
+
+\end{document}
