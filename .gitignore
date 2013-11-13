@@ -42,3 +42,4 @@ nosetests.xml
 *.aux
 *.log
 report/collective_report.pdf
+report/collective_report.synctex.gz
