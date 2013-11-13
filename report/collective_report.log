@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.3.4)  12 NOV 2013 14:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.3.4)  12 NOV 2013 16:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -279,68 +279,73 @@ Overfull \hbox (2.46873pt too wide) in paragraph at lines 5--6
 , com-mu-nity join-ing, ed-
  []
 
-) (./chapters/010_intro.tex) (./chapters/020_context.tex
-(./chapters/chunks/discovering_a_project.tex)) (./chapters/030_background.tex)
-(./chapters/040_methods.tex (./chapters/chunks/survey_design_process.tex
-Overfull \hbox (26.69725pt too wide) in paragraph at lines 2--2
- [][]$\OT1/cmtt/m/n/9 https : / / docs . google . com / forms / d / 1KnkSkM3f _
- QBRQeYfUXpyXspSqavjcClKS2DoWAz1fyE /
- []
+) (./chapters/010_intro.tex
+
+LaTeX Warning: Citation `Producing Open Source Software' on page 1 undefined on
+ input line 6.
 
 [1
 
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./chapters/chunks/survey_design.tex
+(./chapters/020_context.tex (./chapters/chunks/discovering_a_project.tex)
+(./chapters/chunks/citizenscienceintro.tex)) (./chapters/030_background.tex)
+(./chapters/040_methods.tex) (./chapters/041_qualitative.tex)
+(./chapters/042_survey.tex [2] (./chapters/chunks/survey_design_process.tex
+Overfull \hbox (26.69725pt too wide) in paragraph at lines 2--2
+ [][]$\OT1/cmtt/m/n/9 https : / / docs . google . com / forms / d / 1KnkSkM3f _
+ QBRQeYfUXpyXspSqavjcClKS2DoWAz1fyE /
+ []
 
-LaTeX Warning: Citation `Tomlinson2012' on page 2 undefined on input line 7.
+) (./chapters/chunks/survey_design.tex
 
-)) (./chapters/041_qualitative.tex) (./chapters/042_survey.tex)
-(./chapters/050_results.tex (./chapters/chunks/funding_and_response_tone.tex
+LaTeX Warning: Citation `Tomlinson2012' on page 3 undefined on input line 7.
+
+)) (./chapters/050_results.tex (./chapters/chunks/funding_and_response_tone.tex
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-
-[2]) (./chapters/chunks/true_motivations_for_contributing.tex) [3]
+[3]) (./chapters/chunks/true_motivations_for_contributing.tex) [4]
 (./chapters/chunks/design_and_previous_experiences.tex)
 (./chapters/chunks/Difference_between_Experienced_and_Newcomers_in_Open_Source.
-tex [4]) (./chapters/chunks/initial_contact.tex)
+tex [5]) (./chapters/chunks/initial_contact.tex)
 (./chapters/chunks/personal_connections_seema.tex
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
- [5])
+ [6])
 (./chapters/chunks/problems_faced_by_newbies.tex)
-(./chapters/chunks/regular_community_meetings.tex) [6]
-(./chapters/chunks/onboarding.tex)) (./chapters/060_discussion.tex [7]
+(./chapters/chunks/regular_community_meetings.tex) [7]
+(./chapters/chunks/onboarding.tex) (./chapters/chunks/chuang.tex) [8])
+(./chapters/060_discussion.tex
 (./chapters/chunks/importance_of_personal_touch.tex)
 (./chapters/chunks/080_meta-analysis.tex)) (./chapters/070_conclusion.tex)
 No file collective_report.bbl.
-[8] (./collective_report.aux) ) 
+[9] [10] (./collective_report.aux) ) 
 Here is how much of TeX's memory you used:
- 2330 strings out of 493488
- 32486 string characters out of 3141327
+ 2337 strings out of 493488
+ 32677 string characters out of 3141327
  93434 words of memory out of 3000000
- 5535 multiletter control sequences out of 15000+200000
+ 5536 multiletter control sequences out of 15000+200000
  10780 words of font info for 42 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,9n,24p,1405b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmtt9.pfb>
-Output written on collective_report.pdf (8 pages, 156808 bytes).
+</usr/local/texlive/2012/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt9.pfb>
+Output written on collective_report.pdf (10 pages, 165756 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
