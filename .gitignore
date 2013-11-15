@@ -37,3 +37,6 @@ nosetests.xml
 ## temp files
 .DS_Store
 *.*~
+
+## output
+output/
