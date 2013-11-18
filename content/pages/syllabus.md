@@ -250,7 +250,7 @@ This talk describes the recent evolution of business strategies used by companie
 
 
 
-**12/03 LAB 12 (collective report writing , if needed)**
+**12/03 LAB 13 (collective report writing , if needed)**
 
 *ASSIGNMENT 7: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate?  How does this affect the community's cooperative dynamics?  Are there competing projects?  How would you describe your project's role in the greater technical ecosystem?*
 
@@ -264,7 +264,7 @@ Readings:
 - Practical OSS Exploration. http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605#Why_Traditional_Student_Projects_Are_Ineffective
 
 
-**12/10 LAB 13 (collective report writing, if needed)**
+**12/10 LAB 14 (collective report writing, if needed)**
 
 *ASSIGNMENT 8: Does your project's community mirror the technical modularity of the project?  How does it structure its collaboration--synchronously? Asyncronously? How does it get work done?*
 
@@ -272,7 +272,7 @@ Readings:
 **12/13 RRR - Dead week (no class)**
 
 
-**12/17 LAB 14 (collective report writing, if needed)**
+**12/17 LAB 15 (collective report writing, if needed)**
 
 
 **12/20 Collective Report due, if not finished earlier (no class)**
