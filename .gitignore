@@ -41,5 +41,7 @@ nosetests.xml
 ## LaTeX
 *.aux
 *.log
+*.bbl
+*.blg
 report/collective_report.pdf
 report/collective_report.synctex.gz
