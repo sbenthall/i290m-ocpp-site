@@ -22,7 +22,7 @@
 \usepackage{todonotes}
 \setcounter{tocdepth}{3}
 \usepackage{graphicx}
-
+\usepackage{enumitem}
 \usepackage{url}
 %\urldef{\mailsa}\path|{alfred.hofmann, ursula.barth, ingrid.haas, frank.holzwarth,|
 %\urldef{\mailsb}\path|anna.kramer, leonie.kunz, christine.reiss, nicole.sator,|
@@ -50,17 +50,18 @@
 % their surnames. This ensures that the names appear correctly in
 % the running heads and the author index.
 %
-\author{i290m Open Collaboration and Peer-Production Class \inst{1}}
-%\and Spencer Wheatley \inst{2} \and Didier Sornette \inst{2}}
-%
-%%
-%%\authorrunning{Maillart et al.}
+\author{UC Berkeley iSchool i290m class\footnote{The open collaboration \& peer-production (i290m) is a class on hands-on exploration of the theory and practice of open online collaboration. This report was collectively written by all students as a part of their class evaluation. Contributors are (by alphabetical order) : Agrawal, S., Benthall, S., Bora, R., Chen, T. K., Chuang, J., Hartnell, J.T., Jacksier-Chasen, F.W., Jervis, L., Maillart, T., Matta, P.,  Mcconachie, A.S., Merrill, N.J., Milutinovic, M., Nellimarkka, M., 
+Nguyen, P.T., Ochigame, R.K., Perry, R.E., Petrozzo, C.A., Pham, C.P.C.
+Puthyapurayil, S., Quast, T., Renold, A.,  Sedenberg, E.M.,Swigart, A.G., Tian,S., Trichur,V.V., Zhang, M.}}
+
+
+\authorrunning{UC Berkeley iSchool i290m class}
 %% (feature abused for this document to repeat the title also on left hand pages)
 %
 %% the affiliations are given next; don't give your e-mail address
 %% unless you accept that it will be published
 \institute{School of Information,\\
-UC Berkeley,\\ Berkeley, United States}
+UC Berkeley, Berkeley}
 %%\mailsa\\
 %%\mailsb\\
 %%\mailsc\\
@@ -78,15 +79,26 @@ UC Berkeley,\\ Berkeley, United States}
 \tocauthor{Authors' Instructions}
 \maketitle
 
+\newcommand{\mysubsubsection}[1]{\subsubsection{#1}\mbox{}\\}
 
 \input{chapters/000_abstract.tex}
+\clearpage
 \input{chapters/010_intro.tex}
 \input{chapters/020_context.tex}
+\input{chapters/021_motivation.tex}
+\input{chapters/022_education.tex}
 \input{chapters/030_background.tex}
 \input{chapters/040_methods.tex}
 \input{chapters/041_qualitative.tex}
 \input{chapters/042_survey.tex}
 \input{chapters/050_results.tex}
+\input{chapters/051_motivations.tex}
+\input{chapters/052_joining.tex}
+\input{chapters/053_demographics.tex}
+\input{chapters/054_communicationtools.tex}
+\input{chapters/055_governance.tex}
+\input{chapters/056_businessmodel.tex}
+\input{chapters/057_educational.tex}
 \input{chapters/060_discussion.tex}
 \input{chapters/070_conclusion.tex}
 
@@ -95,11 +107,7 @@ UC Berkeley,\\ Berkeley, United States}
 
 
 \bibliographystyle{abbrv}
-\bibliography{references.bib}
-
-
-
-
+\bibliography{bib/tmaillart.bib,bib/references.bib}
 
 
 
