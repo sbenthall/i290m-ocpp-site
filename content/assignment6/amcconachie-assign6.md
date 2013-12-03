@@ -1,0 +1,19 @@
+Title: Free Law Project Funding
+Date: 2013-11-30 13:00 
+Category: assignment6
+Slug: amcconachie-assign6 
+Tags: i290m-ocpp, Free Law, funding
+Author: Andrew McConachie
+Summary: Funding in the Free Law Project
+
+### Funding in the Free Law Project
+
+The Free Law Project, which oversees development of both courtlistener.com and juriscraper, is a California non-profit that receives funding from various sources.  The Free Law Project employees one full-time employee, Michael Lissner, and this is the primary cost of their operation.  Currently the Free Law Project is funded well enough to support Michael Lissner's position.  Operational costs, such as bandwidth and electricity, for courtlistener.com are paid for by the state of California since it physically hosts courtlistener.com in an office on the Berkeley campus.
+
+The Free Law Project gathers monetary donations from different sources.  The usual grants from government agencies, non-profits and philanthropists make up the bulk of their funding.  There is also a [donate](https://www.courtlistener.com/donate/?referrer=footer) button on courtlistener.com that allows users of the site to make donations.  Currently, most of the funding for the Free Law Project comes from grants and not from the donate button located on courtlistener.com.
+
+In addition to monetary donations to the Free Law Project there are donations of legal opinions.  Recently Lawbox LLC made a donation of 1.5 million opinions to the Free Law Project.  These donations of opinions are equally important to the project since if the Free Law Project were to gather these opinions themselves it would involve substantial time and money.  So opinion donations can reasonably equate to donations of actual money in so far as the Free Law Project has enough actual monetary donations to pay Michael Lissner's salary.
+
+The impact of having a single dedicated full-time staff member is enormous.  I have been involved with other collaborative projects in the past, both open source and just volunteer organizations, and I have often wished for a single full-time dedicated staff member.  Michael Lissner spends most of his time coordinating and assisting contributors like myself.  Were he not there to fill this role the project would suffer from a severe lack of organization and coordination.  Brian Carver is also dedicated to the project but has more limiting time constraints given that he's employed full-time at UC Berkeley.
+
+The one major competitor that the Free Law Project has is Google Scholar's law opinion database.  However in a way it's not really competition at all.  Certainly they both provide a similar service of putting public opinions online.  But Google doesn't have the same intentions or long term goals that the Free Law Project does.  Google has very obvious moneyed interests in any information that it organizes and because of this many people interested in the law would never consider Google as an equivalent competitor to the Free Law Project, but instead being in a class all of their own.  The simple fact that Google could start serving advertisements tomorrow for access to public opinions puts people off on it.  There are also technical differentiators evident between the Free Law Project and Google Scholar.  The Free Law Project is better at providing alerts and better at showing linkage through citations.  Whereas Google has a larger corpus and arguably better search technology.  But the technical differentiators are mostly secondary compared to how the two projects differentiate idealistically.  The Free Law Project models itself after the Wikimedia foundation in terms of human rights, whereas Google is, well, Google.
