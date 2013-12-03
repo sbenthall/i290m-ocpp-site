@@ -1,7 +1,7 @@
 Title: MIFOS2
 Date: 2013-10-07 2:37
 Category: i290m-ocpp assignment2
-Slug: assign2
+Slug: mzhang-assign2
 Tags: assignment2, mifos
 Author: MZhang
 Summary: Assignment 2
