@@ -254,26 +254,28 @@ This talk describes the recent evolution of business strategies used by companie
 
 *ASSIGNMENT 6: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate?  How does this affect the community's cooperative dynamics?  Are there competing projects?  How would you describe your project's role in the greater technical ecosystem?*
 
+**12/6 (11am - 12pm) Guest Facilitator - Gender and Open Source [Rochelle Terman]**
 
+Readings: 
 
-**12/6  Open Collaboration and Education - Seb and Thomas**
+- TBD
+
+**12/6  Open Collaboration and Education; Class Wrap-up; Course Evaluations - Seb**
 
 Readings:
 
-- Explore POSSE 2013-06 Workshop Wiki http://www.foss2serve.org/index.php/POSSE_2013-06
-- Practical OSS Exploration. http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605#Why_Traditional_Student_Projects_Are_Ineffective
+- Ellis, H.J.C., Morelli, R., de Lanerolle, T., Damon, J. and Raye, J. Can humanitarian open-source software development draw new students to CS? In Proceedings of the 38th SIGCSE Technical Symposium on Computer Science Education (Covington, Kentucky, USA), March 2007, pp. 551-555. [pdf](http://www.cs.trincoll.edu/hfoss/images/0/0a/Ellis_etal_SIGCSE_2007.pdf)
+- Practical OSS Exploration. Forward. ([link](http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605))
 
 
-**12/10 LAB 14 (collective report writing, if needed)**
+**12/10 LAB 14 (for collective report writing, optional)**
 
 *ASSIGNMENT 7: Does your project's community mirror the technical modularity of the project?  How does it structure its collaboration--synchronously? Asyncronously? How does it get work done?*
 
 
-**12/13 RRR - Dead week (no class)**
-
+**12/13 Optional meeting in SH 210 for report writing**
 
 **12/17 LAB 15 (collective report writing, if needed)**
-
 
 **12/20 Collective Report due, if not finished earlier (no class)**
 
