@@ -1,35 +1,37 @@
-\mysubsubsection{Funding and licencing}
-
 We explored the connection between project type and licence in two different ways, in Table \ref{tab:licence_per_fudning} by funding sources and in Table \ref{tab:licence_per_project_type} by project origination. Both tables yield statistically significant results, presented inline in Table \ref{tab:licence_per_fudning} and for Table\ref{tab:licence_per_project_type} $\chi^2$ test gives $p=0.023$.
 
-Based on this analysis we conclude that corporations prefer BSD and Apache (and dislike GNU), where as in-kind groups prefer more GNU and less BSD. This is most likely related to patenting related clauses in the patent texts\todo{explain more}. These results mirror the suggestion of the Mozilla legal team for all Mozilla projects to move over to Apache 2, as it provided some legal patent protections that the other licenses did not. \footnote{\url{https://groups.google.com/forum/#!topic/mozilla.legal/CrwdQkJRfEM}}
+Based on this analysis we conclude that open source projects with corporate funding prefer the Apache and BSD licenses, while only one project that choose a GNU license received any corporate funding. These results mirror the suggestion of the Mozilla legal team for all Mozilla projects to move over to Apache 2, as it provided some legal patent protections that the other licenses did not. \footnote{\url{https://groups.google.com/forum/#!topic/mozilla.legal/CrwdQkJRfEM}}
 
 \begin{table}[htbp]
   \centering
-  \caption{Licence per funding source}
-    \begin{tabular}{rrrrrrr}
-          & AGPL  & BSD   & Apache & MIT   & GNU GPL &  \\
+  \caption{License per funding source}
+    \begin{tabular}{|c|c|c|c|c|c|c|}
+    \hline
+         Funding & AGPL  & BSD   & Apache & MIT   & GNU GPL & p value \\
 \hline
     Crowdsourced & 1     & 3     & 1     & 0     & 1     & n.s. \\
     Federal grants & 0     & 1     & 0     & 0     & 0     & n.s. \\
     Non-profit grants & 1     & 4     & 0     & 0     & 2     & p = 0.115 \\
     Not needed or in-kind & 0     & 0     & 0     & 1     & 4     & p = 0.81 * \\
     Corporate / private & 0     & 3     & 3     & 0     & 1     & p = 0.044 ** \\
+\hline    
     \end{tabular}
   \label{tab:licence_per_fudning}
 \end{table}
 
 \begin{table}[htbp]
   \centering
-  \caption{Licences in different project types}
-    \begin{tabular}{rrrrrr}
-          & Corporation lead open source project & Community originating open source project & Academic open source project & nonprofit sector originating open source project &  \\
+  \caption{License in different project types}
+    \begin{tabular}{|c|c|c|c|c|c|}
+	\hline
+          License & Corporation lead & Community originating & Academic & nonprofit sector originating \\
     \hline
-    AGPL  & Count & 0     & 0     & 0     & 1 \\
-    BSD   & Count & 1     & 1     & 2     & 1 \\
-    Apache & Count & 3     & 0     & 0     & 0 \\
-    MIT   & Count & 0     & 1     & 0     & 0 \\
-    GPL + GNU & Count & 0     & 3     & 4     & 0 \\
+    AGPL Count & 0     & 0     & 0     & 1 \\
+    BSD  Count & 1     & 1     & 2     & 1 \\
+    Apache Count & 3     & 0     & 0     & 0 \\
+    MIT  Count & 0     & 1     & 0     & 0 \\
+    GPL + GNU Count & 0     & 3     & 4     & 0 \\
+    \hline
     \end{tabular}
   \label{tab:licence_per_project_type}
 \end{table}%
