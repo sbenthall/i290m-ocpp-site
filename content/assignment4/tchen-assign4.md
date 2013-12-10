@@ -1,0 +1,19 @@
+Title: PeerLibrary's Governance Structure
+Date: 2013-12-7 23:30
+Category: assignment4
+Slug: tchen-assign4
+Tags: peerlibrary
+Author: Tony Chen
+Summary: Reflections on the governance structure within the PeerLibrary project
+
+Since the inception of PeerLibrary, the governance structure was pretty much non-existent. The reason for it lacking a formal structure is probably due to PeerLibrary being in its nascent stage. When it was just me and Rodrigo in early 2013, we were pushing commits directory to the 'master' branch in a repository on my personal GitHub account. Everyone who contributed were within my close circle of friends and everyone had commit privileges. The contributors mostly met in person at the Casa Zimbabwe student co-op or at my apartment and it was very informal.
+
+In Jo Freeman's [Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm), he highlights some of the problems with informal communication networks. Often, structurelessness is defended as a remedy to structural inequality or elitism but Freeman argues that informal structures have an inevitable elitist and exclusive nature due to informal communication networks within friends because informal structures have secret powers and secret criteria for inclusion.
+
+It wasn't until we started collaborating with Mitar, did we start to form some semblance of a structure. Though the structure is still pretty formal, I feel we have become more organized and this certainly contributed in attracting contributors from the outside. We now havce communication channels such as IRC (#rawpotato @ freenode) and a [development mailing list](http://lists.peerlibrary.org/lists/info/dev) which is served on Mitar's personal servers. Because of the small size of our contributor network, the communication remains fairly informal and moderated and we have not come across problems with that yet. Now contributors create separate branches to work on new features and other developers merge those branches to master when it is ready for production.
+
+The core-contributors are situated in the bay area and almost all of us are Berkeley students so we still meet in person for practical reasons. We often meet on campus usually at night when most of us are free. We invite others by announcing to our meetings by announcing it on the [mailing list](http://lists.peerlibrary.org/lists/arc/dev/2013-10/msg00016.html) and through word of mouth. Typically we meet at Hearst Mining Memorial Building at the Berkeley Institute of Design or the Social Apps Lab at Sutardja Dai Hall - both of which are very cogent meeting and co-working spaces. 
+
+In the initial stages of PeerLibrary, it did not really cross my mind to think of the development community as an "informal communication network" as one described by Freeman. Perhaps the community at this point is too small for emergent properties such as elitism or exclusion to have emmerged and up to this point our formal structure has worked out pretty well. Though I have noticed that new contributors have found or have expressed to me that it was hard to take initiative to make decisions for the entire project, though this is very much encouraged.
+
+Even though everyone has commit privileges, since Mitar joined our group he has become one of the most active contributors to PeerLibrary. Because of his technical knowledge and experience with building large open source projects, he has very evidently become our benevelolent dictator. It was actually Mitar who convinced Rodrigo and I to change our codebase and completely rewrite our application in Meteor. To this day, many important decisions for the project have been spearheaded by Mitar. All new contributors now work on the project under Mitar's supervision and the code is approved by him before it is merged with the master branch.
