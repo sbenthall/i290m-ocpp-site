@@ -15,3 +15,23 @@ Take for example Juriscraper.  Originally Juriscraper was written by Mike Lissne
 Another example of Conway's Law in reference to the Free Law Project is the [Free Law Ferret](http://citationstylist.org/2013/08/20/free-law-ferret-document-to-cited-cases-in-a-click/).  The Free Law Ferret is a Firefox plugin that finds citations in online legal documents then performs a search on courtlistener.com to retrieve them.  It's an easy way for someone researching the law to find relevant opinions without having to leave their browser.  It also integrates with Zotero and MLZ, two popular citation assistants for Firefox that are useful for organizing citations of web resources.
 
 It's development is independent of the Free Law Project but both projects gain value from each other.  As a software artifact its own development organization follows the benevolent dictatorship model so organizationally one can think of both projects as just two dictators working together for common benefit.  However, the Free Law Ferret is definitely complimentary to the Free Law Project and not the other way around.  The Free Law Ferret could not exist without courtlistener.com.  In this way the development of the Free Law Ferret in relation to the development of the Free Law Project mirrors the structure of their communications network.  The Free Law Ferret's developer is not a Free Law Project co-dictator so the unidirectional satellite relationship between the two projects applies to both how they're developed and how they institute power.
+
+#### Contributions to the Free Law Project
+My first contribution to the Free Law project was adding the Virginia state appellate courts to Juriscraper.  Since then I have been working on adding a feature to courtlistener.com which shows relevant key-terms for each court opinion.  In the process I have discovered many bugs in the [Free Law Virtual Machine](http://freelawproject.org/2013/10/15/free-law-virtual-machine-available-for-academics-and-developers/).  Some of them I have resolved myself and contributed upstream, but most of them have been things I discovered which didn't work and then Mike Lissner resolved with code changes.  I hope to finish my development on finding key-terms in opinions and eventually have it merged with the live courtlistener.com.  But so far this work is ongoing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
