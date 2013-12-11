@@ -265,7 +265,8 @@ Readings:
 Readings:
 
 - Ellis, H.J.C., Morelli, R., de Lanerolle, T., Damon, J. and Raye, J. Can humanitarian open-source software development draw new students to CS? In Proceedings of the 38th SIGCSE Technical Symposium on Computer Science Education (Covington, Kentucky, USA), March 2007, pp. 551-555. [pdf](http://www.cs.trincoll.edu/hfoss/images/0/0a/Ellis_etal_SIGCSE_2007.pdf)
-- Practical OSS Exploration. Forward. ([link](http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605))
+- Practical OSS Exploration. Forward. [link](http://teachingopensource.org/index.php?title=Practical_OSS_Exploration_-_Foreword&direction=next&oldid=3605)
+- [see also](http://www.hfoss.org/index.php/publications-etc)
 
 
 **12/10 LAB 14 (for collective report writing, optional)**
@@ -274,6 +275,8 @@ Readings:
 
 
 **12/13 Optional meeting in SH 210 for report writing**
+
+**12/16 Final blog post revisions due **
 
 **12/17 LAB 15 (collective report writing, if needed)**
 
