@@ -1,0 +1,57 @@
+\contentsline {title}{Open Source Community \unskip \ \ignorespaces Joining \& Management\unskip \ \ignorespaces }{1}
+\authcount {1}
+\contentsline {author}{Authors' Instructions}{1}
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {subsubsection}{Discovering a Group to Join}{4}
+\contentsline {section}{\numberline {2}Background}{5}
+\contentsline {section}{\numberline {3}Context}{6}
+\contentsline {subsection}{\numberline {3.1}Education \& Open Collaboration}{6}
+\contentsline {subsection}{\numberline {3.2}Open Collaboration in the Classroom}{7}
+\contentsline {subsubsection}{Other patterns of self-organization :}{8}
+\contentsline {section}{\numberline {4}Data and Methods}{8}
+\contentsline {subsection}{\numberline {4.1}Qualitative Reporting}{9}
+\contentsline {subsection}{\numberline {4.2}Survey}{10}
+\contentsline {subsubsection}{Survey Design}{10}
+\contentsline {subsection}{\numberline {4.3}Methods}{10}
+\contentsline {subsubsection}{Quantitative data}{10}
+\contentsline {subsubsection}{Qualitative data}{11}
+\contentsline {section}{\numberline {5}Results}{11}
+\contentsline {subsection}{\numberline {5.1}Motivations for Joining \& Contributions}{11}
+\contentsline {subsubsection}{The Difference between Experienced and Newcomers in Open Source}{11}
+\contentsline {subsubsection}{Exploring Alternative Projects to Join}{12}
+\contentsline {subsubsection}{True Motivations for Open Source Contribution}{13}
+\contentsline {subsubsection}{The Reasons for Project Choice}{13}
+\contentsline {subsubsection}{Timed Commitment}{14}
+\contentsline {subsubsection}{Roles in the Community}{14}
+\contentsline {subsection}{\numberline {5.2}Joining an Open Source Project}{15}
+\contentsline {subsubsection}{The joining process}{15}
+\contentsline {subsubsection}{Lurking Behaviors and Initial Contact}{16}
+\contentsline {subsubsection}{The Importance of Personal Touch}{16}
+\contentsline {subsubsection}{Openness and Responsiveness}{18}
+\contentsline {subsubsection}{First contribution}{18}
+\contentsline {subsubsection}{Onboarding Problems}{18}
+\contentsline {subsubsection}{FAQs and Onboarding Documentation}{20}
+\contentsline {subsection}{\numberline {5.3}Community Demographics \& Project History}{21}
+\contentsline {subsubsection}{Question about Project Founding Date}{21}
+\contentsline {subsubsection}{Diversity Questions}{21}
+\contentsline {subsection}{\numberline {5.4}Communication \& Tools}{22}
+\contentsline {subsubsection}{Personal Connections}{22}
+\contentsline {subsection}{\numberline {5.5}Organization and Governance}{22}
+\contentsline {subsubsection}{Organizations}{22}
+\contentsline {subsubsection}{Visibility of Work in Open Organizations}{23}
+\contentsline {subsubsection}{Regular Community Meetings}{24}
+\contentsline {subsubsection}{Prevalence of the Benevolent Dictatorship Governance Model}{25}
+\contentsline {subsubsection}{Licenses}{26}
+\contentsline {subsection}{\numberline {5.6}Funding Sources, Business Models \& Revenue Streams}{26}
+\contentsline {subsubsection}{Effect on License choice}{26}
+\contentsline {subsubsection}{Response Tone and Funding Source}{26}
+\contentsline {subsubsection}{Citizen Science Funding}{27}
+\contentsline {subsubsection}{Individual funding}{28}
+\contentsline {subsection}{\numberline {5.7}Educational Aspects}{29}
+\contentsline {section}{\numberline {6}Discussion}{29}
+\contentsline {subsubsection}{Meta-Analysis}{29}
+\contentsline {subsubsection}{Stream of conscious musings on the writing of this report}{29}
+\contentsline {subsubsection}{Discussion on Process}{30}
+\contentsline {subsection}{\numberline {6.1}Limitations}{31}
+\contentsline {section}{\numberline {7}Conclusion}{32}
+\contentsline {section}{\numberline {A}The survey form}{34}
