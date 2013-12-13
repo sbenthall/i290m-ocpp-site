@@ -18,6 +18,7 @@
 
 \documentclass[runningheads,a4paper]{llncs}
 
+\usepackage{nomencl}
 \usepackage{amssymb}
 \usepackage{todonotes}
 \setcounter{tocdepth}{3}
@@ -29,6 +30,7 @@
 %\urldef{\mailsc}\path|erika.siebert-cole, peter.strasser, lncs}@springer.com|    
 \newcommand{\keywords}[1]{\par\addvspace\baselineskip
 \noindent\keywordname\enspace\ignorespaces#1}
+\usepackage[unicode=true]{hyperref}
 
 \begin{document}
 
@@ -83,16 +85,30 @@ United States}
 \newcommand{\mysubsubsection}[1]{\subsubsection{#1}\mbox{}\\}
 
 \input{chapters/000_abstract.tex}
+
 \clearpage
+\tableofcontents
+
+
+\clearpage
+
 \input{chapters/010_intro.tex}
+\clearpage
+
 \input{chapters/020_background.tex}
+\clearpage
+
 \input{chapters/030_context.tex}
 \input{chapters/031_motivation.tex}
 \input{chapters/032_education.tex}
+\clearpage
+
 \input{chapters/040_methods.tex}
 \input{chapters/041_qualitative.tex}
 \input{chapters/042_survey.tex}
 \input{chapters/043_methods.tex}
+\clearpage
+
 \input{chapters/050_results.tex}
 \input{chapters/051_motivations.tex}
 \input{chapters/052_joining.tex}
@@ -100,7 +116,8 @@ United States}
 \input{chapters/054_communicationtools.tex}
 \input{chapters/055_governance.tex}
 \input{chapters/056_businessmodel.tex}
-\input{chapters/057_educational.tex}
+%\input{chapters/057_educational.tex}
+\clearpage
 \input{chapters/060_discussion.tex}
 \input{chapters/070_conclusion.tex}
 
@@ -117,5 +134,6 @@ United States}
 
 \appendix
 \input{chapters/chunks/full_survey.tex}
+\input{chapters/syllabus.tex}
 
 \end{document}

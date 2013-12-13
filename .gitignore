@@ -47,6 +47,7 @@ output/
 *.log
 *.bbl
 *.blg
+*.toc
 report/collective_report.pdf
 report/collective_report.synctex.gz
 report/collective_report.dvi
