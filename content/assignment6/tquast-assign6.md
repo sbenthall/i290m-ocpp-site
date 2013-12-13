@@ -18,6 +18,9 @@ But hypothes.is is not only backed up by the Kickstarter campaign. As stated on 
 It is still possible to donate to the project, but the numbers are not public.
 
 ##How does this affect the community?##
+A company needs money to operate and thus will the people giving the money always have some kind of influence on the project. This said I have not experienced any direct interference by hypothes.is' donors. This may be mainly caused by the way the money is given to hypothes.is. The very [definition](http://en.wikipedia.org/wiki/Donation) of donation is that you do not expect anything in return. However it can't be denied that hypothes.is has to please it's donors to ensure continuing support. Here it helps that hypothes.is has defined [12 principles](http://hypothes.is/principles/) it complies to. It can be used as a common ground between hypothes.is and the donors and it concisely sums up what hypothes.is stands for. 
+
+Reading through the comments of the backers and Kickstarter and the websites of the foundations it looks like they support hypothes.is because they believe in the cause, more than they try to get a concrete measurable gain. This reflects the hypothes.is community. All the people I have been able to talk to work on hypothes.is because they believe in the tool and that it can change the way the internet works today. 
 
 ##Hypothes.is related to the greater ecosystem##
 
