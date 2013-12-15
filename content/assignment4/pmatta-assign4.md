@@ -1,9 +1,10 @@
-Title: Assignment4: Governance structure in Geonode community, Decision making process and Résolution solving in GeoNode
+Title: Assignment4: GeoNode's Governance structure, Decision making process and Résolution solving
 Date: 2013-10-22 13:30
 Category: assignment4
 Slug: pmatta-assign4
 Author: Prabha
 Tags: assignment4, GeoNode, open source, peer collaboration
+Summary:   Governance structure in Geonode community, Decision making process and Résolution solving in GeoNode.
 
 # Governance structure in Geonode - 
 There exists a semi-formal governance structure in GeoNode i.e., there are few core developers who have been in the project for quite long time who get to raise important issues related to feature implementation. However, all developers can comment or fix any code. I observe that there is no fixed hierarchy, at least while raising issues/bugs, assigning to developers and fixing those bugs in Github. From my observation, I can say the governance structure is somewhat of Benevelent Autocratic stucture at GeoNode.
