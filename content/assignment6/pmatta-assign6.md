@@ -1,11 +1,10 @@
-Title: Assignment6: Governance structure in Geonode community, Decision making process and Résolution solving in GeoNode
+Title: Assignment6: Funding of Geonode
 Date: 2013-12-14 13:30
 Category: assignment6
 Slug: pmatta-assign6
 Author: Prabha
 Tags: assignment6, GeoNode, open source, peer collaboration
-
-ASSIGNMENT 6: Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate? How does this affect the community's cooperative dynamics? Are there competing projects? How would you describe your project's role in the greater technical ecosystem?
+Summary:  Funding of Geonode. How does this affect the community? And Geonode's role in the greater technical ecosystem.
 
 # Funding of Geonode 
 To understanding the present funding mechanism in Geonode opensource software, one has to understand the origins of Geonode. OpenGeo is a leader in open source geospatial software development and support. It is a social enterprise working to build the best web-based geospatial technology and developed GeoNode, a new platform designed to promote the development of spatial data infrastructures (SDIs) worldwide. Initially, it was purely an open source project. 
