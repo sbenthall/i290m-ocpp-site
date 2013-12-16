@@ -21,9 +21,13 @@ The User community involves around 30 different Microfinance Institutions situat
 Because MIFOS is open source, MIFOS allows their clients to modify and contribute firm-specific changes to the platform that MIFOS provides. In fact, the newly released MIFOS X platform is designed specifically so that MFIS can build new applications using it as the foundation to use in their institutions. Furthermore, MIFOS customers interact with MFIs through business specialists that help translate their business needs into more technical and concrete improvements that MIFOS could provide. 
 
 
-The MIFOS product is essentially a platform for micro-finance transactions to be completed through. Its key features are that its low cost, user friendly, and works on low connectivity with global support. The platform can be downloaded independently off of the MIFOS website or any institution can contact a specialist through the website to help guide them through the process. 
+The MIFOS product is essentially a platform for micro-finance transactions to be completed through. Its key features are that its low cost, user friendly, and works on low connectivity with global support. The platform can be downloaded independently off of the MIFOS website or any institution can contact a specialist through the website to help guide them through the process.  Its licensed through Apache License V2.0, Mozilla Public License 2.0 (MPL 2.0)
 
-As I have stated before, my technical background in coding is not incredibly strong, and the interactions that I’ve had with the MIFOS platform have been limited. My contributions so far have only included documentation and working on transitioning from the old MIFOS program to the very newly executed MIFOS X. 
+
+
+As I have stated before, my technical background in coding is not incredibly strong, and the interactions that I’ve had with the MIFOS platform have been limited. From what I gather, MIFOS is a java-based web application running on top of a MySQL Database. Furthermore, they switched from an SVN control system to Github recently. 
+
+My contributions so far have only included documentation and working on transitioning from the old MIFOS program to the very newly executed MIFOS X. 
 
 http://www.amazon.com/Banker-Poor-Micro-Lending-Against-Poverty/dp/1586481983
 ^I actually bought that book to read as a source
