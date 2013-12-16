@@ -6,8 +6,6 @@ Tags: IPython
 Author: AJ Renold
 Summary: IPython Project funding sources and its role in the scientific computing community.
 
-Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate? How does this affect the community's cooperative dynamics? Are there competing projects? How would you describe your project's role in the greater technical ecosystem?
-
 ### Funding Sources
 
 IPython receives support from, government, corporate, and not for profit sources, listing supporters prominently on a [Sponsors Page](http://ipython.org/sponsors.html). According to the sponsors page, the largest supporter of IPython is the [Alfred P. Sloan Foundation](http://www.sloan.org/), which awarded IPython a [$1.15 million grant](http://ipython.org/sloan-grant.html) in December, 2012. The grant funds a number of specific objectives for the IPython software and supports three full time developers, two 3/4 time principal investigators, and two 1/2 time researchers. Additionally, the grant funds two development sprints per year at UC Berkeley. IPython also received a [$100,000 grant](http://ipython.org/microsoft-donation-2013.html) recently from Microsoft and cites Rackspace as a provider of free hosting for the IPython Notebook Viewer. Previously, IPython received support for full time developers from the U.S. Department of Defense High Performance Computing Modernization Program.
