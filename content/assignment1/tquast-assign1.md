@@ -4,7 +4,7 @@ Category: assignment1
 Slug: tquast-assign1
 Tags: i290m-ocpp, hypothes.is, assign1, tquast
 Author: tomnar
-Summary: Details about our first assignment
+Summary: How and why I approached the Hypothes.is community.
 
 #ASSIGNMENT 1 - Approaching the community#
 
