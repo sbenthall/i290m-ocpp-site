@@ -4,7 +4,7 @@ Category: assignment6
 Slug: arenold-assign6
 Tags: IPython
 Author: AJ Renold
-Summary: IPython Project funding sources and it's role in the scientific computing community.
+Summary: IPython Project funding sources and its role in the scientific computing community.
 
 Where does the funding for you community come from? Is there corporate sponsorship? A foundation that backs it? Do users donate? How does this affect the community's cooperative dynamics? Are there competing projects? How would you describe your project's role in the greater technical ecosystem?
 
