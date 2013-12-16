@@ -1,0 +1,31 @@
+Title: Funding and Related Projects
+Date: 2013-12-14 15:00
+Category: assignment6
+Slug: aswigart-assign6
+Tags: i290m-ocpp, peerlibrary
+Author: Anna
+Summary: PeerLibrary's funding and related projects
+
+####Funding
+
+Currently, the PeerLibrary community is not funded by any corporate sponsorship or foundation. Since we don't have a live version of the tool yet, there are also no users to donate to the project. I suspect that eventually we might consider adding a way to accept donations, perhaps with something like a [flattr button](flattr.com). We have also applied for some external funding avenues this year, including [Big Ideas @ Berkeley](http://bigideas.berkeley.edu/) and [Open Source Software World Challenge 2013](http://www.ossaward.org/).
+
+PeerLibabry is primarily a community of unpaid UC Berkeley students. However, [as Rodrigo points out](http://courses.ischool.berkeley.edu/i290m-ocpp/site/article/rochigame-assign6.html), the community does receive critical non-financial support through the UC Berkeley EECS department and several other organizations that help create data solutions for the project. I think that the homogeneity of the group (all students at the same institution) allows for open collaboration without expectation of any monetary reward to work well. Ultimately, we are here to learn and create something that we think society could benefit from. Because of the nature of the tool being built and the type of [license](https://github.com/peerlibrary/peerlibrary/blob/master/LICENSE) that it currently holds, it is unlikely that an external company or agency would pay its own employees to work on it. While I think this makes our situation conducive to cooperation by not introducing contributors who bring the agendas of other organizations, it probably limits the number of possible contributors to the project. I'm sure there are many talented and willing individuals out there who would be interested in being a part of this community if it were not for financial considerations.
+
+####Related Projects
+
+Upon close inspection, there is a huge number of related and competing projects out there in the world. The problem of a way to collaborate around online content is one that spans many corners of the web. However, there don't appear to be any live tools that smoothly integrate access to and search of academic articles, collaborative annotations of these articles, and profile/social network features. For example,[academia.edu](academia.edu) is a popular site that is primarily a social network. Users can share their work by uploading articles that they have authored, which become available for other users to download, post questions or other thoughts in status-like updates for their "followers" to see, update and post their CVs, and peruse job listings in their tagged fields of interest. As such, [academia.edu](academia.edu) creates an exclusive type of network for researchers and academics, without providing any opportunities for collaborative discussion while consuming the research of these academics that a user is following. [ResearchGate](http://www.researchgate.net/aboutus.AboutUs.html) is a similar platform, "built by scientists, for scientists", it boasts. What about the rest of society that is curious about scientific advances, and craves a way to understand and contextualize them? By not mandating that PeerLibrary users are researchers or academics themselves, I believe our tool has the potential to add a critical diversity of discussion and open layer of collaborative knowledge that researchers alone are not able to achieve.
+
+Meanwhile, a pilot project by pubmed.gov called [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/), is a step that the US government is taking to encourage collaboration directly around articles in its database. From their website:
+
+>PubMed Commons is a system that enables researchers to share their opinions about scientific publications. Researchers can comment on any publication indexed by PubMed, and read the comments of others. PubMed Commons is a forum for open and constructive criticism and discussion of scientific issues. It will thrive with high quality interchange from the scientific community. PubMed Commons is currently in a closed pilot testing phase, which means that only invited participants can add and view comments in PubMed.
+
+While a promising effort and certainly in the best interest of the tool's sponsors (National Library of Medicine and National Institutes of Health, who fund the research published here), the resources in this database are inherently limited to articles in medical and health-related fields. And though I am not part of the pilot study, a [help page](http://www.ncbi.nlm.nih.gov/pubmedcommons/help/addcomments/) I found for adding comments gives me the sense that the creators of this tool are not exactly thinking deeply about advances in open collaboration and annotation practices, and associated user interface and privacy considerations. It's a big step to allow public comments right in a database where many researchers currently go to retrieve these articles, but blob comments not attached to any particular section of a paper are not nearly as helpful as specific annotations that could provide other readers with iterative insight and context as they move through the text. Furthermore, it is a serious concern that many readers may want to share their comments only with members of a group they are in (such as a research lab), or might desire an online environment to organize their thoughts and notes about articles privately. I don't see [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/) addressing any of these interaction concerns, which I believe will set PeerLibrary apart.
+
+Our GitHub wiki page [Related Projects](https://github.com/peerlibrary/peerlibrary/wiki/Related-Projects) lists many other projects that we have identified, and members of PeerLibrary are actively working with some of these other groups in an effort to create annotation tools and standards that are interoperable. W3C's [Open Annotation Data Model](http://www.openannotation.org/spec/core/) is a promising forthcoming standard that could help federate annotations across platforms.
+
+
+
+
+
+
