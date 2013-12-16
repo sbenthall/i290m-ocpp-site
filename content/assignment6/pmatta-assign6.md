@@ -15,6 +15,11 @@ As Geonode expanded from simple mapping application to a comprehensive robust sy
 World Bank's quest to compute disaster risk modelling for developing countries in its international disaster reduction efforts matched OpenGeo's ambitions and they have partnered to build and release Geonode 1.0. 
 
 
+# How does this affect the community
+Since 2010, Geonode is supported and funded by World Bank. However, Geonode continued to remain open source and provide software to organizations involved in developmental activities. The project's path is mainly decided by the requirements of the current state of development in various organizations and the World Bank helps Geonode in this regard. Geonode's software is also enriched by the data treasure provided by World Bank. For instance, World Bank has set up a GeoNode instance at [RCMRD](horn.rcmrd.org) that aims at sharing all the data collected by humanitarian and development agencies working on the Horn of Africa (HoA) drought response. The main goal of this project is to provide users with a single point of access to geospatial information, i.e., incorporation of web services from external data providers into One-Stop Geospatial platform that allows users to quickly and easily share data and create interactive maps.
+
+Though World Bank helps Geonode in deciding its overall future goals, I do not find any direct interfernce of WorldBank in Geonode's day-to-day or software activities. The developers working at Geonode are free-willing to experiment with new features and improvements in their application. Since the core architecture is built on open software like Django, OpenGeo and Streetmaps,etc, Geonode software itself evolves due to latest technological improvements in the open software components they use.
+
 
 # Geonode's role in the greater technical ecosystem
 Geonode is contibuted as well as contribute to the greater technical ecosystem. Major contributions from a number of organizations were essential to the developement and release of GeoNode. These include OpenGeo, the World Bank, the Global Facility for Disaster Reduction and Recovery, United Nations International Strategy for Disaster Reduction, and Global Earthquake Model.  The project has also greatly benefitted from volunteer efforts from the open source community. 
