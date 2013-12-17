@@ -23,9 +23,9 @@ request with code.
 # Time to Contribute
 
 Because I have been determined to make a code contribution, I have gone through
-the process of getting a developer environment running on and have played around
+the process of getting a developer environment running on my machine and have played around
 with the front-end JavaScript that controls the feature I plan on adding a requested
-[enhancement](https://github.com/ipython/ipython/issues/3653) to. Asking the community about this enhancement led to their pointing
+[enhancement](https://github.com/ipython/ipython/issues/3653) to. [Asking the community](http://mail.scipy.org/pipermail/ipython-dev/2013-September/012330.html) about this enhancement led to their pointing
 out additional areas where I might make a contribution related to this enhancement.
 The initual enhancement I set out to make, quickly became more complex, involving
 the IPython core in addition to the Notebook front-end. What has been difficult
