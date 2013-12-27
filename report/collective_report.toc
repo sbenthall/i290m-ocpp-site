@@ -2,58 +2,57 @@
 \authcount {1}
 \contentsline {author}{Authors' Instructions}{1}{chapter.1}
 \contentsline {section}{\numberline {1}Introduction}{4}{section.1.1}
-\contentsline {subsubsection}{Discovering a Group to Join}{4}{section*.6}
+\contentsline {subsubsection}{Discovering a Group to Join}{4}{section*.3}
 \contentsline {section}{\numberline {2}Background}{6}{section.1.2}
 \contentsline {section}{\numberline {3}Context}{8}{section.1.3}
 \contentsline {subsection}{\numberline {3.1}Education \& Open Collaboration}{8}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {3.2}Open Collaboration in the Classroom}{9}{subsection.1.3.2}
-\contentsline {subsubsection}{Other Patterns of Self-Organization}{10}{section*.9}
+\contentsline {subsubsection}{Other Patterns of Self-Organization}{10}{section*.4}
 \contentsline {section}{\numberline {4}Data and Methods}{11}{section.1.4}
 \contentsline {subsection}{\numberline {4.1}Qualitative Reporting}{11}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {4.2}Survey}{12}{subsection.1.4.2}
-\contentsline {subsubsection}{Survey Design}{12}{section*.10}
+\contentsline {subsection}{\numberline {4.2}Survey}{13}{subsection.1.4.2}
 \contentsline {subsection}{\numberline {4.3}Methods}{13}{subsection.1.4.3}
-\contentsline {subsubsection}{Quantitative data}{13}{section*.11}
-\contentsline {subsubsection}{Qualitative data}{14}{section*.13}
+\contentsline {subsubsection}{Quantitative data}{13}{section*.5}
+\contentsline {subsubsection}{Qualitative data}{14}{section*.6}
 \contentsline {section}{\numberline {5}Results}{15}{section.1.5}
 \contentsline {subsection}{\numberline {5.1}Motivations for Joining \& Contributions}{15}{subsection.1.5.1}
-\contentsline {subsubsection}{The Difference between Experienced and Newcomers in Open Source}{15}{section*.14}
-\contentsline {subsubsection}{Exploring Alternative Projects to Join}{16}{section*.15}
-\contentsline {subsubsection}{True Motivations for Open Source Contribution}{16}{section*.16}
-\contentsline {subsubsection}{The Reasons for Project Choice}{16}{section*.17}
-\contentsline {subsubsection}{Timed Commitment}{17}{section*.18}
-\contentsline {subsubsection}{Roles in the Community}{18}{section*.19}
+\contentsline {subsubsection}{The Difference between Experienced and Newcomers in Open Source}{15}{section*.7}
+\contentsline {subsubsection}{Exploring Alternative Projects to Join}{16}{section*.8}
+\contentsline {subsubsection}{True Motivations for Open Source Contribution}{16}{section*.9}
+\contentsline {subsubsection}{The Reasons for Project Choice}{17}{section*.10}
+\contentsline {subsubsection}{Timed Commitment}{18}{section*.11}
+\contentsline {subsubsection}{Roles in the Community}{18}{section*.12}
 \contentsline {subsection}{\numberline {5.2}Case Study: Experiences as a non-technical contributor on a technical open source project}{18}{subsection.1.5.2}
 \contentsline {subsection}{\numberline {5.3}Joining an Open Source Project}{19}{subsection.1.5.3}
-\contentsline {subsubsection}{The joining process}{19}{section*.20}
-\contentsline {subsubsection}{Lurking Behaviors and Initial Contact}{20}{section*.21}
-\contentsline {subsubsection}{The Importance of Personal Touch}{22}{section*.22}
-\contentsline {subsubsection}{Openness and Responsiveness}{22}{section*.23}
-\contentsline {subsubsection}{First contribution}{23}{section*.24}
-\contentsline {subsubsection}{Onboarding Problems}{23}{section*.25}
+\contentsline {subsubsection}{The joining process}{19}{section*.13}
+\contentsline {subsubsection}{Lurking Behaviors and Initial Contact}{20}{section*.14}
+\contentsline {subsubsection}{The Importance of Personal Touch}{21}{section*.15}
+\contentsline {subsubsection}{Openness and Responsiveness}{23}{section*.16}
+\contentsline {subsubsection}{First contribution}{23}{section*.17}
+\contentsline {subsubsection}{Onboarding Problems}{23}{section*.18}
 \contentsline {subsection}{\numberline {5.4}Case Study -- Contributing to Citizen Science}{24}{subsection.1.5.4}
-\contentsline {subsubsection}{FAQs and Onboarding Documentation}{25}{section*.26}
+\contentsline {subsubsection}{FAQs and Onboarding Documentation}{26}{section*.19}
 \contentsline {subsection}{\numberline {5.5}Community Demographics \& Project History}{27}{subsection.1.5.5}
-\contentsline {subsubsection}{Question about Project Founding Date}{27}{section*.29}
-\contentsline {subsubsection}{Diversity Questions}{27}{section*.30}
+\contentsline {subsubsection}{Question about Project Founding Date}{27}{section*.22}
+\contentsline {subsubsection}{Diversity Questions}{27}{section*.23}
 \contentsline {subsection}{\numberline {5.6}Communication \& Tools}{28}{subsection.1.5.6}
-\contentsline {subsubsection}{Personal Connections}{28}{section*.31}
+\contentsline {subsubsection}{Personal Connections}{28}{section*.24}
 \contentsline {subsection}{\numberline {5.7}Organization and Governance}{28}{subsection.1.5.7}
-\contentsline {subsubsection}{Organizations}{28}{section*.32}
-\contentsline {subsubsection}{Visibility of Work in Open Organizations}{29}{section*.33}
-\contentsline {subsubsection}{Regular Community Meetings}{30}{section*.34}
-\contentsline {subsubsection}{Prevalence of the Benevolent Dictatorship Governance Model}{30}{section*.35}
-\contentsline {subsubsection}{Licenses}{31}{section*.36}
+\contentsline {subsubsection}{Organizations}{28}{section*.25}
+\contentsline {subsubsection}{Visibility of Work in Open Organizations}{29}{section*.26}
+\contentsline {subsubsection}{Regular Community Meetings}{30}{section*.27}
+\contentsline {subsubsection}{Prevalence of the Benevolent Dictatorship Governance Model}{31}{section*.28}
+\contentsline {subsubsection}{Licenses}{32}{section*.29}
 \contentsline {subsection}{\numberline {5.8}Funding Sources, Business Models \& Revenue Streams}{32}{subsection.1.5.8}
-\contentsline {subsubsection}{Effect on License choice}{32}{section*.37}
-\contentsline {subsubsection}{Response Tone and Funding Source}{33}{section*.38}
-\contentsline {subsubsection}{Citizen Science Funding}{33}{section*.39}
-\contentsline {subsubsection}{Individual funding}{34}{section*.40}
-\contentsline {section}{\numberline {6}Discussion}{35}{section.1.6}
-\contentsline {subsection}{\numberline {6.1}Limitations}{35}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {6.2}Collaboratively writing a paper}{36}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {6.3}The lack of structure}{36}{subsection.1.6.3}
-\contentsline {subsubsection}{Discussion on Process}{37}{section*.41}
-\contentsline {section}{\numberline {7}Conclusion}{38}{section.1.7}
-\contentsline {section}{\numberline {A}The survey form}{42}{section.A.1}
-\contentsline {section}{\numberline {B}Syllabus}{49}{section.A.2}
+\contentsline {subsubsection}{Effect on License choice}{32}{section*.30}
+\contentsline {subsubsection}{Response Tone and Funding Source}{33}{section*.31}
+\contentsline {subsubsection}{Citizen Science Funding}{33}{section*.32}
+\contentsline {subsubsection}{Individual funding}{34}{section*.33}
+\contentsline {section}{\numberline {6}Discussion}{36}{section.1.6}
+\contentsline {subsection}{\numberline {6.1}Limitations}{36}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {6.2}Collaboratively writing a paper}{37}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {6.3}The lack of structure}{37}{subsection.1.6.3}
+\contentsline {subsubsection}{Discussion on Process}{38}{section*.34}
+\contentsline {section}{\numberline {7}Conclusion}{39}{section.1.7}
+\contentsline {section}{\numberline {A}The survey form}{43}{section.A.1}
+\contentsline {section}{\numberline {B}Syllabus}{50}{section.A.2}
