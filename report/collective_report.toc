@@ -33,26 +33,26 @@
 \contentsline {subsection}{\numberline {5.4}Case Study -- Contributing to Citizen Science}{24}{subsection.1.5.4}
 \contentsline {subsubsection}{FAQs and Onboarding Documentation}{26}{section*.19}
 \contentsline {subsection}{\numberline {5.5}Community Demographics \& Project History}{27}{subsection.1.5.5}
-\contentsline {subsubsection}{Question about Project Founding Date}{27}{section*.22}
-\contentsline {subsubsection}{Diversity Questions}{27}{section*.23}
+\contentsline {subsubsection}{Project Founding Date}{27}{section*.20}
+\contentsline {subsubsection}{Diversity}{28}{section*.21}
 \contentsline {subsection}{\numberline {5.6}Communication \& Tools}{28}{subsection.1.5.6}
-\contentsline {subsubsection}{Personal Connections}{28}{section*.24}
-\contentsline {subsection}{\numberline {5.7}Organization and Governance}{28}{subsection.1.5.7}
-\contentsline {subsubsection}{Organizations}{28}{section*.25}
-\contentsline {subsubsection}{Visibility of Work in Open Organizations}{29}{section*.26}
-\contentsline {subsubsection}{Regular Community Meetings}{30}{section*.27}
-\contentsline {subsubsection}{Prevalence of the Benevolent Dictatorship Governance Model}{31}{section*.28}
-\contentsline {subsubsection}{Licenses}{32}{section*.29}
-\contentsline {subsection}{\numberline {5.8}Funding Sources, Business Models \& Revenue Streams}{32}{subsection.1.5.8}
-\contentsline {subsubsection}{Effect on License choice}{32}{section*.30}
-\contentsline {subsubsection}{Response Tone and Funding Source}{33}{section*.31}
-\contentsline {subsubsection}{Citizen Science Funding}{33}{section*.32}
-\contentsline {subsubsection}{Individual funding}{34}{section*.33}
+\contentsline {subsubsection}{Personal Connections}{28}{section*.22}
+\contentsline {subsection}{\numberline {5.7}Organization and Governance}{29}{subsection.1.5.7}
+\contentsline {subsubsection}{Organizations}{29}{section*.23}
+\contentsline {subsubsection}{Visibility of Work in Open Organizations}{29}{section*.24}
+\contentsline {subsubsection}{Regular Community Meetings}{31}{section*.25}
+\contentsline {subsubsection}{Prevalence of the Benevolent Dictatorship Governance Model}{31}{section*.26}
+\contentsline {subsubsection}{Licenses}{33}{section*.27}
+\contentsline {subsection}{\numberline {5.8}Funding Sources, Business Models \& Revenue Streams}{33}{subsection.1.5.8}
+\contentsline {subsubsection}{Effect on License choice}{33}{section*.28}
+\contentsline {subsubsection}{Response Tone and Funding Source}{33}{section*.29}
+\contentsline {subsubsection}{Citizen Science Funding}{34}{section*.30}
+\contentsline {subsubsection}{Individual funding}{35}{section*.31}
 \contentsline {section}{\numberline {6}Discussion}{36}{section.1.6}
 \contentsline {subsection}{\numberline {6.1}Limitations}{36}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {6.2}Collaboratively writing a paper}{37}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {6.3}The lack of structure}{37}{subsection.1.6.3}
-\contentsline {subsubsection}{Discussion on Process}{38}{section*.34}
-\contentsline {section}{\numberline {7}Conclusion}{39}{section.1.7}
-\contentsline {section}{\numberline {A}The survey form}{43}{section.A.1}
-\contentsline {section}{\numberline {B}Syllabus}{50}{section.A.2}
+\contentsline {subsection}{\numberline {6.2}Collaboratively Writing a Paper}{37}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {6.3}The Lack of Structure}{38}{subsection.1.6.3}
+\contentsline {subsubsection}{Discussion on the Contribution Process}{39}{section*.32}
+\contentsline {section}{\numberline {7}Conclusion}{40}{section.1.7}
+\contentsline {section}{\numberline {A}The survey form}{44}{section.A.1}
+\contentsline {section}{\numberline {B}Syllabus}{51}{section.A.2}
